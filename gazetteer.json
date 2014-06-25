@@ -76,8 +76,8 @@
     {
         "place_name": "Bangkok",
         "center": [
-            100.466667
-            13.75,
+            100.466667,
+            13.75
         ],
         "tags": [
             "Major cities"
