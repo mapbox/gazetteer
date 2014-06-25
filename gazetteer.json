@@ -1,6 +1,7 @@
 [
     {
         "place_name": "New York City",
+        "zoom": 10,
         "center": [
             -76.165069,
             42.788208
@@ -12,6 +13,7 @@
     },
     {
         "place_name": "Los Angeles",
+        "zoom": 10,
         "center": [
             -118.257226,
             34.031765
@@ -23,6 +25,7 @@
     },
     {
         "place_name": "Chicago",
+        "zoom": 10,
         "center": [
             -87.664248,
             41.82698
@@ -34,6 +37,7 @@
     },
     {
         "place_name": "Houston",
+        "zoom": 10,
         "center": [
             -95.436742,
             29.784969
@@ -45,6 +49,7 @@
     },
     {
         "place_name": "Philadelphia",
+        "zoom": 10,
         "center": [
             -75.13907,
             40.002632
@@ -55,6 +60,7 @@
     },
     {
         "place_name": "San Francisco",
+        "zoom": 10,
         "center": [
             -122.448276,
             37.760548
@@ -65,6 +71,7 @@
     },
     {
         "place_name": "Washington, DC",
+        "zoom": 10,
         "center": [
             -76.992697,
             38.899396
@@ -75,6 +82,7 @@
     },
     {
         "place_name": "Bangkok",
+        "zoom": 10,
         "center": [
             100.466667,
             13.75
@@ -85,6 +93,7 @@
     },
     {
         "place_name": "Beijing",
+        "zoom": 10,
         "center": [
             116.639748,
             40.248852
@@ -95,6 +104,7 @@
     },
     {
         "place_name": "Buenos Aires",
+        "zoom": 10,
         "center": [
             -60.169753,
             -37.251328
@@ -105,6 +115,7 @@
     },
     {
         "place_name": "Cairo",
+        "zoom": 10,
         "center": [
             31.248437,
             30.055871
@@ -115,6 +126,7 @@
     },
     {
         "place_name": "London",
+        "zoom": 10,
         "center": [
             -0.135769,
             51.49998
@@ -125,6 +137,7 @@
     },
     {
         "place_name": "Paris",
+        "zoom": 10,
         "center": [
             2.319985,
             48.858882
