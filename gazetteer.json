@@ -1,0 +1,136 @@
+[
+    {
+        "place_name": "New York City",
+        "center": [
+            -76.165069,
+            42.788208
+        ],
+        "tags": [
+            "Major cities",
+            "US cities"
+        ]
+    },
+    {
+        "place_name": "Los Angeles",
+        "center": [
+            -118.257226,
+            34.031765
+        ],
+        "tags": [
+            "Major cities",
+            "US cities"
+        ]
+    },
+    {
+        "place_name": "Chicago",
+        "center": [
+            -87.664248,
+            41.82698
+        ],
+        "tags": [
+            "Major cities",
+            "US cities"
+        ]
+    },
+    {
+        "place_name": "Houston",
+        "center": [
+            -95.436742,
+            29.784969
+        ],
+        "tags": [
+            "Major cities",
+            "US cities"
+        ]
+    },
+    {
+        "place_name": "Philadelphia",
+        "center": [
+            -75.13907,
+            40.002632
+        ],
+        "tags": [
+            "US cities"
+        ]
+    },
+    {
+        "place_name": "San Francisco",
+        "center": [
+            -122.448276,
+            37.760548
+        ],
+        "tags": [
+            "US cities"
+        ]
+    },
+    {
+        "place_name": "Washington, DC",
+        "center": [
+            -76.992697,
+            38.899396
+        ],
+        "tags": [
+            "US cities"
+        ]
+    },
+    {
+        "place_name": "Bangkok",
+        "center": [
+            100.466667
+            13.75,
+        ],
+        "tags": [
+            "Major cities"
+        ]
+    },
+    {
+        "place_name": "Beijing",
+        "center": [
+            116.639748,
+            40.248852
+        ],
+        "tags": [
+            "Major cities"
+        ]
+    },
+    {
+        "place_name": "Buenos Aires",
+        "center": [
+            -60.169753,
+            -37.251328
+        ],
+        "tags": [
+            "Major cities"
+        ]
+    },
+    {
+        "place_name": "Cairo",
+        "center": [
+            31.248437,
+            30.055871
+        ],
+        "tags": [
+            "Major cities"
+        ]
+    },
+    {
+        "place_name": "London",
+        "center": [
+            -0.135769,
+            51.49998
+        ],
+        "tags": [
+            "Major cities"
+        ]
+    },
+    {
+        "place_name": "Paris",
+        "center": [
+            2.319985,
+            48.858882
+        ],
+        "tags": [
+            "Major cities"
+        ]
+    }
+]
