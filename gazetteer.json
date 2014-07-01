@@ -145,6 +145,84 @@
         "tags": [
             "Major cities"
         ]
+    },
+    {
+        "place_name": "Gate, Disney World Florida",
+        "zoom": 17,
+        "center": [
+            28.40173,
+            -441.57833
+        ],
+        "tags": [
+            "osm data"
+            "gate",
+            "barrer_line",
+        ]
+    },
+    {
+        "place_name": "Fence, Arlington National Cemetery",
+        "zoom": 16,
+        "center": [
+            38.8760,
+            -77.0655
+        ],
+        "tags": [
+            "osm data"
+            "fence",
+            "barrer_line",
+        ]
+    },
+    {
+        "place_name": "Hedge, Hirshorn Sculpture Garden",
+        "zoom": 20,
+        "center": [
+            38.88904,
+            -77.02289
+        ],
+        "tags": [
+            "osm data"
+            "hedge",
+            "barrer_line",
+        ]
+    },
+    {
+        "place_name": "Land barrier, North coastline of San Francisco",
+        "zoom": 15,
+        "center": [
+            37.8092,
+            -122.4206
+        ],
+        "tags": [
+            "osm data"
+            "land",
+            "barrer_line",
+        ]
+    },
+    {
+        "place_name": "Cliff, St. George, Utah",
+        "zoom": 14,
+        "center": [
+            37.1006,
+            -113.5764
+        ],
+        "tags": [
+            "osm data"
+            "cliff",
+            "barrer_line",
+        ]
+    },
+    {
+        "place_name": "Cliff, Étretat",
+        "zoom": 14,
+        "center": [
+            49.7066,
+            0.2071
+        ],
+        "tags": [
+            "osm data"
+            "cliff",
+            "barrer_line",
+        ]
     }
 ]
 
