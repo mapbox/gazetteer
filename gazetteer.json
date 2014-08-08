@@ -154,7 +154,7 @@
             -441.57833
         ],
         "tags": [
-            "osm data"
+            "osm data",
             "gate",
             "barrer_line",
         ]
@@ -167,7 +167,7 @@
             -77.0655
         ],
         "tags": [
-            "osm data"
+            "osm data",
             "fence",
             "barrer_line",
         ]
@@ -180,7 +180,7 @@
             -77.02289
         ],
         "tags": [
-            "osm data"
+            "osm data",
             "hedge",
             "barrer_line",
         ]
@@ -193,7 +193,7 @@
             -122.4206
         ],
         "tags": [
-            "osm data"
+            "osm data",
             "land",
             "barrer_line",
         ]
@@ -206,23 +206,209 @@
             -113.5764
         ],
         "tags": [
-            "osm data"
+            "osm data",
             "cliff",
             "barrer_line",
         ]
     },
     {
-        "place_name": "Cliff, Étretat",
+        "place_name": "Cliff, Étretat, France",
         "zoom": 14,
         "center": [
             49.7066,
             0.2071
         ],
         "tags": [
-            "osm data"
+            "osm data",
             "cliff",
             "barrer_line",
         ]
-    }
+    },
+    {
+        "place_name": "Wetland, Mai Po Nature Reserve, Hong Kong",
+        "zoom": 15,
+        "center": [
+            22.4923,
+            114.0259
+        ],
+        "tags": [
+            "osm data",
+            "landuse_overlay",
+            "wetland",
+            "wetland_noveg"
+            "estuary",
+            "marsh"
+        ]
+    },
+    {
+        "place_name": "Agriculture, West Des Moines, Iowa",
+        "zoom": 12,
+        "center": [
+            41.5817,
+            -453.7867
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "agriculture",
+            "farm"
+        ]
+    },
+    {
+        "place_name": "Cemetery, Arlington National Cemetery",
+        "zoom": 15,
+        "center": [
+            38.8782,
+            -437.0699
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "cemetery",
+            "National Register of Historic Places"
+        ]
+    },
+    {
+        "place_name": "Glacier, Hubbard Glacier",
+        "zoom": 9,
+        "center": [
+            60.0559,
+            -499.2778
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "glacier"
+        ]
+    },
+    {
+        "place_name": "Park, Yosemite National Park",
+        "zoom": 10,
+        "center": [
+            37.7789,
+            -479.4743
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "park"
+        ]
+    },
+    {
+        "place_name": "Park, Central Park",
+        "zoom": 14,
+        "center": [
+            40.7826,
+            -433.9643
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "park"
+        ]
+    },
+    {
+        "place_name": "Pitch, Olympic Stadium, London",
+        "zoom": 17,
+        "center": [
+            51.53853,
+            -360.01630
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "pitch"
+        ]
+    },
+    {
+        "place_name": "Pitch, Yankee Stadium and Macombs Dam Park",
+        "zoom": 17,
+        "center": [
+            40.82825,
+            -433.92751
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "pitch",
+            "park"
+        ]
+    },
+    {
+        "place_name": "Rock, Delabole Slate Quarry, England",
+        "zoom": 16,
+        "center": [
+            50.6228,
+            -364.7212
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "rock",
+            "quarry",
+            "satellite"
+        ]
+    },
+    {
+        "place_name": "Sand, Flamenco Beach, Puerto Rico",
+        "zoom": 17,
+        "center": [
+            18.32921,
+            -65.31685
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "sand",
+            "beach"
+        ]
+    },
+    {
+        "place_name": "Sand, Virginia Beach",
+        "zoom": 13,
+        "center": [
+            36.8514,
+            -75.9805
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "sand",
+            "beach"
+        ]
+    },
+    {
+        "place_name": "Sand, Dune of Pilat, France",
+        "zoom": 14,
+        "center": [
+            44.5886,
+            -1.2080
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "sand",
+            "dune",
+            "satellite"
+        ]
+    },
+    {
+        "place_name": "Sand, Palm Jumeirah, Dubai",
+        "zoom": 14,
+        "center": [
+            25.1174,
+            55.1391
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "sand",
+            "man-made",
+            "reclaimed land",
+            "archipelago",
+            "satellite" 
+        ]
+    },         
+
 ]
 
