@@ -1,0 +1,20 @@
+{
+  "name": "Gazetteer",
+  "version": "0.0.1",
+  "description": "Noteworthy places",
+  "main": "./gazetteer.json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mapbox/gazetteer.git"
+  },
+  "keywords": [
+    "reference",
+    "locations"
+  ],
+  "author": "Mapbox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapbox/gazetteer/issues"
+  },
+  "homepage": "https://github.com/mapbox/gazetteer"
+}
