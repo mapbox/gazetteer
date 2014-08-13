@@ -156,7 +156,7 @@
         "tags": [
             "osm data",
             "gate",
-            "barrer_line",
+            "barrer_line"
         ]
     },
     {
@@ -169,7 +169,7 @@
         "tags": [
             "osm data",
             "fence",
-            "barrer_line",
+            "barrer_line"
         ]
     },
     {
@@ -182,7 +182,7 @@
         "tags": [
             "osm data",
             "hedge",
-            "barrer_line",
+            "barrer_line"
         ]
     },
     {
@@ -195,7 +195,7 @@
         "tags": [
             "osm data",
             "land",
-            "barrer_line",
+            "barrer_line"
         ]
     },
     {
@@ -208,7 +208,7 @@
         "tags": [
             "osm data",
             "cliff",
-            "barrer_line",
+            "barrer_line"
         ]
     },
     {
@@ -221,7 +221,7 @@
         "tags": [
             "osm data",
             "cliff",
-            "barrer_line",
+            "barrer_line"
         ]
     },
     {
@@ -235,7 +235,7 @@
             "osm data",
             "landuse_overlay",
             "wetland",
-            "wetland_noveg"
+            "wetland_noveg",
             "estuary",
             "marsh"
         ]
@@ -577,7 +577,7 @@
         "tags": [
             "landuse",
             "elevation",
-            "natural",
+            "natural"
         ]
     },
     {
@@ -590,7 +590,7 @@
         "tags": [
             "landuse",
             "elevation",
-            "natural",
+            "natural"
         ]
     },
     {
@@ -603,7 +603,7 @@
         "tags": [
             "landuse",
             "elevation",
-            "natural",
+            "natural"
         ]
     },
     {
@@ -616,7 +616,7 @@
         "tags": [
             "landuse",
             "elevation",
-            "natural",
+            "natural"
         ]
     },
     {
@@ -629,7 +629,7 @@
         "tags": [
             "landuse",
             "elevation",
-            "natural",
+            "natural"
         ]
     },
     {
@@ -642,7 +642,7 @@
         "tags": [
             "landuse",
             "elevation",
-            "natural",
+            "natural"
         ]
     },
     {
@@ -655,7 +655,7 @@
         "tags": [
             "landuse",
             "elevation",
-            "natural",
+            "natural"
         ]
     },
     {
@@ -670,7 +670,7 @@
             "landuse",
             "piste",
             "elevation",
-            "natural",
+            "natural"
         ]
     },
     {
@@ -684,7 +684,7 @@
             "osm data",
             "landuse",
             "elevation",
-            "natural",
+            "natural"
         ]
     }
 ]
