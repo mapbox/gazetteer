@@ -255,6 +255,37 @@
         ]
     },
     {
+        "place_name": "Agriculture, Fresno County, CA",
+        "zoom": 10,
+        "center": [
+            36.5262,
+            -840.0902
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "agriculture",
+            "farm",
+            "satellite"
+        ]
+    },    
+    {
+        "place_name": "Agriculture, Al Jawf, Libya",
+        "zoom": 12,
+        "center": [
+            24.1511,
+            23.4728
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "agriculture",
+            "farm",
+            "crop circle",
+            "satellite"
+        ]
+    },    
+    {
         "place_name": "Cemetery, Arlington National Cemetery",
         "zoom": 15,
         "center": [
@@ -407,6 +438,20 @@
             "reclaimed land",
             "archipelago",
             "satellite"
+        ]
+    },
+    {
+        "place_name": "Wood, New Brunswick, Canada",
+        "zoom": 10,
+        "center": [
+            46.6117,
+            -786.3780
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "wood",
+            "forest"
         ]
     },
     {
