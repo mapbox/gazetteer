@@ -329,17 +329,31 @@
         ]
     },
     {
-        "place_name": "Hartsfield Jackson Atlanta International Airport",
-        "zoom": 9,
+        "place_name": "Chris Hani Baragwanath Hospital",
+        "zoom": 16,
         "center": [
-            60.0559,
-            -499.2778
+            -26.2628,
+            27.9388
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "hospital",
+            "poi_label, scalerank 1"
+        ]
+    },
+    {
+        "place_name": "Hartsfield Jackson Atlanta International Airport",
+        "zoom": 14,
+        "center": [
+            33.6357,
+            -84.4302
         ],
         "tags": [
             "osm data",
             "landuse",
             "industrial",
-            "poi",
+            "poi_label, scalerank 1",
             "airport"
         ]
     },
@@ -524,6 +538,37 @@
             "reclaimed land",
             "archipelago",
             "satellite"
+        ]
+    },
+    {
+        "place_name": "University of Oxford",
+        "zoom": 15,
+        "center": [
+            51.7560,
+            -1.2548
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "school",
+            "park",
+            "United Kingdom"
+        ]
+    },
+    {
+        "place_name": "Hospital of the University of Pennsylvania",
+        "zoom": 17,
+        "center": [
+            39.9496,
+            -75.1936
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "hospital",
+            "school",
+            "park",
+            "Philadelphia"
         ]
     },
     {
