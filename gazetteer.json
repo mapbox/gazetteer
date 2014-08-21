@@ -286,6 +286,22 @@
         ]
     },    
     {
+        "place_name": "Agriculture and wood, Albany, Georgia",
+        "zoom": 10,
+        "center": [
+            31.5516,
+            -84.1443
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "agriculture",
+            "farm",
+            "wood",
+            "satellite"
+        ]
+    },    
+    {
         "place_name": "Cemetery, Arlington National Cemetery",
         "zoom": 15,
         "center": [
@@ -313,6 +329,21 @@
         ]
     },
     {
+        "place_name": "Hartsfield Jackson Atlanta International Airport",
+        "zoom": 9,
+        "center": [
+            60.0559,
+            -499.2778
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "industrial",
+            "poi",
+            "airport"
+        ]
+    },
+    {
         "place_name": "Park, Yosemite National Park",
         "zoom": 10,
         "center": [
@@ -336,6 +367,61 @@
             "osm data",
             "landuse",
             "park"
+        ]
+    },
+    {
+        "place_name": "Park, San Benito Mountain Natural Area",
+        "zoom": 12,
+        "center": [
+            36.3724,
+            -120.6577
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "park",
+            "wood",
+            "scrub",
+            "grass",
+            "California",
+            "Coalinga"
+        ]
+    },
+    {
+        "place_name": "Park, Antelope Valley California Poppy Preserve",
+        "zoom": 13,
+        "center": [
+            34.7316,
+            -118.3847
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "park",
+            "grass",
+            "grasslands",
+            "agriculture",
+            "farm",
+            "California"
+        ]
+    },
+    {
+        "place_name": "Park, Brecon Beacons National Park",
+        "zoom": 13,
+        "center": [
+            34.7316,
+            -118.3847
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "park",
+            "scrub",
+            "farm",
+            "barrier",
+            "cliff",
+            "Wales",
+            "United Kingdom"
         ]
     },
     {
