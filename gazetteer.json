@@ -1,54 +1,58 @@
 [
     {
-        "place_name": "New York City",
+        "place_name": "New York City, United States",
         "zoom": 10,
         "center": [
             40.7298,
             -73.9933
         ],
         "tags": [
-            "Major cities",
-            "US cities"
+            "major cities",
+            "US cities",
+            "city, scalerank 0"
         ]
     },
     {
-        "place_name": "Los Angeles",
+        "place_name": "Los Angeles, United States",
         "zoom": 10,
         "center": [
             34.031765,
             -118.257226
         ],
         "tags": [
-            "Major cities",
-            "US cities"
+            "major cities",
+            "US cities",
+            "city, scalerank 0"
         ]
     },
     {
-        "place_name": "Chicago",
+        "place_name": "Chicago, United States",
         "zoom": 10,
         "center": [
             41.82698,
             -87.664248
         ],
         "tags": [
-            "Major cities",
-            "US cities"
+            "major cities",
+            "US cities",
+            "city, scalerank 1"
         ]
     },
     {
-        "place_name": "Houston",
+        "place_name": "Houston, United States",
         "zoom": 10,
         "center": [
             29.784969,
             -95.436742
         ],
         "tags": [
-            "Major cities",
-            "US cities"
+            "major cities",
+            "US cities",
+            "city, scalerank 1"
         ]
     },
     {
-        "place_name": "Philadelphia",
+        "place_name": "Philadelphia, United States",
         "zoom": 10,
         "center": [
             40.002632,
@@ -59,91 +63,406 @@
         ]
     },
     {
-        "place_name": "San Francisco",
+        "place_name": "San Francisco, United States",
         "zoom": 10,
         "center": [
             37.760548,
             -122.448276
         ],
         "tags": [
-            "US cities"
+            "US cities",
+            "city, scalerank 2"
         ]
     },
     {
-        "place_name": "Washington, DC",
+        "place_name": "Washington, DC, United States",
         "zoom": 10,
         "center": [
             38.899396,
             -76.992697
         ],
         "tags": [
-            "US cities"
+            "US cities",
+            "national capital",
+            "city, scalerank 0"
         ]
     },
     {
-        "place_name": "Bangkok",
+        "place_name": "Bangkok, Thailand",
         "zoom": 10,
         "center": [
             13.75,
             100.466667
         ],
         "tags": [
-            "Major cities"
+            "major cities",
+            "national capital",
+            "city, scalerank 1"
         ]
     },
     {
-        "place_name": "Beijing",
+        "place_name": "Beijing, China",
         "zoom": 10,
         "center": [
-            40.248852,
-            116.639748
+            39.8834,
+            116.3727
         ],
         "tags": [
-            "Major cities"
+            "major cities",
+            "national capital"
         ]
     },
     {
-        "place_name": "Buenos Aires",
+        "place_name": "Buenos Aires, Argentina",
         "zoom": 10,
         "center": [
             -34.6033,
             -58.3817
         ],
         "tags": [
-            "Major cities"
+            "major cities",
+            "national capital",
+            "city, scalerank 0"
         ]
     },
     {
-        "place_name": "Cairo",
+        "place_name": "Bogota, Colombia",
         "zoom": 10,
         "center": [
-            31.248437,
-            30.055871
+            4.6038,
+            -74.0980
         ],
         "tags": [
-            "Major cities"
+            "major cities",
+            "city, scalerank 0"
         ]
     },
     {
-        "place_name": "London",
+        "place_name": "Cairo, Egypt",
+        "zoom": 10,
+        "center": [
+            30.0596,
+            31.2657
+        ],
+        "tags": [
+            "major cities",
+            "national capital",
+            "city, scalerank 0"
+        ]
+    },
+    {
+        "place_name": "Delhi, India",
+        "zoom": 10,
+        "center": [
+            28.5821,
+            77.2044
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 2"
+        ]
+    },
+    {
+        "place_name": "Dhaka, Bangladesh",
+        "zoom": 10,
+        "center": [
+            23.7464,
+            90.4031
+        ],
+        "tags": [
+            "major cities",
+            "national capital",
+            "city, scalerank 2"
+        ]
+    },
+    {
+        "place_name": "Guangzhou, China",
+        "zoom": 10,
+        "center": [
+            23.1063,
+            113.2793
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 2"
+        ]
+    },
+    {
+        "place_name": "Istanbul, Turkey",
+        "zoom": 10,
+        "center": [
+            41.0234,
+            28.9867
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 2"
+        ]
+    },
+    {
+        "place_name": "Jakarta, Indonesia",
+        "zoom": 10,
+        "center": [
+            -6.2511,
+            106.8427
+        ],
+        "tags": [
+            "major cities",
+            "national capital",
+            "city, scalerank 0"
+        ]
+    },    
+    {
+        "place_name": "Karachi, Pakistan",
+        "zoom": 10,
+        "center": [
+            24.8777,
+            67.0049
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 2"
+        ]
+    },    
+    {
+        "place_name": "Kinshasa, Democratic Republic of the Congo",
+        "zoom": 10,
+        "center": [
+            -4.3957,
+            15.2978
+        ],
+        "tags": [
+            "major cities",
+            "national capital",
+            "city, scalerank 1"
+        ]
+    },    
+    {
+        "place_name": "Kolkata, India",
+        "zoom": 10,
+        "center": [
+            22.5734,
+            88.3514
+        ],
+        "tags": [
+            "major cities",
+            "state capital",
+            "city, scalerank 0"
+        ]
+    },    
+    {
+        "place_name": "Lagos, Nigeria",
+        "zoom": 10,
+        "center": [
+            6.4968,
+            3.3598
+        ],
+        "tags": [
+            "major cities",
+            "state capital",
+            "city, scalerank 0"
+        ]
+    },    
+    {
+        "place_name": "Lahore, Pakistan",
+        "zoom": 10,
+        "center": [
+            31.4468,
+            74.3033
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 2"
+        ]
+    },    
+    {
+        "place_name": "London, United Kingdom",
         "zoom": 10,
         "center": [
             51.49998,
             -0.135769
         ],
         "tags": [
-            "Major cities"
+            "major cities",
+            "national capital",
+            "city, scalerank 0"
         ]
     },
     {
-        "place_name": "Paris",
+        "place_name": "Manila, Philippines",
+        "zoom": 10,
+        "center": [
+            14.5650,
+            120.9732
+        ],
+        "tags": [
+            "major cities",
+            "national capital",
+            "city, scalerank 1"
+        ]
+    },
+    {
+        "place_name": "Mexico City, Mexico",
+        "zoom": 10,
+        "center": [
+            19.3665,
+            -99.1437
+        ],
+        "tags": [
+            "major cities",
+            "national capital",
+            "city, scalerank 0"
+        ]
+    },
+    {
+        "place_name": "Moscow, Russia",
+        "zoom": 10,
+        "center": [
+            55.7426,
+            37.6144
+        ],
+        "tags": [
+            "major cities",
+            "national capital",
+            "city, scalerank 0"
+        ]
+    },
+    {
+        "place_name": "Mumbai, India",
+        "zoom": 10,
+        "center": [
+            18.9712,
+            72.9080
+        ],
+        "tags": [
+            "major cities",
+            "state capital",
+            "city, scalerank 0"
+        ]
+    },
+    {
+        "place_name": "Osaka, Japan",
+        "zoom": 10,
+        "center": [
+            34.6367,
+            135.4000
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 1"
+        ]
+    },    
+    {
+        "place_name": "Paris, France",
         "zoom": 10,
         "center": [
             48.858882,
             2.319985
         ],
         "tags": [
-            "Major cities"
+            "major cities",
+            "national capital",
+            "city, scalerank 0"
+        ]
+    },
+    {
+        "place_name": "Rio de Janeiro, Brazil",
+        "zoom": 10,
+        "center": [
+            -22.9508,
+            -43.2175
+        ],
+        "tags": [
+            "major cities",
+            "state capital",
+            "city, scalerank 0"
+        ]
+    },
+    {
+        "place_name": "São Paulo, Brazil",
+        "zoom": 10,
+        "center": [
+            -23.6395,
+            -46.6521
+        ],
+        "tags": [
+            "major cities",
+            "state capital",
+            "city, scalerank 0"
+        ]
+    },
+    {
+        "place_name": "Seoul, South Korea",
+        "zoom": 10,
+        "center": [
+            37.5598,
+            126.9662
+        ],
+        "tags": [
+            "major cities",
+            "national capital",
+            "city, scalerank 1"
+        ]
+    },
+    {
+        "place_name": "Shenzhen, China",
+        "zoom": 10,
+        "center": [
+            22.5164,
+            114.0559
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 2"
+        ]
+    },
+    {
+        "place_name": "Shanghai, China",
+        "zoom": 10,
+        "center": [
+            31.2210,
+            121.4442
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 0"
+        ]
+    },
+    {
+        "place_name": "Tokyo, Japan",
+        "zoom": 10,
+        "center": [
+            31.2210,
+            121.4442
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 2"
+        ]
+    },
+    {
+        "place_name": "Tianjin, China",
+        "zoom": 10,
+        "center": [
+            31.2210,
+            121.4442
+        ],
+        "tags": [
+            "major cities",
+            "city, scalerank 2"
+        ]
+    },
+    {
+        "place_name": "Tokyo, Japan",
+        "zoom": 10,
+        "center": [
+            35.7116,
+            139.7266
+        ],
+        "tags": [
+            "major cities",
+            "regional capital",
+            "city, scalerank 0"
         ]
     },
     {
@@ -160,7 +479,7 @@
         ]
     },
     {
-        "place_name": "Fence, Arlington National Cemetery",
+        "place_name": "Fence, Arlington national Cemetery",
         "zoom": 16,
         "center": [
             38.8760,
@@ -302,7 +621,7 @@
         ]
     },    
     {
-        "place_name": "Cemetery, Arlington National Cemetery",
+        "place_name": "Cemetery, Arlington national Cemetery",
         "zoom": 15,
         "center": [
             38.8782,
@@ -312,7 +631,7 @@
             "osm data",
             "landuse",
             "cemetery",
-            "National Register of Historic Places"
+            "national Register of Historic Places"
         ]
     },
     {
@@ -358,7 +677,7 @@
         ]
     },
     {
-        "place_name": "Park, Yosemite National Park",
+        "place_name": "Park, Yosemite national Park",
         "zoom": 10,
         "center": [
             37.7789,
@@ -420,11 +739,11 @@
         ]
     },
     {
-        "place_name": "Park, Brecon Beacons National Park",
+        "place_name": "Park, Brecon Beacons national Park",
         "zoom": 13,
         "center": [
-            34.7316,
-            -118.3847
+            51.8800,
+            -3.4681
         ],
         "tags": [
             "osm data",
@@ -553,6 +872,26 @@
             "school",
             "park",
             "United Kingdom"
+        ]
+    },
+    {
+        "place_name": "Rutgers, The State University of New Jersey",
+        "zoom": 13,
+        "center": [
+            40.5000,
+            -74.4461
+        ],
+        "tags": [
+            "osm data",
+            "landuse",
+            "school",
+            "wood",
+            "scrub",
+            "park",
+            "pitch",
+            "parking",
+            "landuse_overlay",
+            "wetland"
         ]
     },
     {
@@ -766,7 +1105,7 @@
         ]
     },
     {
-        "place_name": "Glacier National Park, Canada",
+        "place_name": "Glacier national Park, Canada",
         "zoom": 12,
         "center": [
             51.2060,
