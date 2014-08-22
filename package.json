@@ -2,7 +2,7 @@
   "name": "gazetteer",
   "version": "0.0.1",
   "description": "Noteworthy places",
-  "main": "./gazetteer.json",
+  "main": "gazetteer.json",
   "repository": {
     "type": "git",
     "url": "git://github.com/mapbox/gazetteer.git"
