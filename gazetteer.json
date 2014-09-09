@@ -429,23 +429,11 @@
         ]
     },
     {
-        "place_name": "Tokyo, Japan",
-        "zoom": 10,
-        "center": [
-            31.2210,
-            121.4442
-        ],
-        "tags": [
-            "major cities",
-            "city, scalerank 2"
-        ]
-    },
-    {
         "place_name": "Tianjin, China",
         "zoom": 10,
         "center": [
-            31.2210,
-            121.4442
+            39.0752,
+            117.1609
         ],
         "tags": [
             "major cities",
@@ -631,7 +619,7 @@
             "osm data",
             "landuse",
             "cemetery",
-            "national Register of Historic Places"
+            "National Register of Historic Places"
         ]
     },
     {
