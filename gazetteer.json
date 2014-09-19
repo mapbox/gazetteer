@@ -921,8 +921,12 @@
         ],
         "tags": [
             "osm data",
-            "motorway_link",
-            "road"
+            "road, motorway",
+            "road, motorway_link",
+            "road, main",
+            "bridge, motorway_link",
+            "bridge, main",
+            "bridge, street_limited"
         ]
     },
     {
@@ -934,12 +938,16 @@
         ],
         "tags": [
             "osm data",
-            "motorway_link",
-            "road"
+            "road, motorway",
+            "road, motorway_link",
+            "road, main",
+            "bridge, motorway",
+            "bridge, motorway_link",
+            "bridge, main"
         ]
     },
     {
-        "place_name": "Roads over park, San Francisco",
+        "place_name": "Roads in Presidio, San Francisco",
         "zoom": 16,
         "center": [
             37.7994,
@@ -947,93 +955,14 @@
         ],
         "tags": [
             "osm data",
-            "park",
-            "path",
-            "street",
-            "footway",
-            "road",
-            "residential"
-        ]
-    },
-    {
-        "place_name": "Tunnel under park, Washington, DC",
-        "zoom": 19,
-        "center": [
-            38.9057,
-            -77.0319
-        ],
-        "tags": [
-            "osm data",
-            "tunnel",
-            "park",
-            "footway",
-            "road",
-            "residential"
-        ]
-    },
-    {
-        "place_name": "Bridge with footways, Washington, DC",
-        "zoom": 17,
-        "center": [
-            38.9023,
-            -77.0690
-        ],
-        "tags": [
-            "osm data",
-            "bridge",
-            "footway",
-            "road",
-            "residential"
-        ]
-    },
-    {
-        "place_name": "Residential road variety, Washington, DC",
-        "zoom": 19,
-        "center": [
-            38.9126,
-            -77.0210
-        ],
-        "tags": [
-            "osm data",
-            "main",
-            "service",
-            "road",
-            "street",
-            "residential"
-        ]
-    },
-    {
-        "place_name": "Motorway road variety, New York City",
-        "zoom": 13,
-        "center": [
-            40.6971,
-            -73.9758
-        ],
-        "tags": [
-            "osm data",
-            "motorway",
-            "main",
-            "road",
-            "tunnel",
-            "bridge",
-            "residential"
-        ]
-    },
-    {
-        "place_name": "Traditional city streets, Sevilla",
-        "zoom": 19,
-        "center": [
-            37.3906,
-            -5.9939
-        ],
-        "tags": [
-            "osm data",
-            "street limited",
-            "main",
-            "street",
-            "path",
-            "road",
-            "residential"
+            "landuse, park",
+            "buildings"
+            "road, main",
+            "road, street, residential",
+            "road, street_limited",
+            "road, path, footway",
+            "tunnel, street_limited",
+            "bridge, street_limited"
         ]
     },
     {
@@ -1045,12 +974,12 @@
         ],
         "tags": [
             "osm data",
-            "motorway",
-            "tunnel",
-            "street",
-            "main",
-            "road",
-            "residential"
+            "road, motorway",
+            "road, main",
+            "road, street",
+            "road, path, footway",
+            "tunnel, motorway",
+            "bridge, motorway"
         ]
     },
     {
