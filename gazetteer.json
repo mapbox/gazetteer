@@ -622,7 +622,7 @@
         ]
     },    
     {
-        "place_name": "Cemetery, Arlington national Cemetery",
+        "place_name": "Cemetery, Arlington National Cemetery",
         "zoom": 15,
         "center": [
             38.8782,
@@ -1051,7 +1051,7 @@
         ]
     },
     {
-        "place_name": "City grid, Roman Forum",
+        "place_name": "Roman Forum",
         "zoom": 17,
         "center": [
             41.8897,
@@ -1063,11 +1063,13 @@
             "road, path, steps",
             "road, street_limited",
             "pedestrian",
-            "city grid"
+            "city grid",
             "landuse",
             "grass",
             "wood",
-            "building"
+            "building",
+            "poi_label, scalerank 1",
+            "poi_label, attraction",
         ]
     },
     {
@@ -1199,7 +1201,7 @@
         ]
     },
     {
-        "place_name": "Highway Interchange, Chicago",
+        "place_name": "Highway interchange, Chicago",
         "zoom": 17,
         "center": [
             41.8755,
@@ -1216,7 +1218,7 @@
         ]
     },
     {
-        "place_name": "Highway Interchange, Los Angeles",
+        "place_name": "Highway interchange, Los Angeles",
         "zoom": 15,
         "center": [
             34.0316,
@@ -1273,13 +1275,347 @@
         "zoom": 14,
         "center": [
             14.8683,
-            120.5763 
+            120.5763
         ],
         "tags": [
             "osm data",
             "road, path",
             "water",
             "fish pond"
+        ]
+    },
+    {
+        "place_name": "Highway interchange, South Boston",
+        "zoom": 17,
+        "center": [
+            42.3468,
+            -71.0592
+        ],
+        "tags": [
+            "osm data",
+            "road, motorway",
+            "road, motorway_link",
+            "tunnel, motorway",
+            "tunnel, motorway_link",
+            "bridge, motorway",
+            "bridge, motorway_link",
+            "road, main",
+            "bridge, main",
+            "road, major_rail",
+            "road, service",
+            "bridge, service"
+        ]
+    },
+    {
+        "place_name": "Roads at Rose Quarter, Portland",
+        "zoom": 17,
+        "center": [
+            45.5297,
+            -122.6672
+        ],
+        "tags": [
+            "osm data",
+            "road, motorway",
+            "road, motorway_link",
+            "bridge, motorway",
+            "bridge, motorway_link",
+            "road, main",
+            "bridge, main",
+            "bridge, path",
+            "bridge, path, footway",
+            "road, path, steps",
+            "road, street_limited",
+            "road, minor_rail",
+            "bridge, minor_rail",
+            "poi_label, scalerank 3",
+            "poi_label, stadium"
+        ]
+    },
+    {
+        "place_name": "PATH, Downtown Toronto",
+        "description": "http://wikipedia.org/wiki/PATH_(Toronto)",
+        "zoom": 17,
+        "center": [
+            43.6538,
+            -79.3804
+        ],
+        "tags": [
+            "osm data",
+            "road, path, footway",
+            "tunnel, path, footway",
+            "road, main",
+            "pedestrian"
+        ]
+    },
+    {
+        "place_name": "Tuileries Garden and the Lourve",
+        "zoom": 16,
+        "center": [
+            48.8626,
+            2.3302
+        ],
+        "tags": [
+            "osm data",
+            "road, street_limited",
+            "pedestrian",
+            "poi_label, scalerank 1",
+            "poi_label, park",
+            "poi_label, museum"
+        ]
+    },
+    {
+        "place_name": "Epcot Center, Disney World, Florida",
+        "zoom": 16,
+        "center": [
+            28.3720,
+            -81.5501
+        ],
+        "tags": [
+            "osm data", 
+            "road, street_limited",
+            "road, driveway",
+            "bridge, driveway",
+            "road, minor_rail",
+            "bridge, minor_rail",
+            "pedestrian",
+            "poi_label, scalerank 1",
+            "poi_label, theme park",
+            "water",
+            "water_label"
+        ]
+    },
+    {
+        "place_name": "Lærdal Tunnel, Sogn og Fjordane",
+        "description": "http://wikipedia.org/wiki/L%C3%A6rdal_Tunnel",
+        "zoom": 12,
+        "center": [
+            60.9856,
+            7.4010
+        ],
+        "tags": [
+            "osm data",
+            "tunnel, main"
+        ]
+    },
+    {
+        "place_name": "Whistler Blackcomb",
+        "description": "http://wikipedia.org/wiki/Whistler_Blackcomb",
+        "zoom": 14,
+        "center": [
+            50.1101,
+            -122.9240
+        ],
+        "tags": [
+            "osm data",
+            "road, path, piste",
+            "bridge, aerialway",
+            "ski"
+        ]
+    },
+    {
+        "place_name": "Mannheim Hauptbahnhof",
+        "description": "http://wikipedia.org/wiki/Mannheim_Hauptbahnhof",
+        "zoom": 18,
+        "center": [
+            49.4791,
+            8.4692
+        ],
+        "tags": [
+            "osm data",
+            "tunnel, path, steps",
+            "tunnel, path, footway",
+            "tunnel, street",
+            "road, major_rail",
+            "poi_label, scalerank 1"
+            "poi_label, railway station",
+        ]
+    },
+    {
+        "place_name": "Philadelphia 30th Street Station",
+        "description": "http://wikipedia.org/wiki/30th_Street_Station",
+        "zoom": 17,
+        "center": [
+            39.9559,
+            -75.1820
+        ],
+        "tags": [
+            "osm data",
+            "bridge, major_rail",
+            "tunnel, major_rail",
+            "road, major_rail",
+            "tunnel, minor_rail",
+            "road, minor_rail",
+            "poi_label, scalerank 1"
+            "poi_label, railway station",
+            "National Register of Historic Places"
+        ]
+    },
+    {
+        "place_name": "Cycleway over Autovía del Este, Madrid, Spain",
+        "zoom": 18,
+        "center": [
+            40.3593,
+            -3.5622
+        ],
+        "tags": [
+            "osm data",
+            "bridge, path, cycleway",
+            "road, motorway"
+        ]
+    },
+    {
+        "place_name": "Port of Antwerp",
+        "description": "http://wikipedia.org/wiki/Port_of_Antwerp",
+        "zoom": 13,
+        "center": [
+            51.2750,
+            4.3590
+        ],
+        "tags": [
+            "osm data",
+            "road, major_rail",
+            "road, minor_rail"
+        ]
+    },
+    {
+        "place_name": "Trails in Mount Rainier National Park",
+        "zoom": 17,
+        "center": [
+            46.7874,
+            -121.7366
+        ],
+        "tags": [
+            "osm data",
+            "road, path, hiking",
+            "road, path, trail",
+            "waterway, stream",
+            "waterway_label, stream",
+            "landuse, park"
+        ]
+    },
+    {
+        "place_name": "Ponte Vecchio, Florence",
+        "description": "http://wikipedia.org/wiki/Ponte_Vecchio",
+        "zoom": 19,
+        "center": [
+            43.7679,
+            11.2531
+        ],
+        "tags": [
+            "osm data",
+            "bridge, street_limited",
+            "road, street_limited",
+            "waterway_label, river"
+        ]
+    },
+    {
+        "place_name": "Rialto Bridge, Venice",
+        "description": "http://wikipedia.org/wiki/Rialto_Bridge",
+        "zoom": 20,
+        "center": [
+            45.4381,
+            12.3359
+        ],
+        "tags": [
+            "osm data",
+            "bridge, path, steps",
+            "road, street_limited",
+            "bridge, street_limited",
+            "tunnel, street_limited",
+            "waterway_label, canal"
+        ]
+    },
+    {
+        "place_name": "Norwalk Tunnel, Elroy-Sparta State Trail",
+        "description": "http://wikipedia.org/wiki/Elroy-Sparta_State_Trail",
+        "zoom": 15,
+        "center": [
+            43.8625,
+            -90.6670
+        ],
+        "tags": [
+            "osm data",
+            "tunnel_path",
+            "rail trail"
+        ]
+    },
+    {
+        "place_name": "Hung Hom, Hong Kong",
+        "zoom": 17,
+        "center": [
+            22.3036,
+            114.1818
+        ],
+        "tags": [
+            "osm data",
+            "road, street",
+            "bridge, street",
+            "tunnel, street",
+            "road, main",
+            "poi_label, scalerank 1",
+            "poi_label, rail station"
+        ]
+    },
+    {
+        "place_name": "Trails, Sedona",
+        "zoom": 16,
+        "center": [
+            34.8058,
+            -111.7669
+        ],
+        "tags": [
+            "osm data",
+            "road, path",
+            "road, path, trail",
+            "road, main",
+            "landuse, park",
+            "nature reserve"
+        ]
+    },
+    {
+        "place_name": "Stub Mountain Bike Area, Portland",
+        "zoom": 17,
+        "center": [
+            45.7410,
+            -123.1777
+        ],
+        "tags": [
+            "osm data",
+            "road, path, mtb"
+        ]
+    },
+    {
+        "place_name": "Enterprise South Nature Park, Chattanooga",
+        "zoom": 16,
+        "center": [
+            35.0919,
+            -85.1085
+        ],
+        "tags": [
+            "osm data",
+            "road, path, mtb",
+            "road, path, hiking",
+            "road, service"
+        ]
+    },
+    {
+        "place_name": "Port-Royal des Champs",
+        "description": "http://wikipedia.org/wiki/Port-Royal-des-Champs_Abbey",
+        "zoom": 16,
+        "center": [
+            48.7446,
+            2.0166
+        ],
+        "tags": [
+            "osm data",
+            "road, path, trail",
+            "road, service",
+            "road, driveway",
+            "bridge, driveway",
+            "barrier_line, fence"
+            "poi_label, scalerank 1",
+            "poi_label, attraction",
+            "abbey"
         ]
     },
     {
