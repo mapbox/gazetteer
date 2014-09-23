@@ -88,6 +88,19 @@
         ]
     },
     {
+        "place_name": "Boston, United States",
+        "zoom": 10,
+        "center": [
+            42.3423,
+            -71.0575
+        ],
+        "tags": [
+            "US cities",
+            "state capital",
+            "city, scalerank 2"
+        ]
+    },
+    {
         "place_name": "Bangkok, Thailand",
         "zoom": 10,
         "center": [
@@ -913,6 +926,279 @@
         ]
     },
     {
+        "place_name": "City grid, Milton Keynes, UK",
+        "zoom": 14,
+        "center": [
+            52.0406,
+            -0.7599
+        ],
+        "tags": [
+            "osm data",
+            "town",
+            "road, main",
+            "road, street",
+            "road, street_limited",
+            "road, path",
+            "tunnel, path",
+            "road, path, steps",
+            "road, path, footway",
+            "tunnel, street_limited",
+            "city grid",
+            "traffic circle",
+            "roundabout",
+            "satellite"
+        ]
+    },
+    {
+        "place_name": "City grid, Valletta, Malta",
+        "zoom": 16,
+        "center": [
+            35.8980,
+            14.5129
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "road, street",
+            "road, street_limited",
+            "road, path, steps",
+            "city grid"
+        ]
+    },
+    {
+        "place_name": "City grid, Adelaide, Australia",
+        "zoom": 14,
+        "center": [
+            -34.9207,
+            138.6008
+        ],
+        "tags": [
+            "osm data",
+            "city, scalerank 3",
+            "state capital",
+            "landuse",
+            "park",
+            "road, main",
+            "road, street",
+            "city grid",
+            "satellite"
+        ]
+    },
+    {
+        "place_name": "City grid, New Haven, Connecticut",
+        "zoom": 15,
+        "center": [
+            41.3071,
+            -72.9281 
+        ],
+        "tags": [
+            "osm data",
+            "city, scalerank 7",
+            "landuse",
+            "school",
+            "parking",
+            "road, main",
+            "road, path, footway",
+            "road, driveway",
+            "city grid"
+        ]
+    },
+    {
+        "place_name": "City grid, Mannhein, Germany",
+        "zoom": 15,
+        "center": [
+            49.4861,
+            8.4660
+        ],
+        "tags": [
+            "osm data",
+            "city, scalerank 7",
+            "road, major_rail",
+            "road, minor_rail",
+            "road, main",
+            "road, street",
+            "city grid"
+        ]
+    },
+    {
+        "place_name": "City grid, Eixample district, Barcelona",
+        "zoom": 15,
+        "center": [
+            41.3892,
+            2.1576
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "road, street",
+            "road, path, cycleway",
+            "city grid",
+            "satellite"
+        ]
+    },
+    {
+        "place_name": "City grid, Philadelphia, Pennsylvania",
+        "zoom": 14,
+        "center": [
+            39.9482,
+            -75.1682
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "road, street",
+            "city grid"
+        ]
+    },
+    {
+        "place_name": "City grid, Roman Forum",
+        "zoom": 17,
+        "center": [
+            41.8897,
+            12.4868
+        ],
+        "tags": [
+            "osm data",
+            "road, path, footway",
+            "road, path, steps",
+            "road, street_limited",
+            "pedestrian",
+            "city grid"
+            "landuse",
+            "grass",
+            "wood",
+            "building"
+        ]
+    },
+    {
+        "place_name": "City grid, Salt Lake City, Utah",
+        "zoom": 14,
+        "center": [
+            40.7668,
+            -111.8921
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "road, street",
+            "city grid"
+        ]
+    },
+    {
+        "place_name": "City grid, Portland, Oregon",
+        "zoom": 14,
+        "center": [
+            45.5181,
+            -122.6759
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "bridge, main",
+            "bridge, path, footway",
+            "road, street",
+            "city grid"
+        ]
+    },
+    {
+        "place_name": "City grid, New York City",
+        "zoom": 14,
+        "center": [
+            40.7264,
+            -73.9893
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "road, street",
+            "city grid"
+        ]
+    },
+    {
+        "place_name": "City grid, Washington, DC",
+        "zoom": 13,
+        "center": [
+            38.8937,
+            -77.0149
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "road, street",
+            "city grid"
+        ]
+    },
+    {
+        "place_name": "Roads, Boston",
+        "zoom": 14,
+        "center": [
+            39.9482,
+            -75.1682
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "road, street"
+        ]
+    },
+    {
+        "place_name": "Roads, Barcelona, Catalonia",
+        "zoom": 15,
+        "center": [
+            41.3827,
+            2.1748
+        ],
+        "tags": [
+            "osm data",
+            "city, scalerank 2",
+            "state capital",
+            "road, street_limited",
+            "pedestrian"
+        ]
+    },
+    {
+        "place_name": "Roads, Dasmariñas, Philippines",
+        "zoom": 14,
+        "center": [
+            14.3259,
+            120.9352 
+        ],
+        "tags": [
+            "osm data",
+            "city",
+            "road, street",
+            "road, main"
+        ]
+    },
+    {
+        "place_name": "Roads, Istanbul, Turkey",
+        "zoom": 15,
+        "center": [
+            41.0093,
+            28.9640 
+        ],
+        "tags": [
+            "osm data",
+            "city",
+            "road, street",
+            "road, main"
+        ]
+    },
+    {
+        "place_name": "Roads, São Paulo, Brazil",
+        "zoom": 15,
+        "center": [
+            -23.5498,
+            -46.6396 
+        ],
+        "tags": [
+            "osm data",
+            "city",
+            "road, main",
+            "road, street"
+        ]
+    },
+    {
         "place_name": "Highway Interchange, Chicago",
         "zoom": 17,
         "center": [
@@ -938,12 +1224,12 @@
         ],
         "tags": [
             "osm data",
-            "road, motorway",
-            "road, motorway_link",
-            "road, main",
             "bridge, motorway",
             "bridge, motorway_link",
-            "bridge, main"
+            "bridge, main",
+            "road, motorway",
+            "road, motorway_link",
+            "road, main"
         ]
     },
     {
@@ -956,9 +1242,9 @@
         "tags": [
             "osm data",
             "landuse, park",
-            "buildings"
+            "building",
             "road, main",
-            "road, street, residential",
+            "road, street",
             "road, street_limited",
             "road, path, footway",
             "tunnel, street_limited",
@@ -966,7 +1252,7 @@
         ]
     },
     {
-        "place_name": "Interchange with tunnels, Tokyo",
+        "place_name": "Inner Circular Route tunnels, Tokyo",
         "zoom": 18,
         "center": [
             35.6796,
@@ -974,12 +1260,26 @@
         ],
         "tags": [
             "osm data",
+            "tunnel, motorway",
             "road, motorway",
+            "bridge, motorway",
             "road, main",
             "road, street",
-            "road, path, footway",
-            "tunnel, motorway",
-            "bridge, motorway"
+            "road, path, footway"
+        ]
+    },
+    {
+        "place_name": "Fish ponds, San Fernando, Philippines",
+        "zoom": 14,
+        "center": [
+            14.8683,
+            120.5763 
+        ],
+        "tags": [
+            "osm data",
+            "road, path",
+            "water",
+            "fish pond"
         ]
     },
     {
