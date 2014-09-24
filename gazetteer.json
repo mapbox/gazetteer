@@ -1069,7 +1069,7 @@
             "wood",
             "building",
             "poi_label, scalerank 1",
-            "poi_label, attraction",
+            "poi_label, attraction"
         ]
     },
     {
@@ -1426,8 +1426,8 @@
             "tunnel, path, footway",
             "tunnel, street",
             "road, major_rail",
-            "poi_label, scalerank 1"
-            "poi_label, railway station",
+            "poi_label, scalerank 1",
+            "poi_label, railway station"
         ]
     },
     {
@@ -1445,7 +1445,7 @@
             "road, major_rail",
             "tunnel, minor_rail",
             "road, minor_rail",
-            "poi_label, scalerank 1"
+            "poi_label, scalerank 1",
             "poi_label, railway station",
             "National Register of Historic Places"
         ]
@@ -1612,10 +1612,140 @@
             "road, service",
             "road, driveway",
             "bridge, driveway",
-            "barrier_line, fence"
+            "barrier_line, fence",
             "poi_label, scalerank 1",
             "poi_label, attraction",
             "abbey"
+        ]
+    },
+    {
+        "place_name": "Military Road NW in Rock Creek Park",
+        "zoom": 20,
+        "center": [
+            38.9631,
+            -77.0391
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "bridge, main",
+            "road, path, footway",
+            "road, street",
+            "bridge, street",
+            "landuse, park",
+            "waterway_label, stream"
+        ]
+    },
+    {
+        "place_name": "Parking, American University",
+        "zoom": 19,
+        "center": [
+            38.9371,
+            -77.0894
+        ],
+        "tags": [
+            "osm data",
+            "road, service",
+            "tunnel, service",
+            "road, driveway",
+            "tunnel, driveway",
+            "road, path, footway",
+            "landuse, school",
+            "landuse, parking"
+        ]
+    },
+    {
+        "place_name": "Roads, northeast of Mexico City",
+        "zoom": 18,
+        "center": [
+            19.5899,
+            -99.0409
+        ],
+        "tags": [
+            "osm data",
+            "road, motorway",
+            "road, main",
+            "road, street",
+            "tunnel, street"
+        ]
+    },
+    {
+        "place_name": "Washington Circle Park, Washington, DC",
+        "zoom": 18,
+        "center": [
+            38.9026,
+            -77.0500
+        ],
+        "tags": [
+            "osm data",
+            "road, main",
+            "road, path, footway",
+            "tunnel, main",
+            "traffic circle",
+            "roundabout",
+            "landuse, park"
+        ]
+    },
+    {
+        "place_name": "Manhattan Bridge, New York City",
+        "zoom": 20,
+        "center": [
+            40.7072,
+            -73.9906
+        ],
+        "tags": [
+            "osm data",
+            "bridge, main",
+            "bridge, path, footway",
+            "bridge, path, cycleway"
+        ]
+    },
+    {
+        "place_name": "Motorway over river, Tokyo",
+        "zoom": 18,
+        "center": [
+            35.6535,
+            139.7473
+        ],
+        "tags": [
+            "osm data",
+            "bridge, motorway",
+            "waterway, river",
+            "waterway_label, river"
+        ]
+    },
+    {
+        "place_name": "Philadelphia Museum of Art",
+        "zoom": 18,
+        "center": [
+            39.9650,
+            -75.1801
+        ],
+        "tags": [
+            "osm data",
+            "road, path, steps",
+            "road, main",
+            "tunnel, main",
+            "road, path, footway",
+            "road, street_limited",
+            "pedestrian",
+            "poi_label, scalerank 4",
+            "poi_label, museum"
+        ]
+    },
+    {
+        "place_name": "Tilikum Crossing, Portland",
+        "description": "http://wikipedia.org/wiki/Tilikum_Crossing",
+        "zoom": 17,
+        "center": [
+            45.5035,
+            -122.6688
+        ],
+        "tags": [
+            "osm data",
+            "road, construction",
+            "bridge, construction",
+            "bridge, street_limited"
         ]
     },
     {
