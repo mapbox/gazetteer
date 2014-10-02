@@ -9,7 +9,7 @@
         "tags": [
             "major cities",
             "US cities",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -22,7 +22,7 @@
         "tags": [
             "major cities",
             "US cities",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -35,7 +35,7 @@
         "tags": [
             "major cities",
             "US cities",
-            "city, scalerank 1"
+            "city:scalerank 1"
         ]
     },
     {
@@ -48,7 +48,7 @@
         "tags": [
             "major cities",
             "US cities",
-            "city, scalerank 1"
+            "city:scalerank 1"
         ]
     },
     {
@@ -71,7 +71,7 @@
         ],
         "tags": [
             "US cities",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },
     {
@@ -84,7 +84,7 @@
         "tags": [
             "US cities",
             "national capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -97,7 +97,7 @@
         "tags": [
             "US cities",
             "state capital",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },
     {
@@ -110,7 +110,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 1"
+            "city:scalerank 1"
         ]
     },
     {
@@ -135,7 +135,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -147,7 +147,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -160,7 +160,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -172,7 +172,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },
     {
@@ -185,7 +185,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },
     {
@@ -197,7 +197,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },
     {
@@ -209,7 +209,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },
     {
@@ -222,7 +222,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },    
     {
@@ -234,7 +234,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },    
     {
@@ -247,7 +247,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 1"
+            "city:scalerank 1"
         ]
     },    
     {
@@ -260,7 +260,7 @@
         "tags": [
             "major cities",
             "state capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },    
     {
@@ -273,7 +273,7 @@
         "tags": [
             "major cities",
             "state capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },    
     {
@@ -285,7 +285,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },    
     {
@@ -298,7 +298,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -311,7 +311,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 1"
+            "city:scalerank 1"
         ]
     },
     {
@@ -324,7 +324,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -337,7 +337,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -350,7 +350,7 @@
         "tags": [
             "major cities",
             "state capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -362,7 +362,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 1"
+            "city:scalerank 1"
         ]
     },    
     {
@@ -375,7 +375,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -388,7 +388,7 @@
         "tags": [
             "major cities",
             "state capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -401,7 +401,7 @@
         "tags": [
             "major cities",
             "state capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -414,7 +414,7 @@
         "tags": [
             "major cities",
             "national capital",
-            "city, scalerank 1"
+            "city:scalerank 1"
         ]
     },
     {
@@ -426,7 +426,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },
     {
@@ -438,7 +438,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -450,7 +450,7 @@
         ],
         "tags": [
             "major cities",
-            "city, scalerank 2"
+            "city:scalerank 2"
         ]
     },
     {
@@ -463,7 +463,7 @@
         "tags": [
             "major cities",
             "regional capital",
-            "city, scalerank 0"
+            "city:scalerank 0"
         ]
     },
     {
@@ -659,7 +659,7 @@
             "osm data",
             "landuse",
             "hospital",
-            "poi_label, scalerank 1"
+            "poi_label:scalerank 1"
         ]
     },
     {
@@ -673,7 +673,7 @@
             "osm data",
             "landuse",
             "industrial",
-            "poi_label, scalerank 1",
+            "poi_label:scalerank 1",
             "airport"
         ]
     },
@@ -935,14 +935,14 @@
         "tags": [
             "osm data",
             "town",
-            "road, main",
-            "road, street",
-            "road, street_limited",
-            "road, path",
-            "tunnel, path",
-            "road, path, steps",
-            "road, path, footway",
-            "tunnel, street_limited",
+            "road:main",
+            "road:street",
+            "road:street_limited",
+            "road:path",
+            "tunnel:path",
+            "road:path:steps",
+            "road:path:footway",
+            "tunnel:street_limited",
             "city grid",
             "traffic circle",
             "roundabout",
@@ -958,10 +958,10 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "road, street",
-            "road, street_limited",
-            "road, path, steps",
+            "road:main",
+            "road:street",
+            "road:street_limited",
+            "road:path:steps",
             "city grid"
         ]
     },
@@ -974,12 +974,12 @@
         ],
         "tags": [
             "osm data",
-            "city, scalerank 3",
+            "city:scalerank 3",
             "state capital",
             "landuse",
             "park",
-            "road, main",
-            "road, street",
+            "road:main",
+            "road:street",
             "city grid",
             "satellite"
         ]
@@ -993,13 +993,13 @@
         ],
         "tags": [
             "osm data",
-            "city, scalerank 7",
+            "city:scalerank 7",
             "landuse",
             "school",
             "parking",
-            "road, main",
-            "road, path, footway",
-            "road, driveway",
+            "road:main",
+            "road:path:footway",
+            "road:driveway",
             "city grid"
         ]
     },
@@ -1012,11 +1012,11 @@
         ],
         "tags": [
             "osm data",
-            "city, scalerank 7",
-            "road, major_rail",
-            "road, minor_rail",
-            "road, main",
-            "road, street",
+            "city:scalerank 7",
+            "road:major_rail",
+            "road:minor_rail",
+            "road:main",
+            "road:street",
             "city grid"
         ]
     },
@@ -1029,9 +1029,9 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "road, street",
-            "road, path, cycleway",
+            "road:main",
+            "road:street",
+            "road:path:cycleway",
             "city grid",
             "satellite"
         ]
@@ -1045,8 +1045,8 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "road, street",
+            "road:main",
+            "road:street",
             "city grid"
         ]
     },
@@ -1059,21 +1059,21 @@
         ],
         "tags": [
             "osm data",
-            "road, path, footway",
-            "road, path, steps",
-            "road, street_limited",
+            "road:path:footway",
+            "road:path:steps",
+            "road:street_limited",
             "pedestrian",
             "city grid",
             "landuse",
             "grass",
             "wood",
             "building",
-            "poi_label, scalerank 1",
-            "poi_label, attraction"
+            "poi_label:scalerank 1",
+            "poi_label:attraction"
         ]
     },
     {
-        "place_name": "City grid, Salt Lake City, Utah",
+        "place_name": "City grid, Salt Lake city:Utah",
         "zoom": 14,
         "center": [
             40.7668,
@@ -1081,8 +1081,8 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "road, street",
+            "road:main",
+            "road:street",
             "city grid"
         ]
     },
@@ -1095,10 +1095,10 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "bridge, main",
-            "bridge, path, footway",
-            "road, street",
+            "road:main",
+            "bridge:main",
+            "bridge:path:footway",
+            "road:street",
             "city grid"
         ]
     },
@@ -1111,8 +1111,8 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "road, street",
+            "road:main",
+            "road:street",
             "city grid"
         ]
     },
@@ -1125,8 +1125,8 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "road, street",
+            "road:main",
+            "road:street",
             "city grid"
         ]
     },
@@ -1139,8 +1139,8 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "road, street"
+            "road:main",
+            "road:street"
         ]
     },
     {
@@ -1152,9 +1152,9 @@
         ],
         "tags": [
             "osm data",
-            "city, scalerank 2",
+            "city:scalerank 2",
             "state capital",
-            "road, street_limited",
+            "road:street_limited",
             "pedestrian"
         ]
     },
@@ -1168,8 +1168,8 @@
         "tags": [
             "osm data",
             "city",
-            "road, street",
-            "road, main"
+            "road:street",
+            "road:main"
         ]
     },
     {
@@ -1182,8 +1182,8 @@
         "tags": [
             "osm data",
             "city",
-            "road, street",
-            "road, main"
+            "road:street",
+            "road:main"
         ]
     },
     {
@@ -1196,8 +1196,8 @@
         "tags": [
             "osm data",
             "city",
-            "road, main",
-            "road, street"
+            "road:main",
+            "road:street"
         ]
     },
     {
@@ -1209,12 +1209,12 @@
         ],
         "tags": [
             "osm data",
-            "road, motorway",
-            "road, motorway_link",
-            "road, main",
-            "bridge, motorway_link",
-            "bridge, main",
-            "bridge, street_limited"
+            "road:motorway",
+            "road:motorway_link",
+            "road:main",
+            "bridge:motorway_link",
+            "bridge:main",
+            "bridge:street_limited"
         ]
     },
     {
@@ -1226,12 +1226,12 @@
         ],
         "tags": [
             "osm data",
-            "bridge, motorway",
-            "bridge, motorway_link",
-            "bridge, main",
-            "road, motorway",
-            "road, motorway_link",
-            "road, main"
+            "bridge:motorway",
+            "bridge:motorway_link",
+            "bridge:main",
+            "road:motorway",
+            "road:motorway_link",
+            "road:main"
         ]
     },
     {
@@ -1245,12 +1245,12 @@
             "osm data",
             "landuse, park",
             "building",
-            "road, main",
-            "road, street",
-            "road, street_limited",
-            "road, path, footway",
-            "tunnel, street_limited",
-            "bridge, street_limited"
+            "road:main",
+            "road:street",
+            "road:street_limited",
+            "road:path:footway",
+            "tunnel:street_limited",
+            "bridge:street_limited"
         ]
     },
     {
@@ -1262,12 +1262,12 @@
         ],
         "tags": [
             "osm data",
-            "tunnel, motorway",
-            "road, motorway",
-            "bridge, motorway",
-            "road, main",
-            "road, street",
-            "road, path, footway"
+            "tunnel:motorway",
+            "road:motorway",
+            "bridge:motorway",
+            "road:main",
+            "road:street",
+            "road:path:footway"
         ]
     },
     {
@@ -1279,7 +1279,7 @@
         ],
         "tags": [
             "osm data",
-            "road, path",
+            "road:path",
             "water",
             "fish pond"
         ]
@@ -1293,17 +1293,17 @@
         ],
         "tags": [
             "osm data",
-            "road, motorway",
-            "road, motorway_link",
-            "tunnel, motorway",
-            "tunnel, motorway_link",
-            "bridge, motorway",
-            "bridge, motorway_link",
-            "road, main",
-            "bridge, main",
-            "road, major_rail",
-            "road, service",
-            "bridge, service"
+            "road:motorway",
+            "road:motorway_link",
+            "tunnel:motorway",
+            "tunnel:motorway_link",
+            "bridge:motorway",
+            "bridge:motorway_link",
+            "road:main",
+            "bridge:main",
+            "road:major_rail",
+            "road:service",
+            "bridge:service"
         ]
     },
     {
@@ -1315,24 +1315,24 @@
         ],
         "tags": [
             "osm data",
-            "road, motorway",
-            "road, motorway_link",
-            "bridge, motorway",
-            "bridge, motorway_link",
-            "road, main",
-            "bridge, main",
-            "bridge, path",
-            "bridge, path, footway",
-            "road, path, steps",
-            "road, street_limited",
-            "road, minor_rail",
-            "bridge, minor_rail",
-            "poi_label, scalerank 3",
-            "poi_label, stadium"
+            "road:motorway",
+            "road:motorway_link",
+            "bridge:motorway",
+            "bridge:motorway_link",
+            "road:main",
+            "bridge:main",
+            "bridge:path",
+            "bridge:path:footway",
+            "road:path:steps",
+            "road:street_limited",
+            "road:minor_rail",
+            "bridge:minor_rail",
+            "poi_label:scalerank 3",
+            "poi_label:stadium"
         ]
     },
     {
-        "place_name": "PATH, Downtown Toronto",
+        "place_name": "path:Downtown Toronto",
         "description": "http://wikipedia.org/wiki/PATH_(Toronto)",
         "zoom": 17,
         "center": [
@@ -1341,9 +1341,9 @@
         ],
         "tags": [
             "osm data",
-            "road, path, footway",
-            "tunnel, path, footway",
-            "road, main",
+            "road:path:footway",
+            "tunnel:path:footway",
+            "road:main",
             "pedestrian"
         ]
     },
@@ -1356,11 +1356,11 @@
         ],
         "tags": [
             "osm data",
-            "road, street_limited",
+            "road:street_limited",
             "pedestrian",
-            "poi_label, scalerank 1",
-            "poi_label, park",
-            "poi_label, museum"
+            "poi_label:scalerank 1",
+            "poi_label:park",
+            "poi_label:museum"
         ]
     },
     {
@@ -1372,14 +1372,14 @@
         ],
         "tags": [
             "osm data", 
-            "road, street_limited",
-            "road, driveway",
-            "bridge, driveway",
-            "road, minor_rail",
-            "bridge, minor_rail",
+            "road:street_limited",
+            "road:driveway",
+            "bridge:driveway",
+            "road:minor_rail",
+            "bridge:minor_rail",
             "pedestrian",
-            "poi_label, scalerank 1",
-            "poi_label, theme park",
+            "poi_label:scalerank 1",
+            "poi_label:theme park",
             "water",
             "water_label"
         ]
@@ -1394,7 +1394,7 @@
         ],
         "tags": [
             "osm data",
-            "tunnel, main"
+            "tunnel:main"
         ]
     },
     {
@@ -1407,8 +1407,8 @@
         ],
         "tags": [
             "osm data",
-            "road, path, piste",
-            "bridge, aerialway",
+            "road:path:piste",
+            "bridge:aerialway",
             "ski"
         ]
     },
@@ -1422,12 +1422,12 @@
         ],
         "tags": [
             "osm data",
-            "tunnel, path, steps",
-            "tunnel, path, footway",
-            "tunnel, street",
-            "road, major_rail",
-            "poi_label, scalerank 1",
-            "poi_label, railway station"
+            "tunnel:path:steps",
+            "tunnel:path:footway",
+            "tunnel:street",
+            "road:major_rail",
+            "poi_label:scalerank 1",
+            "poi_label:railway station"
         ]
     },
     {
@@ -1440,13 +1440,13 @@
         ],
         "tags": [
             "osm data",
-            "bridge, major_rail",
-            "tunnel, major_rail",
-            "road, major_rail",
-            "tunnel, minor_rail",
-            "road, minor_rail",
-            "poi_label, scalerank 1",
-            "poi_label, railway station",
+            "bridge:major_rail",
+            "tunnel:major_rail",
+            "road:major_rail",
+            "tunnel:minor_rail",
+            "road:minor_rail",
+            "poi_label:scalerank 1",
+            "poi_label:railway station",
             "National Register of Historic Places"
         ]
     },
@@ -1459,8 +1459,8 @@
         ],
         "tags": [
             "osm data",
-            "bridge, path, cycleway",
-            "road, motorway"
+            "bridge:path:cycleway",
+            "road:motorway"
         ]
     },
     {
@@ -1473,8 +1473,8 @@
         ],
         "tags": [
             "osm data",
-            "road, major_rail",
-            "road, minor_rail"
+            "road:major_rail",
+            "road:minor_rail"
         ]
     },
     {
@@ -1486,10 +1486,10 @@
         ],
         "tags": [
             "osm data",
-            "road, path, hiking",
-            "road, path, trail",
-            "waterway, stream",
-            "waterway_label, stream",
+            "road:path:hiking",
+            "road:path:trail",
+            "waterway:stream",
+            "waterway_label:stream",
             "landuse, park"
         ]
     },
@@ -1503,9 +1503,9 @@
         ],
         "tags": [
             "osm data",
-            "bridge, street_limited",
-            "road, street_limited",
-            "waterway_label, river"
+            "bridge:street_limited",
+            "road:street_limited",
+            "waterway_label:river"
         ]
     },
     {
@@ -1518,15 +1518,15 @@
         ],
         "tags": [
             "osm data",
-            "bridge, path, steps",
-            "road, street_limited",
-            "bridge, street_limited",
-            "tunnel, street_limited",
+            "bridge:path:steps",
+            "road:street_limited",
+            "bridge:street_limited",
+            "tunnel:street_limited",
             "waterway_label, canal"
         ]
     },
     {
-        "place_name": "Norwalk Tunnel, Elroy-Sparta State Trail",
+        "place_name": "Norwalk tunnel:Elroy-Sparta State Trail",
         "description": "http://wikipedia.org/wiki/Elroy-Sparta_State_Trail",
         "zoom": 15,
         "center": [
@@ -1535,7 +1535,7 @@
         ],
         "tags": [
             "osm data",
-            "tunnel_path",
+            "tunnel:path",
             "rail trail"
         ]
     },
@@ -1548,12 +1548,12 @@
         ],
         "tags": [
             "osm data",
-            "road, street",
-            "bridge, street",
-            "tunnel, street",
-            "road, main",
-            "poi_label, scalerank 1",
-            "poi_label, rail station"
+            "road:street",
+            "bridge:street",
+            "tunnel:street",
+            "road:main",
+            "poi_label:scalerank 1",
+            "poi_label:rail station"
         ]
     },
     {
@@ -1565,10 +1565,11 @@
         ],
         "tags": [
             "osm data",
-            "road, path",
-            "road, path, trail",
-            "road, main",
-            "landuse, park",
+            "road:path",
+            "road:path:trail",
+            "road:main",
+            "landuse",
+            "park",
             "nature reserve"
         ]
     },
@@ -1581,7 +1582,7 @@
         ],
         "tags": [
             "osm data",
-            "road, path, mtb"
+            "road:path:mtb"
         ]
     },
     {
@@ -1593,9 +1594,9 @@
         ],
         "tags": [
             "osm data",
-            "road, path, mtb",
-            "road, path, hiking",
-            "road, service"
+            "road:path:mtb",
+            "road:path:hiking",
+            "road:service"
         ]
     },
     {
@@ -1608,13 +1609,13 @@
         ],
         "tags": [
             "osm data",
-            "road, path, trail",
-            "road, service",
-            "road, driveway",
-            "bridge, driveway",
+            "road:path:trail",
+            "road:service",
+            "road:driveway",
+            "bridge:driveway",
             "barrier_line, fence",
-            "poi_label, scalerank 1",
-            "poi_label, attraction",
+            "poi_label:scalerank 1",
+            "poi_label:attraction",
             "abbey"
         ]
     },
@@ -1627,13 +1628,14 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "bridge, main",
-            "road, path, footway",
-            "road, street",
-            "bridge, street",
-            "landuse, park",
-            "waterway_label, stream"
+            "road:main",
+            "bridge:main",
+            "road:path:footway",
+            "road:street",
+            "bridge:street",
+            "landuse",
+            "park",
+            "waterway_label:stream"
         ]
     },
     {
@@ -1645,13 +1647,14 @@
         ],
         "tags": [
             "osm data",
-            "road, service",
-            "tunnel, service",
-            "road, driveway",
-            "tunnel, driveway",
-            "road, path, footway",
-            "landuse, school",
-            "landuse, parking"
+            "road:service",
+            "tunnel:service",
+            "road:driveway",
+            "tunnel:driveway",
+            "road:path:footway",
+            "landuse",
+            "school",
+            "parking"
         ]
     },
     {
@@ -1663,10 +1666,10 @@
         ],
         "tags": [
             "osm data",
-            "road, motorway",
-            "road, main",
-            "road, street",
-            "tunnel, street"
+            "road:motorway",
+            "road:main",
+            "road:street",
+            "tunnel:street"
         ]
     },
     {
@@ -1678,16 +1681,17 @@
         ],
         "tags": [
             "osm data",
-            "road, main",
-            "road, path, footway",
-            "tunnel, main",
+            "road:main",
+            "road:path:footway",
+            "tunnel:main",
             "traffic circle",
             "roundabout",
-            "landuse, park"
+            "landuse",
+            "park"
         ]
     },
     {
-        "place_name": "Manhattan Bridge, New York City",
+        "place_name": "Manhattan bridge:New York City",
         "zoom": 20,
         "center": [
             40.7072,
@@ -1695,9 +1699,9 @@
         ],
         "tags": [
             "osm data",
-            "bridge, main",
-            "bridge, path, footway",
-            "bridge, path, cycleway"
+            "bridge:main",
+            "bridge:path:footway",
+            "bridge:path:cycleway"
         ]
     },
     {
@@ -1709,9 +1713,9 @@
         ],
         "tags": [
             "osm data",
-            "bridge, motorway",
-            "waterway, river",
-            "waterway_label, river"
+            "bridge:motorway",
+            "waterway:river",
+            "waterway_label:river"
         ]
     },
     {
@@ -1723,14 +1727,14 @@
         ],
         "tags": [
             "osm data",
-            "road, path, steps",
-            "road, main",
-            "tunnel, main",
-            "road, path, footway",
-            "road, street_limited",
+            "road:path:steps",
+            "road:main",
+            "tunnel:main",
+            "road:path:footway",
+            "road:street_limited",
             "pedestrian",
-            "poi_label, scalerank 4",
-            "poi_label, museum"
+            "poi_label:scalerank 4",
+            "poi_label:museum"
         ]
     },
     {
@@ -1743,9 +1747,9 @@
         ],
         "tags": [
             "osm data",
-            "road, construction",
-            "bridge, construction",
-            "bridge, street_limited"
+            "road:construction",
+            "bridge:construction",
+            "bridge:street_limited"
         ]
     },
     {
