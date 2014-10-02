@@ -476,7 +476,7 @@
         "tags": [
             "osm data",
             "gate",
-            "barrer_line"
+            "barrier_line"
         ]
     },
     {
@@ -489,7 +489,7 @@
         "tags": [
             "osm data",
             "fence",
-            "barrer_line"
+            "barrier_line"
         ]
     },
     {
@@ -502,7 +502,7 @@
         "tags": [
             "osm data",
             "hedge",
-            "barrer_line"
+            "barrier_line"
         ]
     },
     {
@@ -515,7 +515,7 @@
         "tags": [
             "osm data",
             "land",
-            "barrer_line"
+            "barrier_line"
         ]
     },
     {
@@ -528,7 +528,7 @@
         "tags": [
             "osm data",
             "cliff",
-            "barrer_line"
+            "barrier_line"
         ]
     },
     {
@@ -541,7 +541,7 @@
         "tags": [
             "osm data",
             "cliff",
-            "barrer_line"
+            "barrier_line"
         ]
     },
     {
