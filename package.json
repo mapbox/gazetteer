@@ -1,5 +1,5 @@
 {
-  "name": "gazetteer",
+  "name": "@mapbox/gazetteer",
   "version": "1.0.0",
   "description": "Noteworthy places",
   "main": "index.js",
