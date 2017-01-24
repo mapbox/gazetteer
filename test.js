@@ -34,9 +34,13 @@ function validate(data) {
                 if (typeof val !== 'number' || val < 0 || val > 22 || Math.floor(val) !== val)
                     return new Error('feature ' +i+ ' zoom must be a number between 0 and 22');
                 break;
+            case 'category':
+                if (typeof val !== 'string' || val.length > 255)
+                    return new Error('feature ' +i+ ' category must be a string of 255 characters or less');
+                break;
             }
 
-            var required = ['place_name', 'zoom'];
+            var required = ['place_name', 'zoom', 'category'];
             for (var j = 0; j < required.length; j++) {
                 if (!(required[j] in feature.properties)) {
                     return new Error('feature ' + i + ' ' + required[j] + ' is required');
