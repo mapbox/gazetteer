@@ -1,0 +1,751 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.3727, 39.8834]
+      },
+      "properties": {
+        "place_name": "Beijing, China",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.098, 4.6038]
+      },
+      "properties": {
+        "place_name": "Bogota, Colombia",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2657, 30.0596]
+      },
+      "properties": {
+        "place_name": "Cairo, Egypt",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.9867, 41.0234]
+      },
+      "properties": {
+        "place_name": "Istanbul, Turkey",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8427, -6.2511]
+      },
+      "properties": {
+        "place_name": "Jakarta, Indonesia",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3514, 22.5734]
+      },
+      "properties": {
+        "place_name": "Kolkata, India",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.3598, 6.4968]
+      },
+      "properties": {
+        "place_name": "Lagos, Nigeria",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.135769, 51.49998]
+      },
+      "properties": {
+        "place_name": "London, United Kingdom",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.257226, 34.031765]
+      },
+      "properties": {
+        "place_name": "Los Angeles, United States",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.1437, 19.3665]
+      },
+      "properties": {
+        "place_name": "Mexico City, Mexico",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6144, 55.7426]
+      },
+      "properties": {
+        "place_name": "Moscow, Russia",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.908, 18.9712]
+      },
+      "properties": {
+        "place_name": "Mumbai, India",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9933, 40.7298]
+      },
+      "properties": {
+        "place_name": "New York City, United States",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.319985, 48.858882]
+      },
+      "properties": {
+        "place_name": "Paris, France",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.2175, -22.9508]
+      },
+      "properties": {
+        "place_name": "Rio de Janeiro, Brazil",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6521, -23.6395]
+      },
+      "properties": {
+        "place_name": "São Paulo, Brazil",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4442, 31.221]
+      },
+      "properties": {
+        "place_name": "Shanghai, China",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7266, 35.7116]
+      },
+      "properties": {
+        "place_name": "Tokyo, Japan",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.992697, 38.899396]
+      },
+      "properties": {
+        "place_name": "Washington, DC, United States",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.466667, 13.75]
+      },
+      "properties": {
+        "place_name": "Bangkok, Thailand",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3817, -34.6033]
+      },
+      "properties": {
+        "place_name": "Buenos Aires, Argentina",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.664248, 41.82698]
+      },
+      "properties": {
+        "place_name": "Chicago, United States",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.436742, 29.784969]
+      },
+      "properties": {
+        "place_name": "Houston, United States",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.2978, -4.3957]
+      },
+      "properties": {
+        "place_name": "Kinshasa, Democratic Republic of the Congo",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9732, 14.565]
+      },
+      "properties": {
+        "place_name": "Manila, Philippines",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2044, 28.5821]
+      },
+      "properties": {
+        "place_name": "New Delhi, Egypt",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.4, 34.6367]
+      },
+      "properties": {
+        "place_name": "Osaka, Japan",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.9662, 37.5598]
+      },
+      "properties": {
+        "place_name": "Seoul, South Korea",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0575, 42.3423]
+      },
+      "properties": {
+        "place_name": "Boston, United States",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.4031, 23.7464]
+      },
+      "properties": {
+        "place_name": "Dhaka, Bangladesh",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2793, 23.1063]
+      },
+      "properties": {
+        "place_name": "Guangzhou, China",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67.0049, 24.8777]
+      },
+      "properties": {
+        "place_name": "Karachi, Pakistan",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.3033, 31.4468]
+      },
+      "properties": {
+        "place_name": "Lahore, Pakistan",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.448276, 37.760548]
+      },
+      "properties": {
+        "place_name": "San Francisco, United States",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0559, 22.5164]
+      },
+      "properties": {
+        "place_name": "Shenzhen, China",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.1609, 39.0752]
+      },
+      "properties": {
+        "place_name": "Tianjin, China",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
