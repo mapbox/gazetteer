@@ -5,6 +5,157 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-3.4681, 51.88]
+      },
+      "properties": {
+        "place_name": "Brecon Beacons National Park",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "cliff"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "scrub"
+            }
+          },
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "national_park"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.2071, 49.7066]
+      },
+      "properties": {
+        "place_name": "Étretat, France",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "cliff"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.5764, 37.1006]
+      },
+      "properties": {
+        "place_name": "St. George, Utah",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "cliff"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0655, 38.876]
+      },
+      "properties": {
+        "place_name": "Arlington National Cemetery",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "fence"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "cemetery"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.57833, 28.40173]
+      },
+      "properties": {
+        "place_name": "Disney World, Florida",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "gate"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.02289, 38.88904]
+      },
+      "properties": {
+        "place_name": "Hirshorn Sculpture Garden",
+        "zoom": 20,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "hedge"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4206, 37.8092]
+      },
+      "properties": {
+        "place_name": "North coastline of San Francisco",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "land"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [116.3727, 39.8834]
       },
       "properties": {
@@ -742,6 +893,539 @@
             "data_layer_fields": {
               "type": "city",
               "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.4728, 24.1511]
+      },
+      "properties": {
+        "place_name": "Al Jawf, Libya",
+        "zoom": 12,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.1443, 31.5516]
+      },
+      "properties": {
+        "place_name": "Albany, Georgia",
+        "zoom": 12,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "wood"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3847, 34.7316]
+      },
+      "properties": {
+        "place_name": "Antelope Valley California Poppy Preserve",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "grass"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.0902, 36.5262]
+      },
+      "properties": {
+        "place_name": "Fresno County, CA",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.7867, 41.5817]
+      },
+      "properties": {
+        "place_name": "West Des Moines, Iowa",
+        "zoom": 12,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-139.2778, 60.0559]
+      },
+      "properties": {
+        "place_name": "Hubbard Glacier",
+        "zoom": 9,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "glacier"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.6577, 36.3724]
+      },
+      "properties": {
+        "place_name": "San Benito Mountain Natural Area",
+        "zoom": 12,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "grass"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "scrub"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "wood"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.9388, -26.2628]
+      },
+      "properties": {
+        "place_name": "Chris Hani Baragwanath Hospital",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "hospital"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1936, 39.9496]
+      },
+      "properties": {
+        "place_name": "Hospital of the University of Pennsylvania",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "hospital"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4302, 33.6357]
+      },
+      "properties": {
+        "place_name": "Hartsfield Jackson Atlanta International Airport",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "industrial"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9643, 40.7826]
+      },
+      "properties": {
+        "place_name": "Central Park",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.4461, 40.5]
+      },
+      "properties": {
+        "place_name": "Rutgers, The State University of New Jersey",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "pitch"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "scrub"
+            }
+          },
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "wetland"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2548, 51.756]
+      },
+      "properties": {
+        "place_name": "University of Oxford",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92751, 40.82825]
+      },
+      "properties": {
+        "place_name": "Yankee Stadium and Macombs Dam Park",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "pitch"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0163, 51.53853]
+      },
+      "properties": {
+        "place_name": "Olympic Stadium, London",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "pitch"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.7212, 50.6228]
+      },
+      "properties": {
+        "place_name": "Delabole Slate Quarry, England",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "rock"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.208, 44.5886]
+      },
+      "properties": {
+        "place_name": "Dune of Pilat, France",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "sand"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.31685, 18.32921]
+      },
+      "properties": {
+        "place_name": "Flamenco Beach, Puerto Rico",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "sand"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.1391, 25.1174]
+      },
+      "properties": {
+        "place_name": "Palm Jumeirah, Dubai",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "sand"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9805, 36.8514]
+      },
+      "properties": {
+        "place_name": "Virginia Beach",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "sand"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.378, 46.6117]
+      },
+      "properties": {
+        "place_name": "New Brunswick, Canada",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "wood"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0259, 22.4923]
+      },
+      "properties": {
+        "place_name": "Mai Po Nature Reserve, Hong Kong",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "national_park"
+            }
+          },
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "wetland"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.4743, 37.7789]
+      },
+      "properties": {
+        "place_name": "Yosemite National Park",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "national_park"
             }
           }
         ]
