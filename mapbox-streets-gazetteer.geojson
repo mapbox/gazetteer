@@ -746,6 +746,377 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7599, 52.0406]
+      },
+      "properties": {
+        "place_name": "City grid, Milton Keynes, UK",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.5129, 35.898]
+      },
+      "properties": {
+        "place_name": "City grid, Valletta, Malta",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.6008, -34.9207]
+      },
+      "properties": {
+        "place_name": "City grid, Adelaide, Australia",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.9281, 41.3071]
+      },
+      "properties": {
+        "place_name": "City grid, New Haven, Connecticut",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "sidewalk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.466, 49.4861]
+      },
+      "properties": {
+        "place_name": "City grid, Mannhein, Germany",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            },
+            "$type": "Polygon"
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1576, 41.3892]
+      },
+      "properties": {
+        "place_name": "City grid, Eixample district, Barcelona",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "cycleway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "sidewalk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "tunnel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1682, 39.9482]
+      },
+      "properties": {
+        "place_name": "City grid, Philadelphia, Pennsylvania",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4868, 41.8897]
+      },
+      "properties": {
+        "place_name": "Roman Forum",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "building",
+            "data_layer_fields": {
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "wood"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "grass"
+            }
+          }
+        ]
+      }
     }
   ]
 }
