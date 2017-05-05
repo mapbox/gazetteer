@@ -166,13 +166,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -193,13 +187,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -220,13 +208,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -247,13 +229,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 4
             }
           }
@@ -274,13 +250,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -301,13 +271,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 4
             }
           }
@@ -328,13 +292,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 4
             }
           }
@@ -355,13 +313,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -402,13 +354,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -429,13 +375,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -456,13 +396,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 4
             }
           }
@@ -503,13 +437,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -530,13 +458,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 4
             }
           }
@@ -557,13 +479,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 4
             }
           }
@@ -584,13 +500,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 4
             }
           }
@@ -611,13 +521,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -638,13 +542,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 0,
               "capital": 2
             }
           }
@@ -665,13 +563,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 1,
               "capital": 2
             }
           }
@@ -692,13 +584,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 1,
               "capital": 2
             }
           }
@@ -759,13 +645,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 1,
               "capital": 2
             }
           }
@@ -786,13 +666,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 1,
               "capital": 2
             }
           }
@@ -813,13 +687,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 1,
               "capital": 2
             }
           }
@@ -860,13 +728,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 1,
               "capital": 2
             }
           }
@@ -887,13 +749,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 2
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 2,
               "capital": 4
             }
           }
@@ -934,13 +790,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 2
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 2,
               "capital": 4
             }
           }
@@ -981,13 +831,7 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 2
-            }
-          },
-          {
-            "data_layer": "place_label",
-            "data_layer_fields": {
-              "type": "city",
+              "scalerank": 2,
               "capital": 4
             }
           }
