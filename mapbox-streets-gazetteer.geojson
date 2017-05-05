@@ -166,7 +166,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -187,7 +193,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -208,7 +220,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -229,7 +247,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -250,7 +274,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -271,7 +301,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -292,7 +328,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -313,7 +355,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -354,7 +402,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -375,7 +429,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -396,7 +456,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -437,7 +503,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -458,7 +530,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -479,7 +557,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -500,7 +584,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -521,7 +611,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -542,7 +638,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 0,
+              "scalerank": 0
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -563,7 +665,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1,
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -584,7 +692,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1,
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -645,7 +759,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1,
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -666,7 +786,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1,
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -687,7 +813,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1,
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -728,7 +860,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 1,
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 2
             }
           }
@@ -749,7 +887,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 2,
+              "scalerank": 2
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -790,7 +934,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 2,
+              "scalerank": 2
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
@@ -831,7 +981,13 @@
             "data_layer": "place_label",
             "data_layer_fields": {
               "type": "city",
-              "scalerank": 2,
+              "scalerank": 2
+            }
+          },
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
               "capital": 4
             }
           }
