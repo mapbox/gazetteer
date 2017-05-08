@@ -1,5 +1,5 @@
 var assert = require('assert');
-var gazetteer = require('./gazetteer.json');
+var gazetteer = require('./mapbox-streets-gazetteer.json');
 
 function validate(data) {
     var features = data.features;
@@ -19,13 +19,6 @@ function validate(data) {
             var val = feature.properties[key];
 
             switch (key) {
-            case 'tags':
-                if (!Array.isArray(val))
-                    return new Error('feature ' +i+ ' tags must be an array');
-                for (var k = 0; k < val.length; k++) {
-                    if (typeof val[k] !== 'string' || val[k].length > 255) return new Error('feature ' +i+ ' tag must be a string of 255 characters or less');
-                }
-                break;
             case 'place_name':
                 if (typeof val !== 'string' || val.length > 255)
                     return new Error('feature ' +i+ ' place_name must be a string of 255 characters or less');
@@ -34,13 +27,19 @@ function validate(data) {
                 if (typeof val !== 'number' || val < 0 || val > 22 || Math.floor(val) !== val)
                     return new Error('feature ' +i+ ' zoom must be a number between 0 and 22');
                 break;
-            case 'category':
-                if (typeof val !== 'string' || val.length > 255)
-                    return new Error('feature ' +i+ ' category must be a string of 255 characters or less');
+            case 'highlights':
+                if (!Array.isArray(val))
+                    return new Error('feature ' +i+ ' highlights must be an array');
+                for (var k = 0; k < val.length; k++) {
+                    if (typeof val[k].data_layer !== 'string' || val[k].length > 255)
+                        return new Error('feature ' +i+ ' highlight ' +k+ ' data_layer must be a string of 255 characters or less');
+                    if (typeof val[k].data_layer_fields !== 'object')
+                        return new Error('feature ' +i+ ' highlight ' +k+ ' data_layer_fields must be an object');
+                }
                 break;
             }
 
-            var required = ['place_name', 'zoom', 'category'];
+            var required = ['place_name', 'zoom', 'highlights'];
             for (var j = 0; j < required.length; j++) {
                 if (!(required[j] in feature.properties)) {
                     return new Error('feature ' + i + ' ' + required[j] + ' is required');
