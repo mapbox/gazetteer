@@ -1801,6 +1801,371 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8921, 40.7668]
+      },
+      "properties": {
+        "place_name": "City grid, Salt Lake City, Utah",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.6759, 45.5181]
+      },
+      "properties": {
+        "place_name": "City grid, Portland, Oregon",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9893, 40.7264]
+      },
+      "properties": {
+        "place_name": "City grid, New York City",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0149, 38.8937]
+      },
+      "properties": {
+        "place_name": "City grid, Washington, DC",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1682, 39.9482]
+      },
+      "properties": {
+        "place_name": "Rittenhouse Square, Philadelphia",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1748, 41.3827]
+      },
+      "properties": {
+        "place_name": "Ciutat Vella, Barcelona",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            },
+            "$type": "Polygon"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1748, 41.3827]
+      },
+      "properties": {
+        "place_name": "Dasmariñas, Philippines",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.964, 41.0093]
+      },
+      "properties": {
+        "place_name": "Istanbul, Turkey",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6396, -23.5498]
+      },
+      "properties": {
+        "place_name": "República, São Paulo",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
     }
   ]
 }
