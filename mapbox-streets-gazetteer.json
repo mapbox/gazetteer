@@ -1809,7 +1809,8 @@
             }
           },
           {
-            "data_layer": "building"
+            "data_layer": "building",
+            "data_layer_fields": { }
           },
           {
             "data_layer": "landuse",
@@ -2340,7 +2341,8 @@
             }
           },
           {
-            "data_layer": "building"
+            "data_layer": "building",
+            "data_layer_fields": { }
           },
           {
             "data_layer": "road",
