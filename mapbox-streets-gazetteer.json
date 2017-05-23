@@ -2403,6 +2403,134 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3804, 43.6538]
+      },
+      "properties": {
+        "place_name": "The PATH (Toronto Eaton Centre)",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "tunnel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.339536, 52.508316]
+      },
+      "properties": {
+        "place_name": "Berlin Zoological Garden",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "zoo"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "zoo",
+              "scalerank": "1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.481996, 42.731955]
+      },
+      "properties": {
+        "place_name": "Michigan State University",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school",
+              "type": "university"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.098264, 51.509307]
+      },
+      "properties": {
+        "place_name": "Millennium Bridge, London",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "ferry",
+              "type": "ferry",
+              "structure": "none"
+            }
+          }
+        ]
+      }
     }
   ]
 }
