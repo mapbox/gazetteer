@@ -1,5 +1,31 @@
 {
   "type": "FeatureCollection",
+  "data_layers": [
+    {
+      "data_layer": "barrier_line",
+      "description": "This layer includes lines and polygons for barriers— things such as walls and fences."
+    },
+    {
+      "data_layer": "landuse",
+      "description": "This layer includes polygons representing both land-use and land-cover."
+    },
+    {
+      "data_layer": "place_label",
+      "description": "This layer contains points for labeling human settlements."
+    },
+    {
+      "data_layer": "poi_label",
+      "description": "This layer is used to place icons and labels for various points of interest (POIs)."
+    },
+    {
+      "data_layer": "road",
+      "description": "Points, polygons, and lines representing road geometries."
+    },
+    {
+      "data_layer": "building",
+      "description": "This layer contains polygons and lines for building outlines."
+    }
+  ],
   "features": [
     {
       "type": "Feature",
@@ -1783,7 +1809,8 @@
             }
           },
           {
-            "data_layer": "building"
+            "data_layer": "building",
+            "data_layer_fields": { }
           },
           {
             "data_layer": "landuse",
@@ -2314,7 +2341,8 @@
             }
           },
           {
-            "data_layer": "building"
+            "data_layer": "building",
+            "data_layer_fields": { }
           },
           {
             "data_layer": "road",
