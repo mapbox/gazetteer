@@ -1466,6 +1466,7 @@
       "properties": {
         "place_name": "City grid, Milton Keynes, UK",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1529,6 +1530,7 @@
       "properties": {
         "place_name": "City grid, Valletta, Malta",
         "zoom": 16,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1556,6 +1558,7 @@
       "properties": {
         "place_name": "City grid, Adelaide, Australia",
         "zoom": 16,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1590,6 +1593,7 @@
       "properties": {
         "place_name": "City grid, New Haven, Connecticut",
         "zoom": 15,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1652,6 +1656,7 @@
       "properties": {
         "place_name": "City grid, Mannhein, Germany",
         "zoom": 15,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1694,6 +1699,7 @@
       "properties": {
         "place_name": "City grid, Eixample district, Barcelona",
         "zoom": 15,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1758,6 +1764,7 @@
       "properties": {
         "place_name": "City grid, Philadelphia, Pennsylvania",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1836,6 +1843,7 @@
       "properties": {
         "place_name": "City grid, Salt Lake City, Utah",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1877,6 +1885,7 @@
       "properties": {
         "place_name": "City grid, Portland, Oregon",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1919,6 +1928,7 @@
       "properties": {
         "place_name": "City grid, New York City",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1953,6 +1963,7 @@
       "properties": {
         "place_name": "City grid, Washington, DC",
         "zoom": 13,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -1994,6 +2005,7 @@
       "properties": {
         "place_name": "Rittenhouse Square, Philadelphia",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -2035,6 +2047,7 @@
       "properties": {
         "place_name": "Ciutat Vella, Barcelona",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -2084,6 +2097,7 @@
       "properties": {
         "place_name": "Dasmariñas, Philippines",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -2104,6 +2118,7 @@
       "properties": {
         "place_name": "Istanbul, Turkey",
         "zoom": 14,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -2138,6 +2153,7 @@
       "properties": {
         "place_name": "República, São Paulo",
         "zoom": 15,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -2201,6 +2217,7 @@
       "properties": {
         "place_name": "Jane Byrne Interchange, Chicago",
         "zoom": 17,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -2264,6 +2281,7 @@
       "properties": {
         "place_name": "East Los Angeles Interchange (southern portion)",
         "zoom": 15,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
@@ -2333,6 +2351,7 @@
       "properties": {
         "place_name": "Presidio of San Francisco (east side)",
         "zoom": 16,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "landuse",
@@ -2385,6 +2404,7 @@
       "properties": {
         "place_name": "Shuto Expressway (Miyakezaka JCT), Tokyo",
         "zoom": 17,
+        "sets": ["Auto Navigation"],
         "highlights": [
           {
             "data_layer": "road",
