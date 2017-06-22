@@ -2579,6 +2579,600 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.5763, 14.8683]
+      },
+      "properties": {
+        "place_name": "Fish ponds, Sasmuan, Philippines",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "path",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "water",
+            "data_layer_fields": { }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.098264, 51.509307]
+      },
+      "properties": {
+        "place_name": "South Bay Interchange, Boston",
+        "zoom": 16,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "tunnel"
+            }
+          },
+           {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "bridge"
+            }
+          },
+           {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "motorway_junction",
+            "data_layer_fields": {
+              "type": "motorway_link",
+              "reflen": "7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.666, 45.530]
+      },
+      "properties": {
+        "place_name": "Roads at Rose Quarter, Portland",
+        "zoom": 16.5,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street_limited",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "sidewalk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "sidewalk",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "steps",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "level_crossing",
+              "type": "level_crossing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.328, 48.863]
+      },
+      "properties": {
+        "place_name": "Tuileries Garden, Paris",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "steps",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none",
+              "$type": "Polygon"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "park"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "park",
+              "type": "Park",
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "water",
+            "data_layer_fields": { }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5501, 28.372]
+      },
+      "properties": {
+        "place_name": "Epcot Center, Disney World, Florida",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "toilet",
+              "type": "Toilets",
+              "scalerank": 5
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "drinking-water",
+              "type": "Drinking Water",
+              "scalerank": 5
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "information",
+              "type": "Information",
+              "scalerank": 4
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "amusement-park",
+              "type": "Theme Park",
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "garden"
+            }
+          },
+          {
+            "data_layer": "water",
+            "data_layer_fields": { }
+          },
+          {
+            "data_layer": "water_label",
+            "data_layer_fields": { }
+          },
+          {
+            "data_layer": "building",
+            "data_layer_fields": { }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.401, 60.9856]
+      },
+      "properties": {
+        "place_name": "Lærdal Tunnel, Sogn og Fjordane",
+        "zoom": 13,
+        "sets": ["Auto Navigation"],
+        "description": "Longest tunnel in the world",
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road_label",
+            "data_layer_fields": {
+              "shield": "e-road"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.924, 50.1101]
+      },
+      "properties": {
+        "place_name": "Whistler Blackcomb",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "piste",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "track",
+              "type": "piste",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "aerialway"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4692, 49.4791]
+      },
+      "properties": {
+        "place_name": "Mannheim Hauptbahnhof",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "$type": "Polygon"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "steps",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "rail_station_label",
+            "data_layer_fields": {
+              "network": "rail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.182, 39.9559]
+      },
+      "properties": {
+        "place_name": "Philadelphia 30th Street Station",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "rail_station_label",
+            "data_layer_fields": {
+              "network": "rail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.5622, 40.3593]
+      },
+      "properties": {
+        "place_name": "Cycleway over Autovía del Este, Madrid, Spain",
+        "zoom": 17,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "cycleway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
     }
   ]
 }
