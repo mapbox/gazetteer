@@ -24,7 +24,7 @@ function validate(data) {
                     return new Error('feature ' +i+ ' place_name must be a string of 255 characters or less');
                 break;
             case 'zoom':
-                if (typeof val !== 'number' || val < 0 || val > 22 || Math.floor(val) !== val)
+                if (typeof val !== 'number' || val < 0 || val > 22)
                     return new Error('feature ' +i+ ' zoom must be a number between 0 and 22');
                 break;
             case 'highlights':
