@@ -187,6 +187,7 @@
       "properties": {
         "place_name": "Beijing, China",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -208,6 +209,7 @@
       "properties": {
         "place_name": "Bogota, Colombia",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -229,6 +231,7 @@
       "properties": {
         "place_name": "Cairo, Egypt",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -250,6 +253,7 @@
       "properties": {
         "place_name": "Istanbul, Turkey",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -271,6 +275,7 @@
       "properties": {
         "place_name": "Jakarta, Indonesia",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -292,6 +297,7 @@
       "properties": {
         "place_name": "Kolkata, India",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -313,6 +319,7 @@
       "properties": {
         "place_name": "Lagos, Nigeria",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -334,6 +341,7 @@
       "properties": {
         "place_name": "London, United Kingdom",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -355,6 +363,7 @@
       "properties": {
         "place_name": "Los Angeles, United States",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -375,6 +384,7 @@
       "properties": {
         "place_name": "Mexico City, Mexico",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -396,6 +406,7 @@
       "properties": {
         "place_name": "Moscow, Russia",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -417,6 +428,7 @@
       "properties": {
         "place_name": "Mumbai, India",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -438,6 +450,7 @@
       "properties": {
         "place_name": "New York City, United States",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -458,6 +471,7 @@
       "properties": {
         "place_name": "Paris, France",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -479,6 +493,7 @@
       "properties": {
         "place_name": "Rio de Janeiro, Brazil",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -500,6 +515,7 @@
       "properties": {
         "place_name": "São Paulo, Brazil",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -521,6 +537,7 @@
       "properties": {
         "place_name": "Shanghai, China",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -542,6 +559,7 @@
       "properties": {
         "place_name": "Tokyo, Japan",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -563,6 +581,7 @@
       "properties": {
         "place_name": "Washington, DC, United States",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -584,6 +603,7 @@
       "properties": {
         "place_name": "Bangkok, Thailand",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -605,6 +625,7 @@
       "properties": {
         "place_name": "Buenos Aires, Argentina",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -626,6 +647,7 @@
       "properties": {
         "place_name": "Chicago, United States",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -646,6 +668,7 @@
       "properties": {
         "place_name": "Houston, United States",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -666,6 +689,7 @@
       "properties": {
         "place_name": "Kinshasa, Democratic Republic of the Congo",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -687,6 +711,7 @@
       "properties": {
         "place_name": "Manila, Philippines",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -708,6 +733,7 @@
       "properties": {
         "place_name": "New Delhi, Egypt",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -729,6 +755,7 @@
       "properties": {
         "place_name": "Osaka, Japan",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -749,6 +776,7 @@
       "properties": {
         "place_name": "Seoul, South Korea",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -770,6 +798,7 @@
       "properties": {
         "place_name": "Boston, United States",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -791,6 +820,7 @@
       "properties": {
         "place_name": "Dhaka, Bangladesh",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -811,6 +841,7 @@
       "properties": {
         "place_name": "Guangzhou, China",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -832,6 +863,7 @@
       "properties": {
         "place_name": "Karachi, Pakistan",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -852,6 +884,7 @@
       "properties": {
         "place_name": "Lahore, Pakistan",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -873,6 +906,7 @@
       "properties": {
         "place_name": "San Francisco, United States",
         "zoom": 10,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "place_label",
@@ -933,6 +967,7 @@
       "properties": {
         "place_name": "Al Jawf, Libya",
         "zoom": 12,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "landuse",
@@ -952,6 +987,7 @@
       "properties": {
         "place_name": "Albany, Georgia",
         "zoom": 12,
+        "sets": ["Cities"],
         "highlights": [
           {
             "data_layer": "landuse",
