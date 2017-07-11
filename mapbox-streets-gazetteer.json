@@ -2102,7 +2102,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.1748, 41.3827]
+        "coordinates": [120.9352, 14.3259]
       },
       "properties": {
         "place_name": "Dasmariñas, Philippines",
@@ -2126,8 +2126,8 @@
         "coordinates": [28.964, 41.0093]
       },
       "properties": {
-        "place_name": "Istanbul, Turkey",
-        "zoom": 14,
+        "place_name": "Faith, Istanbul",
+        "zoom": 15,
         "sets": ["Auto Navigation"],
         "highlights": [
           {
@@ -2619,7 +2619,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.098264, 51.509307]
+        "coordinates": [-71.0592, 42.3468]
       },
       "properties": {
         "place_name": "South Bay Interchange, Boston",
