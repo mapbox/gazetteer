@@ -965,40 +965,14 @@
         "coordinates": [23.4728, 24.1511]
       },
       "properties": {
-        "place_name": "Al Jawf, Libya",
+        "place_name": "Kufra Oasis, Libya",
         "zoom": 12,
-        "sets": ["Cities"],
+        "description": "Agriculture project using groundwater from the Nubian Sandstone Aquifer System. Irrigation circles provide recognizable landmarks seen from space.",
         "highlights": [
           {
             "data_layer": "landuse",
             "data_layer_fields": {
               "class": "agriculture"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.1443, 31.5516]
-      },
-      "properties": {
-        "place_name": "Albany, Georgia",
-        "zoom": 12,
-        "sets": ["Cities"],
-        "highlights": [
-          {
-            "data_layer": "landuse",
-            "data_layer_fields": {
-              "class": "agriculture"
-            }
-          },
-          {
-            "data_layer": "landuse",
-            "data_layer_fields": {
-              "class": "wood"
             }
           }
         ]
