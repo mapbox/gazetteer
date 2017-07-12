@@ -2520,7 +2520,7 @@
             "data_layer": "poi_label",
             "data_layer_fields": {
               "maki": "zoo",
-              "scalerank": "1"
+              "scalerank": 1
             }
           }
         ]
@@ -2708,7 +2708,7 @@
           {
             "data_layer": "motorway_junction",
             "data_layer_fields": {
-              "type": "motorway_link",
+              "class": "motorway_link",
               "reflen": "7"
             }
           }
@@ -3178,6 +3178,444 @@
             "data_layer": "road",
             "data_layer_fields": {
               "class": "motorway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.572, 50.050]
+      },
+      "properties": {
+        "place_name": "Frankfort Airport",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "industrial"
+            }
+          },
+          {
+            "data_layer": "airport_label",
+            "data_layer_fields": {
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "rail_station_label",
+            "data_layer_fields": {
+              "network": "rail"
+            }
+          },
+          {
+            "data_layer": "rail_station_label",
+            "data_layer_fields": {
+              "network": "rail-light"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "aeroway",
+            "data_layer_fields": {
+              "type": "runway"
+            }
+          },
+          {
+            "data_layer": "aeroway",
+            "data_layer_fields": {
+              "type": "taxiway"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.392, 40.088]
+      },
+      "properties": {
+        "place_name": "King of Prussia Mall, Pennsylvania",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "parking"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service:parking_aisle",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "motorway_junction",
+            "data_layer_fields": {
+              "class": "motorway"
+            }
+          },
+          {
+            "data_layer": "motorway_junction",
+            "data_layer_fields": {
+              "class": "motorway_link"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.554, 28.358]
+      },
+      "properties": {
+        "place_name": "Disney’s Hollywood Studios parking lot, Walt Disney World",
+        "zoom": 16,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "parking"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "none",
+              "oneway": "true"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service:parking_aisle",
+              "structure": "none",
+              "oneway": "true"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.448, 33.639]
+      },
+      "properties": {
+        "place_name": "Hartsfield-Jackson Atlanta International Airport parking lots",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "parking"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "industrial"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none",
+              "oneway": "true"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service:parking_aisle",
+              "structure": "none",
+              "oneway": "true"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.246, 43.434]
+      },
+      "properties": {
+        "place_name": "ONroute Cambridge Service Centre",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "parking"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "picnic_site"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "none",
+              "oneway":"true"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service:parking_aisle",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.057, -33.875]
+      },
+      "properties": {
+        "place_name": "Rockwood Cemetery, Sydney",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "description": "One of the largest cemeteries in the world",
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "cemetery"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "golf_course"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "cemetery",
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
               "structure": "none"
             }
           }
