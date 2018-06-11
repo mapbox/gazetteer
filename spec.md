@@ -1,10 +1,12 @@
 # Gazetteer specification
 
-A gazetteer is a [GeoJSON](https://tools.ietf.org/html/rfc7946) FeatureCollection object. Each entry (aka "place") is represented by a Feature object:
+A gazetteer is a [GeoJSON](https://tools.ietf.org/html/rfc7946) FeatureCollection object. Each entry (aka "place") is represented by a Feature object.
 
 ```
 {
 	"type": "FeatureCollection",
+	"name": string,
+	"data-source": string (optional),
 	"features": [	
 		{
 			"type": "Feature",
@@ -15,26 +17,22 @@ A gazetteer is a [GeoJSON](https://tools.ietf.org/html/rfc7946) FeatureCollectio
 	    "properties": {
 	      "place_name": string,
 	      "zoom": number, // 0-22
-	      "description": string, // Optional
+	      "description": string (optional),
 	      "tags": { // Optional
-	        string: string,
-	        string: string,
+	        value: value,
 	        ...
-	      },
-	      "highlights": [ // Optional array of relevant map features displayed in this place
+	      }: object (optional),
+	      "highlights": [
 	        {
+	        	"geometry_type": string (optional), // One of: Point, LineString, Polygon
 	          "data_layer": string, // A Mapbox Street Source v8 data layer name
-	          "geometry_type": string, // Optional. One of: Point, LineString, Polygon
-	          "data_layer_fields": { // Optional
-	            string: string, // field:value pair from a Mapbox Streets Source v8 data layer
-	            string: string
-	          }
-	        },
-          {
-            "data_layer": ...
-            }
-          }
-	      ]
+	          "data_layer_fields": {
+	            value: value, // field/value pair from a Mapbox Streets Source v8 data layer
+	            ...
+	          }: object (optional)
+	        }: object,
+	        ...
+	      ]: array (optional)
 	    }
 	  }
 	]
@@ -47,6 +45,8 @@ A gazetteer is a [GeoJSON](https://tools.ietf.org/html/rfc7946) FeatureCollectio
 ```json
 {
 	"type": "FeatureCollection",
+	"name": "Large Urban Parks",
+	"data-source": "mapbox.mapbox-streets-v8"
 	"features": [	
 		{
 			"type": "Feature",
