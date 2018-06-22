@@ -52,13 +52,12 @@ A gazetteer is a [GeoJSON](https://tools.ietf.org/html/rfc7946) FeatureCollectio
       "type": "Feature",
       "geometry": {
       "type": "Point",
-      "description": "Popular tourist site",
       "coordinates": [-73.96067, 40.78166]
       },
       "properties": {
         "place_name": "Central Park, New York City",
         "zoom": 13,
-        "description": "Large urban park containing many attractions",
+        "description": "Famous urban park containing many attractions",
         "tags": {
           "area_km2": "3.41",
           "squirrel_population": "unknown"
