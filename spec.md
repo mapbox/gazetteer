@@ -2,12 +2,12 @@
 
 A gazetteer is a [GeoJSON](https://tools.ietf.org/html/rfc7946) FeatureCollection object. Each entry (aka "place") is represented by a Feature object.
 
-```
+``` javascript
 {
   "type": "FeatureCollection",
   "name": string,
   "data-source": string (optional),
-  "features": [	
+  "features": [
     {
       "type": "Feature",
       "geometry": {
@@ -42,7 +42,7 @@ A gazetteer is a [GeoJSON](https://tools.ietf.org/html/rfc7946) FeatureCollectio
 
 ## Example
 
-```json
+``` javascript
 {
   "type": "FeatureCollection",
   "name": "Large Urban Parks",
