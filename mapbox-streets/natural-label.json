@@ -1,0 +1,381 @@
+ {
+    "type": "FeatureCollection",
+    "data_layers": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.783,
+                    35.375
+                ]
+            },
+            "properties": {
+                "place_name": "valley-z8-nevada",
+                "zoom": 8,
+                "tags": {
+                    "landform": "valley"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.061,
+                    38.903
+                ]
+            },
+            "properties": {
+                "place_name": "canal-z16-washington-dc",
+                "zoom": 16,
+                "description": "Chesapeake and Ohio Canal",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "canal"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.729,
+                    35.477
+                ]
+            },
+            "properties": {
+                "place_name": "mountain-peak-z10-asheville",
+                "zoom": 10,
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform",
+                            "maki": "mountain"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.29,
+                    36.579
+                ]
+            },
+            "properties": {
+                "place_name": "mountain-peak-z12-mount-whitney",
+                "zoom": 12,
+                "tags": {
+                    "landform": "mountain-peak"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform",
+                            "maki": "mountain"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.726,
+                    36.613
+                ]
+            },
+            "properties": {
+                "place_name": "mountain-peak-z8-sierra-nevada-range",
+                "zoom": 8,
+                "description": "Sierra Nevada mountain range in California",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform",
+                            "maki": "mountain"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -127.089,
+                    49.872
+                ]
+            },
+            "properties": {
+                "place_name": "island-z9-north-pacific",
+                "zoom": 9,
+                "description": "Island labels along the Canadian Pacific Ocean coast line",
+                "tags": {
+                    "landform": "island"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.044,
+                    38.89
+                ]
+            },
+            "properties": {
+                "place_name": "pond-and-pool-z16-washington-dc",
+                "zoom": 16,
+                "description": "Lincoln Memorial Reflecting Pool and Constitution Gardens Pond, Washington, D.C.",
+                "tags": {
+                    "water": "pond"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "water"
+                        }
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "water"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.328,
+                    44.348
+                ]
+            },
+            "properties": {
+                "place_name": "acadia-national-park-z11",
+                "zoom": 11,
+                "description": "A mix of natural label elements",
+                "tags": {
+                    "landform": "mountain-peak"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "wetland"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.194,
+                    41.406
+                ]
+            },
+            "properties": {
+                "place_name": "glacier-z12-mount-shasta",
+                "zoom": 12,
+                "description": "Mount Shasta with point and line glacier labels",
+                "tags": {
+                    "natural-label": "glacier"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "glacier"
+                        }
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "glacier"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.136,
+                    36.146
+                ]
+            },
+            "properties": {
+                "place_name": "grand-canyon-z8",
+                "zoom": 8,
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform",
+                            "maki": "mountain"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.12,
+                    36.111
+                ]
+            },
+            "properties": {
+                "place_name": "grand-canyon-z11",
+                "zoom": 11,
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "landform",
+                            "maki": "mountain"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.523,
+                    26.035
+                ]
+            },
+            "properties": {
+                "place_name": "marsh-z10-south-florida",
+                "zoom": 10,
+                "description": "line and point wetland labels in Southern Florida, near the Everglades",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "wetland"
+                        }
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "wetland"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.586,
+                    26.811
+                ]
+            },
+            "properties": {
+                "place_name": "lake-z8-lake-okeechobee",
+                "zoom": 8,
+                "description": "Lake Okeechobee in Southern Florida",
+                "tags": {
+                    "landform-label": "lake"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "natural_label",
+                        "data_layer_fields": {
+                            "class": "water"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
