@@ -12,8 +12,9 @@
                 ]
             },
             "properties": {
-                "place_name": "valley-z8-nevada",
+                "place_name": "Valleys of Southern California and Nevada",
                 "zoom": 8,
+                "description": "A regional area with several line and point valley labels",
                 "tags": {
                     "landform": "valley"
                 },
@@ -45,9 +46,9 @@
                 ]
             },
             "properties": {
-                "place_name": "canal-z16-washington-dc",
+                "place_name": "Chesapeake and Ohio Canal, Washington, D.C.",
                 "zoom": 16,
-                "description": "Chesapeake and Ohio Canal",
+                "description": "A small canal feature within an urban context",
                 "highlights": [
                     {
                         "geometry_type": "LineString",
@@ -69,8 +70,9 @@
                 ]
             },
             "properties": {
-                "place_name": "mountain-peak-z10-asheville",
+                "place_name": "Southern Appalacian Mountain Range, North Carolina",
                 "zoom": 10,
+                "description": "A field of mountain-peak labels near Asheville, NC",
                 "highlights": [
                     {
                         "geometry_type": "Point",
@@ -93,8 +95,9 @@
                 ]
             },
             "properties": {
-                "place_name": "mountain-peak-z12-mount-whitney",
+                "place_name": "Sierra Nevada Mountain Range, California",
                 "zoom": 12,
+                "description": "A field of mountain-peak labels near Mount Whitney",
                 "tags": {
                     "landform": "mountain-peak"
                 },
@@ -120,9 +123,9 @@
                 ]
             },
             "properties": {
-                "place_name": "mountain-peak-z8-sierra-nevada-range",
+                "place_name": "Sierra Nevada Mountain Range, California",
                 "zoom": 8,
-                "description": "Sierra Nevada mountain range in California",
+                "description": "A field of mountain-peak labels within Californian mountain range",
                 "highlights": [
                     {
                         "geometry_type": "Point",
@@ -145,9 +148,9 @@
                 ]
             },
             "properties": {
-                "place_name": "island-z9-north-pacific",
+                "place_name": "Nootka Island, Vancouver Island, Canada",
                 "zoom": 9,
-                "description": "Island labels along the Canadian Pacific Ocean coast line",
+                "description": "A field of Island labels along the Vancouver Island coast-line",
                 "tags": {
                     "landform": "island"
                 },
@@ -172,12 +175,9 @@
                 ]
             },
             "properties": {
-                "place_name": "pond-and-pool-z16-washington-dc",
+                "place_name": "Lincoln Memorial Reflecting Pool and Constitution Gardens Pond, Washington, D.C.",
                 "zoom": 16,
-                "description": "Lincoln Memorial Reflecting Pool and Constitution Gardens Pond, Washington, D.C.",
-                "tags": {
-                    "water": "pond"
-                },
+                "description": "Small-scale water features within an urban context",
                 "highlights": [
                     {
                         "geometry_type": "Point",
@@ -206,9 +206,9 @@
                 ]
             },
             "properties": {
-                "place_name": "acadia-national-park-z11",
+                "place_name": "Arcadia National Park, Maine",
                 "zoom": 11,
-                "description": "A mix of natural label elements",
+                "description": "A potpourri of natural label elements within a National Park",
                 "tags": {
                     "landform": "mountain-peak"
                 },
@@ -247,12 +247,9 @@
                 ]
             },
             "properties": {
-                "place_name": "glacier-z12-mount-shasta",
+                "place_name": "Mount Shasta, California",
                 "zoom": 12,
-                "description": "Mount Shasta with point and line glacier labels",
-                "tags": {
-                    "natural-label": "glacier"
-                },
+                "description": "A field of point and line glacier labels",
                 "highlights": [
                     {
                         "geometry_type": "Point",
@@ -281,8 +278,9 @@
                 ]
             },
             "properties": {
-                "place_name": "grand-canyon-z8",
+                "place_name": "Grand Canyon National Park, Arizona",
                 "zoom": 8,
+                "description": "A field of mountain-peak, temple, point and hill point labels",
                 "highlights": [
                     {
                         "geometry_type": "Point",
@@ -305,8 +303,9 @@
                 ]
             },
             "properties": {
-                "place_name": "grand-canyon-z11",
+                "place_name": "Grand Canyon National Park, Arizona",
                 "zoom": 11,
+                "description": "A field of mountain-peak, temple, point and hill point labels",
                 "highlights": [
                     {
                         "geometry_type": "Point",
@@ -314,64 +313,6 @@
                         "data_layer_fields": {
                             "class": "landform",
                             "maki": "mountain"
-                        }
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.523,
-                    26.035
-                ]
-            },
-            "properties": {
-                "place_name": "marsh-z10-south-florida",
-                "zoom": 10,
-                "description": "line and point wetland labels in Southern Florida, near the Everglades",
-                "highlights": [
-                    {
-                        "geometry_type": "Point",
-                        "data_layer": "natural_label",
-                        "data_layer_fields": {
-                            "class": "wetland"
-                        }
-                    },
-                    {
-                        "geometry_type": "LineString",
-                        "data_layer": "natural_label",
-                        "data_layer_fields": {
-                            "class": "wetland"
-                        }
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.586,
-                    26.811
-                ]
-            },
-            "properties": {
-                "place_name": "lake-z8-lake-okeechobee",
-                "zoom": 8,
-                "description": "Lake Okeechobee in Southern Florida",
-                "tags": {
-                    "landform-label": "lake"
-                },
-                "highlights": [
-                    {
-                        "geometry_type": "Point",
-                        "data_layer": "natural_label",
-                        "data_layer_fields": {
-                            "class": "water"
                         }
                     }
                 ]
