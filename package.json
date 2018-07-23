@@ -18,10 +18,9 @@
   },
   "homepage": "https://github.com/mapbox/gazetteer",
   "scripts": {
-    "test": "npm run lint && node test.js",
-    "lint": "geojsonhint ./mapbox-streets-gazetteer.json"
+    "test": "node test.js"
   },
   "devDependencies": {
-    "@mapbox/geojsonhint": "^2.0.1"
+    "@mapbox/geojsonhint": "^2.1.0"
   }
 }
