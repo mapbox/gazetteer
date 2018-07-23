@@ -1,0 +1,462 @@
+ {
+    "type": "FeatureCollection",
+    "name": "poi-label",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.463,
+                    37.799
+                ]
+            },
+            "properties": {
+                "place_name": "Presidio and San Francisco National Cemetery, USA",
+                "zoom": 16,
+                "description": "Two low scalerank POIs next to one another surrounded by higher scalerank POIs.",
+                "highlights": [
+                    {
+                        "id": 1586061741,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 2,
+                            "class": "park_like"
+                        }
+                    },
+                    {
+                        "id": 4013542811,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 0,
+                            "class": "park_like"
+                        }
+                    },
+                    {
+                        "id": 3588385560,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 16,
+                            "class": "park_like"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.035,
+                    38.889
+                ]
+            },
+            "properties": {
+                "place_name": "National mall, Washington DC, USA",
+                "zoom": 15,
+                "description": "National mall with smaller POIs inside of it.",
+                "highlights": [
+                    {
+                        "id": 59916094,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 2,
+                            "class": "park_like"
+                        }
+                    },
+                    {
+                        "id": 33084109630,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "sizerank": 16,
+                            "class": "historic",
+                            "filterrank": 2
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.457,
+                    29.358
+                ]
+            },
+            "properties": {
+                "place_name": "San Antonio State Hospital, San Antonio TX, USA",
+                "zoom": 15,
+                "description": "San Antonio State Hospital.",
+                "highlights": [
+                    {
+                        "id": 4234445301,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 0,
+                            "class": "medical"
+                        }
+                    },
+                    {
+                        "id": 4232356441,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "class": "medical",
+                            "sizerank": 5
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.497,
+                    29.446
+                ]
+            },
+            "properties": {
+                "place_name": "San Antonio College, San Antonio TX, USA",
+                "zoom": 16,
+                "description": "University with sub POIs",
+                "highlights": [
+                    {
+                        "id": 1317014761,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 0
+                        }
+                    },
+                    {
+                        "id": 798745561,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 10,
+                            "class": "education"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.135,
+                    29.325
+                ]
+            },
+            "properties": {
+                "place_name": "Big Bend National Park TX, USA",
+                "zoom": 9,
+                "description": "Isolated National Park POI",
+                "highlights": [
+                    {
+                        "id": 26253824,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 1,
+                            "class": "park_like",
+                            "type": "National Park"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.286,
+                    33.779
+                ]
+            },
+            "properties": {
+                "place_name": "Los Angeles Refinery - Wilmington Plant, Los Angeles CA, USA",
+                "zoom": 14,
+                "description": "Low sizerank industrial site",
+                "highlights": [
+                    {
+                        "id": 498918471,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "industrial",
+                            "filterrank": 1,
+                            "sizerank": 3
+                        }
+                    },
+                    {
+                        "id": 1366371111,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "sizerank": 3,
+                            "class": "park_like"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.495,
+                    34.01
+                ]
+            },
+            "properties": {
+                "place_name": "Santa Monica State Beach, Los Angeles CA, USA",
+                "zoom": 15,
+                "description": "State beach with smaller surrounding POIs",
+                "highlights": [
+                    {
+                        "id": 61034174,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "sport_and_leisure",
+                            "filterrank": 1,
+                            "sizerank": 1
+                        }
+                    },
+                    {
+                        "id": 3368896361,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "park_like",
+                            "filterrank": 2,
+                            "sizerank": 13
+                        }
+                    },
+                    {
+                        "id": 227288531,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "landmark",
+                            "filterrank": 1,
+                            "sizerank": 9
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.197,
+                    32.869
+                ]
+            },
+            "properties": {
+                "place_name": "Rose Canyon Open Space, San Diego CA, USA",
+                "zoom": 16,
+                "description": "3 low sizerank POIs isolated and in close proximity in a city.",
+                "highlights": [
+                    {
+                        "id": 551994331,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "commercial_services",
+                            "filterrank": 1,
+                            "sizerank": 1
+                        }
+                    },
+                    {
+                        "id": 55754434,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "park_like",
+                            "filterrank": 1,
+                            "sizerank": 2
+                        }
+                    },
+                    {
+                        "id": 1293774511,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "sizerank": 0,
+                            "filterrank": 1,
+                            "class": "park_like"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.137,
+                    30.692
+                ]
+            },
+            "properties": {
+                "place_name": "Spring Hill Golf Course, Mobile AL, USA",
+                "zoom": 15,
+                "description": "low sizerank golf course next to college.",
+                "highlights": [
+                    {
+                        "id": 2605317111,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "park_like",
+                            "type": "Golf Course",
+                            "sizerank": 2,
+                            "filterrank": 1
+                        }
+                    },
+                    {
+                        "id": 3609334631,
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 1,
+                            "class": "education",
+                            "type": "College",
+                            "sizerank": 2
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.171,
+                    36.11
+                ]
+            },
+            "properties": {
+                "place_name": "Miracle Mile Shops, Las Vegas NV",
+                "zoom": 17,
+                "description": "Shopping center with smaller restaurant, lodging, and shopping POIs",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "category_en": "Restaurant",
+                            "class": "food_and_drink",
+                            "filterrank": 3,
+                            "sizerank": 16,
+                            "maki": "restaurant"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "sizerank": 16,
+                            "category_en": "Restaurant",
+                            "filterrank": 1,
+                            "maki": "restaurant"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "category_en": "Mall",
+                            "sizerank": 3,
+                            "class": "store_like",
+                            "maki": "shop"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.624,
+                    39.329
+                ]
+            },
+            "properties": {
+                "place_name": "Johns Hopkins University, Baltimore MD, USA",
+                "zoom": 16,
+                "description": "Low sizerank school near low sizerank park containing high sizerank garden and buildings.",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "education",
+                            "filterrank": 1,
+                            "sizerank": 0
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "park_like",
+                            "filterrank": 1,
+                            "sizerank": 0
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "class": "park_like",
+                            "filterrank": 1,
+                            "sizerank": 10
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label",
+                        "data_layer_fields": {
+                            "filterrank": 2,
+                            "class": "education",
+                            "sizerank": 11
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
