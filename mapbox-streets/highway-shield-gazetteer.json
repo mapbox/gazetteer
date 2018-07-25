@@ -9,7 +9,7 @@
         },
         "properties": {
             "place_name": "at-motorway, Austria",
-            "zoom": 11.8,
+            "zoom": 12,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -30,7 +30,7 @@
         },
         "properties": {
             "place_name": "at-state-b, Austria",
-            "zoom": 14.1,
+            "zoom": 14,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -51,7 +51,7 @@
         },
         "properties": {
             "place_name": "at-expressway, Austria",
-            "zoom": 11.2,
+            "zoom": 11,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -72,7 +72,7 @@
         },
         "properties": {
             "place_name": "br-state, Brazil",
-            "zoom": 12.7,
+            "zoom": 13,
             "description": "Uses br-state svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -93,7 +93,7 @@
         },
         "properties": {
             "place_name": "br-federal, Brazil",
-            "zoom": 10.6,
+            "zoom": 11,
             "description": "uses br-federal svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -114,7 +114,7 @@
         },
         "properties": {
             "place_name": "ch-motorway, Switzerland",
-            "zoom": 13.4,
+            "zoom": 13,
             "description": "uses ch-motorway svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -135,7 +135,7 @@
         },
         "properties": {
             "place_name": "ch-main, Switzerland",
-            "zoom": 13.4,
+            "zoom": 13,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -156,7 +156,7 @@
         },
         "properties": {
             "place_name": "cz-motorway, Czech Republic",
-            "zoom": 12.9,
+            "zoom": 13,
             "description": "uses rectangle-red svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -177,7 +177,7 @@
         },
         "properties": {
             "place_name": "cz-road, Czech Republic",
-            "zoom": 13.4,
+            "zoom": 13,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -198,7 +198,7 @@
         },
         "properties": {
             "place_name": "de-federal, Germany",
-            "zoom": 15.6,
+            "zoom": 16,
             "description": "uses rectangle-yellow svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -219,7 +219,7 @@
         },
         "properties": {
             "place_name": "de-motorway, Germany",
-            "zoom": 12.9,
+            "zoom": 13,
             "description": "uses de-motorway svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -240,7 +240,7 @@
         },
         "properties": {
             "place_name": "dk-secondary, Denmark",
-            "zoom": 9.9,
+            "zoom": 10,
             "description": "uses rectangle white svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -261,7 +261,7 @@
         },
         "properties": {
             "place_name": "dk-primary, Denmark",
-            "zoom": 10.9,
+            "zoom": 11,
             "description": "uses rectangle-yellow svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -282,7 +282,7 @@
         },
         "properties": {
             "place_name": "fi-trunk, Finland",
-            "zoom": 8.3,
+            "zoom": 8,
             "description": "uses rectangle-yellow svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -303,7 +303,7 @@
         },
         "properties": {
             "place_name": "fi-regional, Finland",
-            "zoom": 8.7,
+            "zoom": 9,
             "description": "uses rectangle-white svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -324,7 +324,7 @@
         },
         "properties": {
             "place_name": "fi-main, Finland",
-            "zoom": 12.8,
+            "zoom": 13,
             "description": "uses rectangle-red svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -345,7 +345,7 @@
         },
         "properties": {
             "place_name": "gr-motorway, Greece",
-            "zoom": 12.9,
+            "zoom": 13,
             "description": "uses gr-motorway svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -366,7 +366,7 @@
         },
         "properties": {
             "place_name": "gr-national, Greece",
-            "zoom": 13.7,
+            "zoom": 14,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -387,7 +387,7 @@
         },
         "properties": {
             "place_name": "hr-motorway, Croatia",
-            "zoom": 12.3,
+            "zoom": 12,
             "description": "uses hr-motorway svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -408,7 +408,7 @@
         },
         "properties": {
             "place_name": "hr-county, Croatia",
-            "zoom": 12.3,
+            "zoom": 12,
             "description": "uses rectangle-yellow svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -429,7 +429,7 @@
         },
         "properties": {
             "place_name": "hr-state, Croatia",
-            "zoom": 12.5,
+            "zoom": 13,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -450,7 +450,7 @@
         },
         "properties": {
             "place_name": "hu-main, Hungary",
-            "zoom": 13.3,
+            "zoom": 13,
             "description": "uses hu-main svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -471,7 +471,7 @@
         },
         "properties": {
             "place_name": "hu-motorway, Hungary",
-            "zoom": 13.7,
+            "zoom": 14,
             "description": "uses hu-motorway svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -492,7 +492,7 @@
         },
         "properties": {
             "place_name": "in-state, India",
-            "zoom": 12.4,
+            "zoom": 12,
             "description": "uses in-state svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -513,7 +513,7 @@
         },
         "properties": {
             "place_name": "in-national, India",
-            "zoom": 11.7,
+            "zoom": 12,
             "description": "uses in-national svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -555,7 +555,7 @@
         },
         "properties": {
             "place_name": "mx-state, Mexico",
-            "zoom": 11.6,
+            "zoom": 12,
             "description": "uses mx-state svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -576,7 +576,7 @@
         },
         "properties": {
             "place_name": "nz-state, New Zealand",
-            "zoom": 12.5,
+            "zoom": 13,
             "description": "uses nz-state svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -597,7 +597,7 @@
         },
         "properties": {
             "place_name": "pe-regional, Peru",
-            "zoom": 12.1,
+            "zoom": 12,
             "description": "uses pe-regional svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -618,7 +618,7 @@
         },
         "properties": {
             "place_name": "pe-national, Peru",
-            "zoom": 12.1,
+            "zoom": 12,
             "description": "uses pe-national svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -639,7 +639,7 @@
         },
         "properties": {
             "place_name": "pl-expressway, Poland",
-            "zoom": 12.2,
+            "zoom": 12,
             "description": "uses rectangle-red svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -660,7 +660,7 @@
         },
         "properties": {
             "place_name": "pl-motorway",
-            "zoom": 11.6,
+            "zoom": 12,
             "description": "uses rectangle-red svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -681,7 +681,7 @@
         },
         "properties": {
             "place_name": "pl-national, Poland",
-            "zoom": 12.8,
+            "zoom": 13,
             "description": "uses rectangle-red svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -702,7 +702,7 @@
         },
         "properties": {
             "place_name": "pl-voivodeship, Poland",
-            "zoom": 9.1,
+            "zoom": 9,
             "description": "uses rectangle-yellow svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -723,7 +723,7 @@
         },
         "properties": {
             "place_name": "ro-county, Romania",
-            "zoom": 13.3,
+            "zoom": 13,
             "description": "uses ro-county svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -744,7 +744,7 @@
         },
         "properties": {
             "place_name": "ro-communal, Romania",
-            "zoom": 12.9,
+            "zoom": 13,
             "description": "uses ro-communal svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -765,7 +765,7 @@
         },
         "properties": {
             "place_name": "ro-national, Romania",
-            "zoom": 14.9,
+            "zoom": 15,
             "description": "uses ro-national svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -786,7 +786,7 @@
         },
         "properties": {
             "place_name": "ro-motorway, Romania",
-            "zoom": 13.7,
+            "zoom": 14,
             "description": "uses rectangle-green svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -807,7 +807,7 @@
         },
         "properties": {
             "place_name": "rs-motorway, Serbia",
-            "zoom": 13.2,
+            "zoom": 13,
             "description": "uses rectangle-green svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -828,7 +828,7 @@
         },
         "properties": {
             "place_name": "rs-state-1b, Serbia",
-            "zoom": 13.4,
+            "zoom": 13,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -870,7 +870,7 @@
         },
         "properties": {
             "place_name": "rs-state-2b, Serbia",
-            "zoom": 13.7,
+            "zoom": 14,
             "description": "uses rectangle-yellow svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -891,7 +891,7 @@
         },
         "properties": {
             "place_name": "se-main, Sweden",
-            "zoom": 10.1,
+            "zoom": 10,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -912,7 +912,7 @@
         },
         "properties": {
             "place_name": "si-main, Slovenia",
-            "zoom": 13.3,
+            "zoom": 13,
             "description": "uses rectangle-yellow svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -933,7 +933,7 @@
         },
         "properties": {
             "place_name": "si-motorway, Slovenia",
-            "zoom": 14.7,
+            "zoom": 15,
             "description": "uses si-motorway svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -954,7 +954,7 @@
         },
         "properties": {
             "place_name": "si-expressway, Slovenia",
-            "zoom": 13.8,
+            "zoom": 14,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -975,7 +975,7 @@
         },
         "properties": {
             "place_name": "sk-highway, Slovakia",
-            "zoom": 12.5,
+            "zoom": 13,
             "description": "uses rectangle-red svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -996,7 +996,7 @@
         },
         "properties": {
             "place_name": "sk-road, Slovakia",
-            "zoom": 14.5,
+            "zoom": 15,
             "description": "uses rectangle-blue svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -1017,7 +1017,7 @@
         },
         "properties": {
             "place_name": "us-interstate, United States",
-            "zoom": 13.3,
+            "zoom": 13,
             "description": "uses us-interstate svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -1038,7 +1038,7 @@
         },
         "properties": {
             "place_name": "us-interstate-duplex, United States",
-            "zoom": 11.7,
+            "zoom": 12,
             "description": "uses us-interstate-duplex svg",
             "highlights": [{
                 "geometry_type": "Point",
@@ -1059,7 +1059,7 @@
         },
         "properties": {
             "place_name": "us-interstate-business, United States",
-            "zoom": 12.6,
+            "zoom": 13,
             "description": "uses us-interstate-business svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -1080,7 +1080,7 @@
         },
         "properties": {
             "place_name": "us-highway, United States",
-            "zoom": 12.7,
+            "zoom": 13,
             "description": "uses us-highway svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -1101,7 +1101,7 @@
         },
         "properties": {
             "place_name": "us-highway-duplex, United States",
-            "zoom": 12.8,
+            "zoom": 13,
             "description": "uses us-highway-duplex svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -1122,7 +1122,7 @@
         },
         "properties": {
             "place_name": "us-highway-bypass, United States",
-            "zoom": 13.8,
+            "zoom": 14,
             "description": "uses us-highway-bypass svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -1164,7 +1164,7 @@
         },
         "properties": {
             "place_name": "us-state, United States",
-            "zoom": 15.3,
+            "zoom": 15,
             "description": "uses circle-white svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -1185,7 +1185,7 @@
         },
         "properties": {
             "place_name": "za-metropolitan, South Africa",
-            "zoom": 14.3,
+            "zoom": 14,
             "description": "uses rectangle-green svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -1206,7 +1206,7 @@
         },
         "properties": {
             "place_name": "za-regional, South Africa",
-            "zoom": 14.5,
+            "zoom": 15,
             "description": "uses rectangle-green svg",
             "highlights": [{
                 "geometry_type": "LineString",
@@ -1227,7 +1227,7 @@
         },
         "properties": {
             "place_name": "za-national, South Africa",
-            "zoom": 16.2,
+            "zoom": 16,
             "description": "uses za-national svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -1248,7 +1248,7 @@
         },
         "properties": {
             "place_name": "za-provincial, South Africa",
-            "zoom": 13.8,
+            "zoom": 14,
             "description": "uses za-provincial svg",
             "highlights": [{
                 "geometry_type": "MultiLineString",
@@ -1269,7 +1269,7 @@
         },
         "properties": {
             "place_name": "e-road, Sweden",
-            "zoom": 12.3,
+            "zoom": 12,
             "description": "uses rectangle-green svg\n(this shield exists in multiple countries: https://en.wikipedia.org/wiki/International_E-road_network",
             "highlights": [{
                 "geometry_type": "LineString",
