@@ -1309,7 +1309,7 @@
             },
             "properties": {
                 "place_name": "us-interstate, United States",
-                "zoom": 13,
+                "zoom": 14,
                 "description": "uses us-interstate svg",
                 "highlights": [
                     {
