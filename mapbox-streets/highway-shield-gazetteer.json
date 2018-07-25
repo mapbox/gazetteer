@@ -1672,6 +1672,87 @@
                     "country": "us"
                 }
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9,
+                    40.771
+                ]
+            },
+            "properties": {
+                "place_name": "us-interstate-truck, United States",
+                "zoom": 13,
+                "description": "uses us-interstate-truck svg",
+                "highlights": [
+                    {
+                        "geometry_type": "MultiLineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-interstate-truck"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.093,
+                    35.969
+                ]
+            },
+            "properties": {
+                "place_name": "us-highway-alternate, United States",
+                "zoom": 14,
+                "description": "uses us-highway-alternate svg",
+                "highlights": [
+                    {
+                        "geometry_type": "MultiLineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-highway-alternate"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.651,
+                    39.309
+                ]
+            },
+            "properties": {
+                "place_name": "us-highway-truck, United States",
+                "zoom": 16,
+                "description": "uses us-highway-truck svg",
+                "highlights": [
+                    {
+                        "geometry_type": "MultiLineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-highway-truck"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
         }
     ]
 }
