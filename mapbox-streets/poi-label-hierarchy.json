@@ -1,6 +1,6 @@
  {
     "type": "FeatureCollection",
-    "name": "poi-label",
+    "name": "poi-label-hierarchy",
     "features": [
         {
             "type": "Feature",
@@ -14,10 +14,9 @@
             "properties": {
                 "place_name": "Presidio and San Francisco National Cemetery, USA",
                 "zoom": 16,
-                "description": "Two low scalerank POIs next to one another surrounded by higher scalerank POIs.",
+                "description": "large cemetery inside of large park",
                 "highlights": [
                     {
-                        "id": 1586061741,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -27,7 +26,6 @@
                         }
                     },
                     {
-                        "id": 4013542811,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -37,7 +35,6 @@
                         }
                     },
                     {
-                        "id": 3588385560,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -61,10 +58,9 @@
             "properties": {
                 "place_name": "National mall, Washington DC, USA",
                 "zoom": 15,
-                "description": "National mall with smaller POIs inside of it.",
+                "description": "large park with smaller internal pois",
                 "highlights": [
                     {
-                        "id": 59916094,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -74,7 +70,6 @@
                         }
                     },
                     {
-                        "id": 33084109630,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -98,10 +93,9 @@
             "properties": {
                 "place_name": "San Antonio State Hospital, San Antonio TX, USA",
                 "zoom": 15,
-                "description": "San Antonio State Hospital.",
+                "description": "large hospital with smaller internal buildings",
                 "highlights": [
                     {
-                        "id": 4234445301,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -111,7 +105,6 @@
                         }
                     },
                     {
-                        "id": 4232356441,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -135,10 +128,9 @@
             "properties": {
                 "place_name": "San Antonio College, San Antonio TX, USA",
                 "zoom": 16,
-                "description": "University with sub POIs",
+                "description": "large university with smaller internal university buildings",
                 "highlights": [
                     {
-                        "id": 1317014761,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -147,7 +139,6 @@
                         }
                     },
                     {
-                        "id": 798745561,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -171,10 +162,9 @@
             "properties": {
                 "place_name": "Big Bend National Park TX, USA",
                 "zoom": 9,
-                "description": "Isolated National Park POI",
+                "description": "isolated large national park poi",
                 "highlights": [
                     {
-                        "id": 26253824,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -199,10 +189,9 @@
             "properties": {
                 "place_name": "Los Angeles Refinery - Wilmington Plant, Los Angeles CA, USA",
                 "zoom": 14,
-                "description": "Low sizerank industrial site",
+                "description": "isolated large industrial site",
                 "highlights": [
                     {
-                        "id": 498918471,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -212,7 +201,6 @@
                         }
                     },
                     {
-                        "id": 1366371111,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -236,10 +224,9 @@
             "properties": {
                 "place_name": "Santa Monica State Beach, Los Angeles CA, USA",
                 "zoom": 15,
-                "description": "State beach with smaller surrounding POIs",
+                "description": "state beach with smaller surrounding pois",
                 "highlights": [
                     {
-                        "id": 61034174,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -249,7 +236,6 @@
                         }
                     },
                     {
-                        "id": 3368896361,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -259,7 +245,6 @@
                         }
                     },
                     {
-                        "id": 227288531,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -283,10 +268,9 @@
             "properties": {
                 "place_name": "Rose Canyon Open Space, San Diego CA, USA",
                 "zoom": 16,
-                "description": "3 low sizerank POIs isolated and in close proximity in a city.",
+                "description": "three low sizerank pois isolated and in close proximity with no high sizerank pois.",
                 "highlights": [
                     {
-                        "id": 551994331,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -296,7 +280,6 @@
                         }
                     },
                     {
-                        "id": 55754434,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -306,7 +289,6 @@
                         }
                     },
                     {
-                        "id": 1293774511,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -330,10 +312,9 @@
             "properties": {
                 "place_name": "Spring Hill Golf Course, Mobile AL, USA",
                 "zoom": 15,
-                "description": "low sizerank golf course next to college.",
+                "description": "low sizerank golf course next to college",
                 "highlights": [
                     {
-                        "id": 2605317111,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -344,7 +325,6 @@
                         }
                     },
                     {
-                        "id": 3609334631,
                         "geometry_type": "Point",
                         "data_layer": "poi_label",
                         "data_layer_fields": {
@@ -369,7 +349,7 @@
             "properties": {
                 "place_name": "Miracle Mile Shops, Las Vegas NV",
                 "zoom": 17,
-                "description": "Shopping center with smaller restaurant, lodging, and shopping POIs",
+                "description": "large shopping center with smaller restaurant, lodging, and shopping pois",
                 "highlights": [
                     {
                         "geometry_type": "Point",
@@ -417,7 +397,7 @@
             "properties": {
                 "place_name": "Johns Hopkins University, Baltimore MD, USA",
                 "zoom": 16,
-                "description": "Low sizerank school near low sizerank park containing high sizerank garden and buildings.",
+                "description": "large university near low sizerank park containing high sizerank garden and buildings",
                 "highlights": [
                     {
                         "geometry_type": "Point",
