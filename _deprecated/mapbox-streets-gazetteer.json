@@ -1,0 +1,3626 @@
+{
+  "type": "FeatureCollection",
+  "data_layers": [
+    {
+      "data_layer": "barrier_line",
+      "description": "This layer includes lines and polygons for barriers— things such as walls and fences."
+    },
+    {
+      "data_layer": "landuse",
+      "description": "This layer includes polygons representing both land-use and land-cover."
+    },
+    {
+      "data_layer": "place_label",
+      "description": "This layer contains points for labeling human settlements."
+    },
+    {
+      "data_layer": "poi_label",
+      "description": "This layer is used to place icons and labels for various points of interest (POIs)."
+    },
+    {
+      "data_layer": "road",
+      "description": "Points, polygons, and lines representing road geometries."
+    },
+    {
+      "data_layer": "building",
+      "description": "This layer contains polygons and lines for building outlines."
+    }
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.4681, 51.88]
+      },
+      "properties": {
+        "place_name": "Brecon Beacons National Park",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "cliff"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "scrub"
+            }
+          },
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "national_park"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.2071, 49.7066]
+      },
+      "properties": {
+        "place_name": "Étretat, France",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "cliff"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.5764, 37.1006]
+      },
+      "properties": {
+        "place_name": "St. George, Utah",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "cliff"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0655, 38.876]
+      },
+      "properties": {
+        "place_name": "Arlington National Cemetery",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "fence"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "cemetery"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.57833, 28.40173]
+      },
+      "properties": {
+        "place_name": "Disney World, Florida",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "gate"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.02289, 38.88904]
+      },
+      "properties": {
+        "place_name": "Hirshorn Sculpture Garden",
+        "zoom": 20,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "hedge"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4206, 37.8092]
+      },
+      "properties": {
+        "place_name": "North coastline of San Francisco",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "barrier_line",
+            "data_layer_fields": {
+              "class": "land"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.3727, 39.8834]
+      },
+      "properties": {
+        "place_name": "Beijing, China",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.098, 4.6038]
+      },
+      "properties": {
+        "place_name": "Bogota, Colombia",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2657, 30.0596]
+      },
+      "properties": {
+        "place_name": "Cairo, Egypt",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.9867, 41.0234]
+      },
+      "properties": {
+        "place_name": "Istanbul, Turkey",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8427, -6.2511]
+      },
+      "properties": {
+        "place_name": "Jakarta, Indonesia",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3514, 22.5734]
+      },
+      "properties": {
+        "place_name": "Kolkata, India",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.3598, 6.4968]
+      },
+      "properties": {
+        "place_name": "Lagos, Nigeria",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.135769, 51.49998]
+      },
+      "properties": {
+        "place_name": "London, United Kingdom",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.257226, 34.031765]
+      },
+      "properties": {
+        "place_name": "Los Angeles, United States",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.1437, 19.3665]
+      },
+      "properties": {
+        "place_name": "Mexico City, Mexico",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6144, 55.7426]
+      },
+      "properties": {
+        "place_name": "Moscow, Russia",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.908, 18.9712]
+      },
+      "properties": {
+        "place_name": "Mumbai, India",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9933, 40.7298]
+      },
+      "properties": {
+        "place_name": "New York City, United States",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.319985, 48.858882]
+      },
+      "properties": {
+        "place_name": "Paris, France",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.2175, -22.9508]
+      },
+      "properties": {
+        "place_name": "Rio de Janeiro, Brazil",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6521, -23.6395]
+      },
+      "properties": {
+        "place_name": "São Paulo, Brazil",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4442, 31.221]
+      },
+      "properties": {
+        "place_name": "Shanghai, China",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7266, 35.7116]
+      },
+      "properties": {
+        "place_name": "Tokyo, Japan",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.992697, 38.899396]
+      },
+      "properties": {
+        "place_name": "Washington, DC, United States",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 0,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.466667, 13.75]
+      },
+      "properties": {
+        "place_name": "Bangkok, Thailand",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3817, -34.6033]
+      },
+      "properties": {
+        "place_name": "Buenos Aires, Argentina",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.664248, 41.82698]
+      },
+      "properties": {
+        "place_name": "Chicago, United States",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.436742, 29.784969]
+      },
+      "properties": {
+        "place_name": "Houston, United States",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.2978, -4.3957]
+      },
+      "properties": {
+        "place_name": "Kinshasa, Democratic Republic of the Congo",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9732, 14.565]
+      },
+      "properties": {
+        "place_name": "Manila, Philippines",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2044, 28.5821]
+      },
+      "properties": {
+        "place_name": "New Delhi, Egypt",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.4, 34.6367]
+      },
+      "properties": {
+        "place_name": "Osaka, Japan",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.9662, 37.5598]
+      },
+      "properties": {
+        "place_name": "Seoul, South Korea",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 1,
+              "capital": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0575, 42.3423]
+      },
+      "properties": {
+        "place_name": "Boston, United States",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.4031, 23.7464]
+      },
+      "properties": {
+        "place_name": "Dhaka, Bangladesh",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2793, 23.1063]
+      },
+      "properties": {
+        "place_name": "Guangzhou, China",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67.0049, 24.8777]
+      },
+      "properties": {
+        "place_name": "Karachi, Pakistan",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.3033, 31.4468]
+      },
+      "properties": {
+        "place_name": "Lahore, Pakistan",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2,
+              "capital": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.448276, 37.760548]
+      },
+      "properties": {
+        "place_name": "San Francisco, United States",
+        "zoom": 10,
+        "sets": ["Cities"],
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0559, 22.5164]
+      },
+      "properties": {
+        "place_name": "Shenzhen, China",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.1609, 39.0752]
+      },
+      "properties": {
+        "place_name": "Tianjin, China",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "city",
+              "scalerank": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.4728, 24.1511]
+      },
+      "properties": {
+        "place_name": "Kufra Oasis, Libya",
+        "zoom": 12,
+        "description": "Agriculture project using groundwater from the Nubian Sandstone Aquifer System. Irrigation circles provide recognizable landmarks seen from space.",
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3847, 34.7316]
+      },
+      "properties": {
+        "place_name": "Antelope Valley California Poppy Preserve",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "grass"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.0902, 36.5262]
+      },
+      "properties": {
+        "place_name": "Fresno County, CA",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.7867, 41.5817]
+      },
+      "properties": {
+        "place_name": "West Des Moines, Iowa",
+        "zoom": 12,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "agriculture"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-139.2778, 60.0559]
+      },
+      "properties": {
+        "place_name": "Hubbard Glacier",
+        "zoom": 9,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "glacier"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.6577, 36.3724]
+      },
+      "properties": {
+        "place_name": "San Benito Mountain Natural Area",
+        "zoom": 12,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "grass"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "scrub"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "wood"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.9388, -26.2628]
+      },
+      "properties": {
+        "place_name": "Chris Hani Baragwanath Hospital",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "hospital"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1936, 39.9496]
+      },
+      "properties": {
+        "place_name": "Hospital of the University of Pennsylvania",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "hospital"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4302, 33.6357]
+      },
+      "properties": {
+        "place_name": "Hartsfield Jackson Atlanta International Airport",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "industrial"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9643, 40.7826]
+      },
+      "properties": {
+        "place_name": "Central Park",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.4461, 40.5]
+      },
+      "properties": {
+        "place_name": "Rutgers, The State University of New Jersey",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "pitch"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "scrub"
+            }
+          },
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "wetland"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2548, 51.756]
+      },
+      "properties": {
+        "place_name": "University of Oxford",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92751, 40.82825]
+      },
+      "properties": {
+        "place_name": "Yankee Stadium and Macombs Dam Park",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "pitch"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0163, 51.53853]
+      },
+      "properties": {
+        "place_name": "Olympic Stadium, London",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "pitch"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.7212, 50.6228]
+      },
+      "properties": {
+        "place_name": "Delabole Slate Quarry, England",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "rock"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.208, 44.5886]
+      },
+      "properties": {
+        "place_name": "Dune of Pilat, France",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "sand"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.31685, 18.32921]
+      },
+      "properties": {
+        "place_name": "Flamenco Beach, Puerto Rico",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "sand"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.1391, 25.1174]
+      },
+      "properties": {
+        "place_name": "Palm Jumeirah, Dubai",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "sand"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9805, 36.8514]
+      },
+      "properties": {
+        "place_name": "Virginia Beach",
+        "zoom": 13,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "sand"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.378, 46.6117]
+      },
+      "properties": {
+        "place_name": "New Brunswick, Canada",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "wood"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0259, 22.4923]
+      },
+      "properties": {
+        "place_name": "Mai Po Nature Reserve, Hong Kong",
+        "zoom": 15,
+        "highlights": [
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "national_park"
+            }
+          },
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "wetland"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.4743, 37.7789]
+      },
+      "properties": {
+        "place_name": "Yosemite National Park",
+        "zoom": 10,
+        "highlights": [
+          {
+            "data_layer": "landuse_overlay",
+            "data_layer_fields": {
+              "class": "national_park"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7599, 52.0406]
+      },
+      "properties": {
+        "place_name": "City grid, Milton Keynes, UK",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.5129, 35.898]
+      },
+      "properties": {
+        "place_name": "City grid, Valletta, Malta",
+        "zoom": 16,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.6008, -34.9207]
+      },
+      "properties": {
+        "place_name": "City grid, Adelaide, Australia",
+        "zoom": 16,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.9281, 41.3071]
+      },
+      "properties": {
+        "place_name": "City grid, New Haven, Connecticut",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "sidewalk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.466, 49.4861]
+      },
+      "properties": {
+        "place_name": "City grid, Mannhein, Germany",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            },
+            "$type": "Polygon"
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1576, 41.3892]
+      },
+      "properties": {
+        "place_name": "City grid, Eixample district, Barcelona",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "cycleway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "sidewalk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "tunnel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1682, 39.9482]
+      },
+      "properties": {
+        "place_name": "City grid, Philadelphia, Pennsylvania",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4868, 41.8897]
+      },
+      "properties": {
+        "place_name": "Roman Forum",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "building",
+            "data_layer_fields": { }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "wood"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "grass"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8921, 40.7668]
+      },
+      "properties": {
+        "place_name": "City grid, Salt Lake City, Utah",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.6759, 45.5181]
+      },
+      "properties": {
+        "place_name": "City grid, Portland, Oregon",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9893, 40.7264]
+      },
+      "properties": {
+        "place_name": "City grid, New York City",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0149, 38.8937]
+      },
+      "properties": {
+        "place_name": "City grid, Washington, DC",
+        "zoom": 13,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1682, 39.9482]
+      },
+      "properties": {
+        "place_name": "Rittenhouse Square, Philadelphia",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1748, 41.3827]
+      },
+      "properties": {
+        "place_name": "Ciutat Vella, Barcelona",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            },
+            "$type": "Polygon"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9352, 14.3259]
+      },
+      "properties": {
+        "place_name": "Dasmariñas, Philippines",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.964, 41.0093]
+      },
+      "properties": {
+        "place_name": "Faith, Istanbul",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6396, -23.5498]
+      },
+      "properties": {
+        "place_name": "República, São Paulo",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6456, 41.8755]
+      },
+      "properties": {
+        "place_name": "Jane Byrne Interchange, Chicago",
+        "zoom": 17,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2219, 34.0316]
+      },
+      "properties": {
+        "place_name": "East Los Angeles Interchange (southern portion)",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4569, 37.7994]
+      },
+      "properties": {
+        "place_name": "Presidio of San Francisco (east side)",
+        "zoom": 16,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park"
+            }
+          },
+          {
+            "data_layer": "building",
+            "data_layer_fields": { }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7457, 35.6796]
+      },
+      "properties": {
+        "place_name": "Shuto Expressway (Miyakezaka JCT), Tokyo",
+        "zoom": 17,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3804, 43.6538]
+      },
+      "properties": {
+        "place_name": "The PATH (Toronto Eaton Centre)",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "tunnel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.339536, 52.508316]
+      },
+      "properties": {
+        "place_name": "Berlin Zoological Garden",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "zoo"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "zoo",
+              "scalerank": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.481996, 42.731955]
+      },
+      "properties": {
+        "place_name": "Michigan State University",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school",
+              "type": "university"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.098264, 51.509307]
+      },
+      "properties": {
+        "place_name": "Millennium Bridge, London",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "ferry",
+              "type": "ferry",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.5763, 14.8683]
+      },
+      "properties": {
+        "place_name": "Fish ponds, Sasmuan, Philippines",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "path",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "water",
+            "data_layer_fields": { }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0592, 42.3468]
+      },
+      "properties": {
+        "place_name": "South Bay Interchange, Boston",
+        "zoom": 16,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "tunnel"
+            }
+          },
+           {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "bridge"
+            }
+          },
+           {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "motorway_junction",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "reflen": "7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.666, 45.530]
+      },
+      "properties": {
+        "place_name": "Roads at Rose Quarter, Portland",
+        "zoom": 16.5,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street_limited",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "sidewalk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "sidewalk",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "steps",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "level_crossing",
+              "type": "level_crossing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.328, 48.863]
+      },
+      "properties": {
+        "place_name": "Tuileries Garden, Paris",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "steps",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none",
+              "$type": "Polygon"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "park"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "park",
+              "type": "Park",
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "water",
+            "data_layer_fields": { }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5501, 28.372]
+      },
+      "properties": {
+        "place_name": "Epcot Center, Disney World, Florida",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "toilet",
+              "type": "Toilets",
+              "scalerank": 5
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "drinking-water",
+              "type": "Drinking Water",
+              "scalerank": 5
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "information",
+              "type": "Information",
+              "scalerank": 4
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "amusement-park",
+              "type": "Theme Park",
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "garden"
+            }
+          },
+          {
+            "data_layer": "water",
+            "data_layer_fields": { }
+          },
+          {
+            "data_layer": "water_label",
+            "data_layer_fields": { }
+          },
+          {
+            "data_layer": "building",
+            "data_layer_fields": { }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.401, 60.9856]
+      },
+      "properties": {
+        "place_name": "Lærdal Tunnel, Sogn og Fjordane",
+        "zoom": 13,
+        "sets": ["Auto Navigation"],
+        "description": "Longest tunnel in the world",
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road_label",
+            "data_layer_fields": {
+              "shield": "e-road"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.924, 50.1101]
+      },
+      "properties": {
+        "place_name": "Whistler Blackcomb",
+        "zoom": 14,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "piste",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "track",
+              "type": "piste",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "aerialway"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4692, 49.4791]
+      },
+      "properties": {
+        "place_name": "Mannheim Hauptbahnhof",
+        "zoom": 17,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian",
+              "$type": "Polygon"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "steps",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "rail_station_label",
+            "data_layer_fields": {
+              "network": "rail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.182, 39.9559]
+      },
+      "properties": {
+        "place_name": "Philadelphia 30th Street Station",
+        "zoom": 16,
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "minor_rail",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "rail_station_label",
+            "data_layer_fields": {
+              "network": "rail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.5622, 40.3593]
+      },
+      "properties": {
+        "place_name": "Cycleway over Autovía del Este, Madrid, Spain",
+        "zoom": 17,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "cycleway",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.572, 50.050]
+      },
+      "properties": {
+        "place_name": "Frankfort Airport",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "industrial"
+            }
+          },
+          {
+            "data_layer": "airport_label",
+            "data_layer_fields": {
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "rail_station_label",
+            "data_layer_fields": {
+              "network": "rail"
+            }
+          },
+          {
+            "data_layer": "rail_station_label",
+            "data_layer_fields": {
+              "network": "rail-light"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "bridge"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "aeroway",
+            "data_layer_fields": {
+              "type": "runway"
+            }
+          },
+          {
+            "data_layer": "aeroway",
+            "data_layer_fields": {
+              "type": "taxiway"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.392, 40.088]
+      },
+      "properties": {
+        "place_name": "King of Prussia Mall, Pennsylvania",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "parking"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service:parking_aisle",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "motorway_junction",
+            "data_layer_fields": {
+              "class": "motorway"
+            }
+          },
+          {
+            "data_layer": "motorway_junction",
+            "data_layer_fields": {
+              "class": "motorway_link"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.554, 28.358]
+      },
+      "properties": {
+        "place_name": "Disney’s Hollywood Studios parking lot, Walt Disney World",
+        "zoom": 16,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "parking"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "none",
+              "oneway": "true"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service:parking_aisle",
+              "structure": "none",
+              "oneway": "true"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.448, 33.639]
+      },
+      "properties": {
+        "place_name": "Hartsfield-Jackson Atlanta International Airport parking lots",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "parking"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "industrial"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none",
+              "oneway": "true"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service:parking_aisle",
+              "structure": "none",
+              "oneway": "true"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.246, 43.434]
+      },
+      "properties": {
+        "place_name": "ONroute Cambridge Service Centre",
+        "zoom": 15,
+        "sets": ["Auto Navigation"],
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "parking"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "picnic_site"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "link",
+              "type": "trunk_link",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "none",
+              "oneway":"true"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service:parking_aisle",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.057, -33.875]
+      },
+      "properties": {
+        "place_name": "Rockwood Cemetery, Sydney",
+        "zoom": 14,
+        "sets": ["Auto Navigation"],
+        "description": "One of the largest cemeteries in the world",
+        "highlights": [
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "cemetery"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "park",
+              "type": "golf_course"
+            }
+          },
+          {
+            "data_layer": "landuse",
+            "data_layer_fields": {
+              "class": "school"
+            }
+          },
+          {
+            "data_layer": "poi_label",
+            "data_layer_fields": {
+              "maki": "cemetery",
+              "scalerank": 1
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service",
+              "type": "service",
+              "structure": "none"
+            }
+          },
+          {
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path",
+              "type": "footway",
+              "structure": "none"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

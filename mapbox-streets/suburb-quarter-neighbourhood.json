@@ -1,0 +1,433 @@
+ {
+    "type": "FeatureCollection",
+    "name": "place_sub-settlement",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.979,
+                    40.694
+                ]
+            },
+            "properties": {
+                "place_name": "New York City",
+                "zoom": 9,
+                "description": "minimum z-level for suburbs within a large, urban context",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.059,
+                    42.359
+                ]
+            },
+            "properties": {
+                "place_name": "Boston, MA",
+                "zoom": 13,
+                "description": "urban area with a mixture of sub-settlements",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "neighbourhood"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "quarter"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.888,
+                    22.554
+                ]
+            },
+            "properties": {
+                "place_name": "Shenzhen, China",
+                "zoom": 12,
+                "description": "urban area with suburb and quarter place labels\n",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "quarter"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.464,
+                    31.165
+                ]
+            },
+            "properties": {
+                "place_name": "Shanghai, China",
+                "zoom": 10,
+                "description": "large-scale urban area with mixture of suburb and quarter place-labels",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "quarter"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.628,
+                    49.861
+                ]
+            },
+            "properties": {
+                "place_name": "Darmstadt, Germany",
+                "zoom": 11,
+                "description": "regional area with suburb and quarter place-lables",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "quarter"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.605,
+                    50.139
+                ]
+            },
+            "properties": {
+                "place_name": "Frankfurt, Germany",
+                "zoom": 9,
+                "description": "regional, metro area with a high density of suburb labels",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378,
+                    52.532
+                ]
+            },
+            "properties": {
+                "place_name": "Berlin, Germany",
+                "zoom": 9,
+                "description": "Large, metro area with a high density of suburb labels",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.191,
+                    45.465
+                ]
+            },
+            "properties": {
+                "place_name": "Milan, Italy",
+                "zoom": 12,
+                "description": "large urban area with a high density of suburb labels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.179,
+                    36.798
+                ]
+            },
+            "properties": {
+                "place_name": "Tunis, Tunisia",
+                "zoom": 13,
+                "description": "City center with suburbs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.342,
+                    33.767
+                ]
+            },
+            "properties": {
+                "place_name": "Atlanta, GA",
+                "zoom": 13,
+                "description": "Suburban-like metro area with suburb and neighborhood place-labels",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "neighbourhood"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.54,
+                    52.017
+                ]
+            },
+            "properties": {
+                "place_name": "Bielefeld, Germany",
+                "zoom": 11,
+                "description": "Mid-sized metro area with mix of suburb and quarter labels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.759,
+                    35.682
+                ]
+            },
+            "properties": {
+                "place_name": "Tokyo, Japan",
+                "zoom": 14,
+                "description": "City-centre with only quarters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.998,
+                    40.717
+                ]
+            },
+            "properties": {
+                "place_name": "New York, NY",
+                "zoom": 14,
+                "description": "Downtown Manhattan and Brooklyn neighbourhood labels",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "neighbourhood"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.033,
+                    49.038
+                ]
+            },
+            "properties": {
+                "place_name": "Cergy, France",
+                "zoom": 13,
+                "description": "regional area with high density of neighbourhood labels, in addition to quarter and suburb labels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.201,
+                    48.972
+                ]
+            },
+            "properties": {
+                "place_name": "Cormeilles-en-Parisis, France",
+                "zoom": 14,
+                "description": "Town-centre with high density of neighborhood labels",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "neighbourhood"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.75,
+                    52.041
+                ]
+            },
+            "properties": {
+                "place_name": "Milton Keynes, England",
+                "zoom": 11,
+                "description": "High density cluster of suburb labels, within a field of town and village labels",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "suburb"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.095,
+                    51.569
+                ]
+            },
+            "properties": {
+                "place_name": "Hackney, England",
+                "zoom": 13,
+                "description": "North London suburb and neighbourhood labels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.74,
+                    9.021
+                ]
+            },
+            "properties": {
+                "place_name": "Addis-Ababa, Ethiopia",
+                "zoom": 13,
+                "description": "Urban area with distinct division of suburb and neighbourhood label usage. ",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "text_anchor": "bottom-left"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "type": "neighbourhood"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
