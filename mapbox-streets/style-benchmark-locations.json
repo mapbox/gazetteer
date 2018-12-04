@@ -42,7 +42,7 @@
                 },
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road"
                     },
                     {
@@ -143,7 +143,7 @@
                         "data_layer": "building"
                     },
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road"
                     }
                 ]
@@ -170,7 +170,7 @@
                         "data_layer": "poi_label"
                     },
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road"
                     },
                     {
@@ -197,7 +197,7 @@
                 },
                 "highlights": [
                     {
-                        "geometry_type": "MultiPolygon",
+                        "geometry_type": "Polygon",
                         "data_layer": "water"
                     }
                 ]
@@ -239,7 +239,7 @@
                         "data_layer": "poi_label"
                     },
                     {
-                        "geometry_type": "MultiPolygon",
+                        "geometry_type": "Polygon",
                         "data_layer": "hillshade"
                     }
                 ]
@@ -335,7 +335,7 @@
                         "data_layer": "landuse"
                     },
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road"
                     },
                     {
@@ -350,7 +350,7 @@
                         "data_layer": "poi_label"
                     },
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "class": "path"
@@ -376,7 +376,7 @@
                 },
                 "highlights": [
                     {
-                        "geometry_type": "MultiPolygon",
+                        "geometry_type": "Polygon",
                         "data_layer": "hillshade"
                     },
                     {
@@ -420,7 +420,7 @@
                 "zoom": 6,
                 "highlights": [
                     {
-                        "geometry_type": "MultiPolygon",
+                        "geometry_type": "Polygon",
                         "data_layer": "landcover"
                     },
                     {
@@ -431,7 +431,7 @@
                         }
                     },
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road"
                     },
                     {
@@ -465,11 +465,11 @@
                         }
                     },
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road"
                     },
                     {
-                        "geometry_type": "MultiPolygon",
+                        "geometry_type": "Polygon",
                         "data_layer": "hillshade"
                     }
                 ]
