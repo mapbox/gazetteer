@@ -18,7 +18,7 @@ A gazetteer is a [GeoJSON](https://tools.ietf.org/html/rfc7946) FeatureCollectio
         "place_name": string,
         "zoom": number, // 0-22
         "description": string (optional),
-        "tags": { // Optional
+        "tags": {
           value: value,
           ...
         }: object (optional),
