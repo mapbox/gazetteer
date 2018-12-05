@@ -1,0 +1,479 @@
+ {
+    "type": "FeatureCollection",
+    "name": "style-benchmark-locations",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.392,
+                    29.799
+                ]
+            },
+            "properties": {
+                "place_name": "Road labels, Houston, z12",
+                "zoom": 12,
+                "tags": {
+                    "zoom": "12"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.381,
+                    29.749
+                ]
+            },
+            "properties": {
+                "place_name": "Road labels, Houston, z13",
+                "zoom": 13,
+                "tags": {
+                    "zoom": "13"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "landuse"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985,
+                    40.758
+                ]
+            },
+            "properties": {
+                "place_name": "High zoom labels, buildings, roads, New York City, z16",
+                "zoom": 16,
+                "tags": {
+                    "zoom": "16"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "building"
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985,
+                    40.758
+                ]
+            },
+            "properties": {
+                "place_name": "High zoom labels, buildings, roads, New York City, z17",
+                "zoom": 17,
+                "tags": {
+                    "zoom": "17"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label"
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "building"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76,
+                    35.695
+                ]
+            },
+            "properties": {
+                "place_name": "High zoom cjk labels, when using local lang, buildings, roads, Tokyo, z16",
+                "zoom": 16,
+                "tags": {
+                    "zoom": "16"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "building"
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76,
+                    35.695
+                ]
+            },
+            "properties": {
+                "place_name": "High zoom cjk labels, when using local lang, buildings, roads, Tokyo, z17",
+                "zoom": 17,
+                "tags": {
+                    "zoom": "17"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label"
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "building"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.602,
+                    61.521
+                ]
+            },
+            "properties": {
+                "place_name": "Water, Finland, z10",
+                "zoom": 10,
+                "tags": {
+                    "zoom": "10"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "water"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.21,
+                    48.745
+                ]
+            },
+            "properties": {
+                "place_name": "Landuse, Paris, z11",
+                "zoom": 11,
+                "tags": {
+                    "zoom": "11"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "class": "settlement"
+                        }
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "landuse"
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "hillshade"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.314,
+                    33.996
+                ]
+            },
+            "properties": {
+                "place_name": "Buildings, LA, z16",
+                "zoom": 16,
+                "tags": {
+                    "zoom": "16"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "building"
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.316,
+                    48.867
+                ]
+            },
+            "properties": {
+                "place_name": "High zoom roads, paths, landuse, labels, Paris, 15",
+                "zoom": 15,
+                "tags": {
+                    "zoom": "15"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "class": "pedestrian"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "landuse"
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "transit_stop_label"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.316,
+                    48.867
+                ]
+            },
+            "properties": {
+                "place_name": "High zoom pedestrian polygon fills, roads, paths, landuse, labels, Paris, z16",
+                "zoom": 16,
+                "tags": {
+                    "zoom": "16"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "landuse"
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "class": "pedestrian"
+                        }
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "poi_label"
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "class": "path"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.835,
+                    46.317
+                ]
+            },
+            "properties": {
+                "place_name": "Hillshading, Switzerland, z9",
+                "zoom": 9,
+                "tags": {
+                    "zoom": "9"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "hillshade"
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.835,
+                    46.317
+                ]
+            },
+            "properties": {
+                "place_name": "Hillshading and contours, Switzerland, z12",
+                "zoom": 12,
+                "highlights": [
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "hillshade"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.416,
+                    51.056
+                ]
+            },
+            "properties": {
+                "place_name": "Landcover, Germany z6",
+                "zoom": 6,
+                "highlights": [
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "landcover"
+                    },
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "class": "settlement"
+                        }
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "admin"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.762,
+                    50.322
+                ]
+            },
+            "properties": {
+                "place_name": "Landcover, Germany z8",
+                "zoom": 8,
+                "tags": {
+                    "zoom": "8"
+                },
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "place_label",
+                        "data_layer_fields": {
+                            "class": "settlement"
+                        }
+                    },
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road"
+                    },
+                    {
+                        "geometry_type": "Polygon",
+                        "data_layer": "hillshade"
+                    }
+                ]
+            }
+        }
+    ]
+}
