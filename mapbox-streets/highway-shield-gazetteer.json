@@ -17,7 +17,7 @@
                 "description": "uses rectangle-blue svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-blue"
@@ -44,7 +44,7 @@
                 "description": "uses rectangle-blue svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-blue"
@@ -152,7 +152,7 @@
                 "description": "uses ch-motorway svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "ch-motorway"
@@ -179,7 +179,7 @@
                 "description": "uses rectangle-blue svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-blue"
@@ -206,7 +206,7 @@
                 "description": "uses rectangle-red svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-red"
@@ -260,7 +260,7 @@
                 "description": "uses rectangle-yellow svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-yellow"
@@ -287,7 +287,7 @@
                 "description": "uses de-motorway svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "de-motorway"
@@ -422,7 +422,7 @@
                 "description": "uses rectangle-red svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-red"
@@ -449,7 +449,7 @@
                 "description": "uses gr-motorway svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "gr-motorway"
@@ -476,7 +476,7 @@
                 "description": "uses rectangle-blue svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-blue"
@@ -503,7 +503,7 @@
                 "description": "uses hr-motorway svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "hr-motorway"
@@ -638,7 +638,7 @@
                 "description": "uses in-state svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "in-state"
@@ -665,7 +665,7 @@
                 "description": "uses in-national svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "in-national"
@@ -800,7 +800,7 @@
                 "description": "uses pe-national svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "pe-national"
@@ -827,7 +827,7 @@
                 "description": "uses rectangle-red svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-red"
@@ -854,7 +854,7 @@
                 "description": "uses rectangle-red svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-red"
@@ -1016,7 +1016,7 @@
                 "description": "uses rectangle-green svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-green"
@@ -1043,7 +1043,7 @@
                 "description": "uses rectangle-green svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-green"
@@ -1205,7 +1205,7 @@
                 "description": "uses si-motorway svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "si-motorway"
@@ -1232,7 +1232,7 @@
                 "description": "uses rectangle-blue svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-blue"
@@ -1259,7 +1259,7 @@
                 "description": "uses rectangle-red svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "rectangle-red"
@@ -1313,7 +1313,7 @@
                 "description": "uses us-interstate svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "us-interstate"
@@ -1394,7 +1394,7 @@
                 "description": "uses us-highway svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "us-highway"
@@ -1421,7 +1421,7 @@
                 "description": "uses us-highway-duplex svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "us-highway-duplex"
@@ -1502,7 +1502,7 @@
                 "description": "uses circle-white svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "circle-white"
@@ -1583,7 +1583,7 @@
                 "description": "uses za-national svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "za-national"
@@ -1610,7 +1610,7 @@
                 "description": "uses za-provincial svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "za-provincial"
@@ -1688,7 +1688,7 @@
                 "description": "uses us-interstate-truck svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "us-interstate-truck"
@@ -1715,7 +1715,7 @@
                 "description": "uses us-highway-alternate svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "us-highway-alternate"
@@ -1742,7 +1742,7 @@
                 "description": "uses us-highway-truck svg",
                 "highlights": [
                     {
-                        "geometry_type": "MultiLineString",
+                        "geometry_type": "LineString",
                         "data_layer": "road",
                         "data_layer_fields": {
                             "shield": "us-highway-truck"
