@@ -5,8 +5,6 @@ gazetteer
 
 An index of places for styling maps, organized into a collection of machine-readable files.
 
-=======
-
 ### Usage
 
 This package exports two functions:
