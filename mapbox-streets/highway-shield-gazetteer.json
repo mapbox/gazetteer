@@ -1,0 +1,1758 @@
+ {
+    "type": "FeatureCollection",
+    "name": "highway-shield-gazetteer",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.468,
+                    47.101
+                ]
+            },
+            "properties": {
+                "place_name": "at-motorway, Austria",
+                "zoom": 12,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "at"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.901,
+                    47.266
+                ]
+            },
+            "properties": {
+                "place_name": "at-state-b, Austria",
+                "zoom": 14,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "at"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.23,
+                    47.125
+                ]
+            },
+            "properties": {
+                "place_name": "at-expressway, Austria",
+                "zoom": 11,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "at"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.66,
+                    -23.512
+                ]
+            },
+            "properties": {
+                "place_name": "br-state, Brazil",
+                "zoom": 13,
+                "description": "Uses br-state svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "br-state"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "br"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.326,
+                    -22.847
+                ]
+            },
+            "properties": {
+                "place_name": "br-federal, Brazil",
+                "zoom": 11,
+                "description": "uses br-federal svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "br-federal"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "br"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.61,
+                    46.522
+                ]
+            },
+            "properties": {
+                "place_name": "ch-motorway, Switzerland",
+                "zoom": 13,
+                "description": "uses ch-motorway svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "ch-motorway"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "ch"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.65,
+                    46.516
+                ]
+            },
+            "properties": {
+                "place_name": "ch-main, Switzerland",
+                "zoom": 13,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "ch"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.515,
+                    50.02
+                ]
+            },
+            "properties": {
+                "place_name": "cz-motorway, Czech Republic",
+                "zoom": 13,
+                "description": "uses rectangle-red svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-red"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "cz"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.497,
+                    49.998
+                ]
+            },
+            "properties": {
+                "place_name": "cz-road, Czech Republic",
+                "zoom": 13,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "cz"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.372,
+                    52.521
+                ]
+            },
+            "properties": {
+                "place_name": "de-federal, Germany",
+                "zoom": 16,
+                "description": "uses rectangle-yellow svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-yellow"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "de"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311,
+                    52.532
+                ]
+            },
+            "properties": {
+                "place_name": "de-motorway, Germany",
+                "zoom": 13,
+                "description": "uses de-motorway svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "de-motorway"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "de"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.435,
+                    55.552
+                ]
+            },
+            "properties": {
+                "place_name": "dk-secondary, Denmark",
+                "zoom": 10,
+                "description": "uses rectangle white svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-white"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "dk"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.301,
+                    55.706
+                ]
+            },
+            "properties": {
+                "place_name": "dk-primary, Denmark",
+                "zoom": 11,
+                "description": "uses rectangle-yellow svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-yellow"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "dk"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.275,
+                    66.384
+                ]
+            },
+            "properties": {
+                "place_name": "fi-trunk, Finland",
+                "zoom": 8,
+                "description": "uses rectangle-yellow svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-yellow"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "fi"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.024,
+                    60.344
+                ]
+            },
+            "properties": {
+                "place_name": "fi-regional, Finland",
+                "zoom": 9,
+                "description": "uses rectangle-white svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-white"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "fi"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.849,
+                    60.313
+                ]
+            },
+            "properties": {
+                "place_name": "fi-main, Finland",
+                "zoom": 13,
+                "description": "uses rectangle-red svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-red"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "fi"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.972,
+                    40.646
+                ]
+            },
+            "properties": {
+                "place_name": "gr-motorway, Greece",
+                "zoom": 13,
+                "description": "uses gr-motorway svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "gr-motorway"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "gr"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.941,
+                    40.683
+                ]
+            },
+            "properties": {
+                "place_name": "gr-national, Greece",
+                "zoom": 14,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "gr"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.539,
+                    44.492
+                ]
+            },
+            "properties": {
+                "place_name": "hr-motorway, Croatia",
+                "zoom": 12,
+                "description": "uses hr-motorway svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "hr-motorway"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "hr"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.578,
+                    44.507
+                ]
+            },
+            "properties": {
+                "place_name": "hr-county, Croatia",
+                "zoom": 12,
+                "description": "uses rectangle-yellow svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-yellow"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "hr"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.519,
+                    44.441
+                ]
+            },
+            "properties": {
+                "place_name": "hr-state, Croatia",
+                "zoom": 13,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "hr"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.07,
+                    47.459
+                ]
+            },
+            "properties": {
+                "place_name": "hu-main, Hungary",
+                "zoom": 13,
+                "description": "uses hu-main svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "hu-main"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "hu"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1,
+                    47.474
+                ]
+            },
+            "properties": {
+                "place_name": "hu-motorway, Hungary",
+                "zoom": 14,
+                "description": "uses hu-motorway svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "hu-motorway"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "hu"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64,
+                    13.092
+                ]
+            },
+            "properties": {
+                "place_name": "in-state, India",
+                "zoom": 12,
+                "description": "uses in-state svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "in-state"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "in"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.595,
+                    13.044
+                ]
+            },
+            "properties": {
+                "place_name": "in-national, India",
+                "zoom": 12,
+                "description": "uses in-national svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "in-national"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "in"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.196,
+                    19.316
+                ]
+            },
+            "properties": {
+                "place_name": "mx-federal, Mexico",
+                "zoom": 10,
+                "description": "uses mx-federal svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "mx-federal"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "mx"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.364,
+                    19.876
+                ]
+            },
+            "properties": {
+                "place_name": "mx-state, Mexico",
+                "zoom": 12,
+                "description": "uses mx-state svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "mx-state"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "mx"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.669,
+                    -43.555
+                ]
+            },
+            "properties": {
+                "place_name": "nz-state, New Zealand",
+                "zoom": 13,
+                "description": "uses nz-state svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "nz-state"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "nz"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.95,
+                    -12.079
+                ]
+            },
+            "properties": {
+                "place_name": "pe-regional, Peru",
+                "zoom": 12,
+                "description": "uses pe-regional svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "pe-regional"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "pe"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.981,
+                    -12.024
+                ]
+            },
+            "properties": {
+                "place_name": "pe-national, Peru",
+                "zoom": 12,
+                "description": "uses pe-national svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "pe-national"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "pe"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.305,
+                    51.677
+                ]
+            },
+            "properties": {
+                "place_name": "pl-expressway, Poland",
+                "zoom": 12,
+                "description": "uses rectangle-red svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-red"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "pl"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.615,
+                    51.486
+                ]
+            },
+            "properties": {
+                "place_name": "pl-motorway",
+                "zoom": 12,
+                "description": "uses rectangle-red svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-red"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "pl"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.889,
+                    51.354
+                ]
+            },
+            "properties": {
+                "place_name": "pl-national, Poland",
+                "zoom": 13,
+                "description": "uses rectangle-red svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-red"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "pl"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.651,
+                    51.449
+                ]
+            },
+            "properties": {
+                "place_name": "pl-voivodeship, Poland",
+                "zoom": 9,
+                "description": "uses rectangle-yellow svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-yellow"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "pl"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.144,
+                    44.514
+                ]
+            },
+            "properties": {
+                "place_name": "ro-county, Romania",
+                "zoom": 13,
+                "description": "uses ro-county svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "ro-county"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "ro"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.223,
+                    44.605
+                ]
+            },
+            "properties": {
+                "place_name": "ro-communal, Romania",
+                "zoom": 13,
+                "description": "uses ro-communal svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "ro-communal"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "ro"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.206,
+                    45.175
+                ]
+            },
+            "properties": {
+                "place_name": "ro-national, Romania",
+                "zoom": 15,
+                "description": "uses ro-national svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "ro-national"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "ro"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.019,
+                    44.775
+                ]
+            },
+            "properties": {
+                "place_name": "ro-motorway, Romania",
+                "zoom": 14,
+                "description": "uses rectangle-green svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-green"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "ro"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.538,
+                    44.761
+                ]
+            },
+            "properties": {
+                "place_name": "rs-motorway, Serbia",
+                "zoom": 13,
+                "description": "uses rectangle-green svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-green"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "rs"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.739,
+                    44.168
+                ]
+            },
+            "properties": {
+                "place_name": "rs-state-1b, Serbia",
+                "zoom": 13,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "rs"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.817,
+                    44.267
+                ]
+            },
+            "properties": {
+                "place_name": "rs-state-2a, Serbia",
+                "zoom": 11,
+                "description": "uses rectangle-orange svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-orange"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "rs"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.782,
+                    44.169
+                ]
+            },
+            "properties": {
+                "place_name": "rs-state-2b, Serbia",
+                "zoom": 14,
+                "description": "uses rectangle-yellow svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-yellow"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "rs"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.988,
+                    56.551
+                ]
+            },
+            "properties": {
+                "place_name": "se-main, Sweden",
+                "zoom": 10,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "se"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.763,
+                    46.125
+                ]
+            },
+            "properties": {
+                "place_name": "si-main, Slovenia",
+                "zoom": 13,
+                "description": "uses rectangle-yellow svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-yellow"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "si"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.747,
+                    46.162
+                ]
+            },
+            "properties": {
+                "place_name": "si-motorway, Slovenia",
+                "zoom": 15,
+                "description": "uses si-motorway svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "si-motorway"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "si"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.516,
+                    46.083
+                ]
+            },
+            "properties": {
+                "place_name": "si-expressway, Slovenia",
+                "zoom": 14,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "si"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.336,
+                    48.551
+                ]
+            },
+            "properties": {
+                "place_name": "sk-highway, Slovakia",
+                "zoom": 13,
+                "description": "uses rectangle-red svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-red"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "sk"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.308,
+                    48.529
+                ]
+            },
+            "properties": {
+                "place_name": "sk-road, Slovakia",
+                "zoom": 15,
+                "description": "uses rectangle-blue svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-blue"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "sk"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.094,
+                    38.835
+                ]
+            },
+            "properties": {
+                "place_name": "us-interstate, United States",
+                "zoom": 14,
+                "description": "uses us-interstate svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-interstate"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.321,
+                    40.11
+                ]
+            },
+            "properties": {
+                "place_name": "us-interstate-duplex, United States",
+                "zoom": 12,
+                "description": "uses us-interstate-duplex svg",
+                "highlights": [
+                    {
+                        "geometry_type": "Point",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-interstate-duplex"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.003,
+                    41.912
+                ]
+            },
+            "properties": {
+                "place_name": "us-interstate-business, United States",
+                "zoom": 13,
+                "description": "uses us-interstate-business svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-interstate-business"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.808,
+                    38.77
+                ]
+            },
+            "properties": {
+                "place_name": "us-highway, United States",
+                "zoom": 13,
+                "description": "uses us-highway svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-highway"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.267,
+                    35.019
+                ]
+            },
+            "properties": {
+                "place_name": "us-highway-duplex, United States",
+                "zoom": 13,
+                "description": "uses us-highway-duplex svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-highway-duplex"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72,
+                    45.578
+                ]
+            },
+            "properties": {
+                "place_name": "us-highway-bypass, United States",
+                "zoom": 14,
+                "description": "uses us-highway-bypass svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-highway-bypass"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.943,
+                    34.239
+                ]
+            },
+            "properties": {
+                "place_name": "us-highway-business, United States",
+                "zoom": 14,
+                "description": "uses us-highway-business svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-highway-business"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.011,
+                    40.73
+                ]
+            },
+            "properties": {
+                "place_name": "us-state, United States",
+                "zoom": 15,
+                "description": "uses circle-white svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "circle-white"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.404,
+                    -33.907
+                ]
+            },
+            "properties": {
+                "place_name": "za-metropolitan, South Africa",
+                "zoom": 14,
+                "description": "uses rectangle-green svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-green"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "za"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.484,
+                    -33.922
+                ]
+            },
+            "properties": {
+                "place_name": "za-regional, South Africa",
+                "zoom": 15,
+                "description": "uses rectangle-green svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-green"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "za"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.498,
+                    -33.911
+                ]
+            },
+            "properties": {
+                "place_name": "za-national, South Africa",
+                "zoom": 16,
+                "description": "uses za-national svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "za-national"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "za"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.467,
+                    -33.913
+                ]
+            },
+            "properties": {
+                "place_name": "za-provincial, South Africa",
+                "zoom": 14,
+                "description": "uses za-provincial svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "za-provincial"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "za"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.952,
+                    63.012
+                ]
+            },
+            "properties": {
+                "place_name": "e-road, Sweden",
+                "zoom": 12,
+                "description": "uses rectangle-green svg\n(this shield exists in multiple countries: https://en.wikipedia.org/wiki/International_E-road_network",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "rectangle-green"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.54,
+                    45.61
+                ]
+            },
+            "properties": {
+                "place_name": "us-bia, United States",
+                "zoom": 12,
+                "description": "uses us-bia svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-bia"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9,
+                    40.771
+                ]
+            },
+            "properties": {
+                "place_name": "us-interstate-truck, United States",
+                "zoom": 13,
+                "description": "uses us-interstate-truck svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-interstate-truck"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.093,
+                    35.969
+                ]
+            },
+            "properties": {
+                "place_name": "us-highway-alternate, United States",
+                "zoom": 14,
+                "description": "uses us-highway-alternate svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-highway-alternate"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.651,
+                    39.309
+                ]
+            },
+            "properties": {
+                "place_name": "us-highway-truck, United States",
+                "zoom": 16,
+                "description": "uses us-highway-truck svg",
+                "highlights": [
+                    {
+                        "geometry_type": "LineString",
+                        "data_layer": "road",
+                        "data_layer_fields": {
+                            "shield": "us-highway-truck"
+                        }
+                    }
+                ],
+                "tags": {
+                    "country": "us"
+                }
+            }
+        }
+    ]
+}
