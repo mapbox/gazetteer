@@ -12,7 +12,7 @@
                 ]
             },
             "properties": {
-                "place_name": "Road labels, Houston, z12",
+                "place_name": "Roads, Houston, z12",
                 "zoom": 12,
                 "tags": {
                     "zoom": "12"
@@ -35,7 +35,7 @@
                 ]
             },
             "properties": {
-                "place_name": "Road labels, Houston, z13",
+                "place_name": "Roads, Houston, z13",
                 "zoom": 13,
                 "tags": {
                     "zoom": "13"
@@ -97,7 +97,7 @@
                 ]
             },
             "properties": {
-                "place_name": "High zoom labels, buildings, roads, New York City, z17",
+                "place_name": "High zoom labels, buildings, roads, New York City, z17, overzoomed",
                 "zoom": 17,
                 "tags": {
                     "zoom": "17"
@@ -159,7 +159,7 @@
                 ]
             },
             "properties": {
-                "place_name": "High zoom cjk labels, when using local lang, buildings, roads, Tokyo, z17",
+                "place_name": "High zoom cjk labels, when using local lang, buildings, roads, Tokyo, z17, overzoomed",
                 "zoom": 17,
                 "tags": {
                     "zoom": "17"
@@ -213,7 +213,7 @@
                 ]
             },
             "properties": {
-                "place_name": "Landuse, Paris, z11",
+                "place_name": "Landuse and roads, Paris, z11",
                 "zoom": 11,
                 "tags": {
                     "zoom": "11"
