@@ -29,7 +29,7 @@ Typically, you’ll want to pick places that clearly display either:
 Gazetteers designed for reviewing styles using Mapbox Streets data can go in the `/mapbox-streets` directory.
 
 ### Suggestions for places’ properties values
-Refer to the gazetteer spec for properties available to each place entry.
+Refer to the [gazetteer spec](./spec.md) for properties available to each place entry.
 
 #### place_name
 Choose a name that is as specific as possible to the map feature(s) displayed. For context, it is often helpful to also include the place or geographic feature that encompasses the specific map feature, e.g. “Jane Byrne Interchange, Chicago", “Central Park, New York City”, or "New York City, United States".
@@ -49,36 +49,38 @@ Only include highights entries for map features that are relevant to the reason 
 
 If a place includes multiple relevant map features, add a separate highlight for each if they have any different data layer field values that are relevant, even if they are from the same data layer. E.g., if a place has two motorways – one bridge and one tunnel – you may want to include two separate highlights: 
 
-
-            "highlights": [
-              {
-                "data_layer": "road",
-                "data_layer_fields": {
-                  "class": "motorway",
-                  "structure": "tunnel"
-                }
-              },
-              {
-                "data_layer": "road",
-                "data_layer_fields": {
-                  "class": "motorway",
-                  "structure": "bridge"
-                }
-              }
-            ]
+```json
+"highlights": [
+  {
+    "data_layer": "road",
+    "data_layer_fields": {
+      "class": "motorway",
+      "structure": "tunnel"
+    }
+  },
+  {
+    "data_layer": "road",
+    "data_layer_fields": {
+      "class": "motorway",
+      "structure": "bridge"
+    }
+  }
+]
+```
 
 Whereas if a place has two motorways that are both tunnels, you can represent both with a single highlight:
 
-
-    "highlights": [
-              {
-                "data_layer": "road",
-                "data_layer_fields": {
-                  "class": "motorway",
-                  "structure": "tunnel"
-                }
-              }
-            ]
+```json
+"highlights": [
+  {
+    "data_layer": "road",
+    "data_layer_fields": {
+      "class": "motorway",
+      "structure": "tunnel"
+    }
+  }
+]
+```
 
 #### tags
 Optionally include arbitrary key/value tags to capture useful distinctions between places that are not already represented in the data-specific information.
