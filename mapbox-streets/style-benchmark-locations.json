@@ -13,6 +13,7 @@
             },
             "properties": {
                 "place_name": "Roads, Houston, z12",
+                "tileIndex": [962, 1692],
                 "zoom": 12,
                 "tags": {
                     "zoom": "12"
@@ -36,6 +37,7 @@
             },
             "properties": {
                 "place_name": "Roads, Houston, z13",
+                "tileIndex": [1925, 3386],
                 "zoom": 13,
                 "tags": {
                     "zoom": "13"
@@ -67,6 +69,7 @@
             },
             "properties": {
                 "place_name": "High zoom labels, buildings, roads, New York City, z16",
+                "tileIndex": [19299, 24629],
                 "zoom": 16,
                 "tags": {
                     "zoom": "16"
@@ -98,6 +101,7 @@
             },
             "properties": {
                 "place_name": "High zoom labels, buildings, roads, New York City, z17, overzoomed",
+                "tileIndex": [19299, 24629],
                 "zoom": 17,
                 "tags": {
                     "zoom": "17"
@@ -129,6 +133,7 @@
             },
             "properties": {
                 "place_name": "High zoom cjk labels, when using local lang, buildings, roads, Tokyo, z16",
+                "tileIndex": [58210, 25803],
                 "zoom": 16,
                 "tags": {
                     "zoom": "16"
@@ -160,6 +165,7 @@
             },
             "properties": {
                 "place_name": "High zoom cjk labels, when using local lang, buildings, roads, Tokyo, z17, overzoomed",
+                "tileIndex": [58210, 25803],
                 "zoom": 17,
                 "tags": {
                     "zoom": "17"
@@ -191,6 +197,7 @@
             },
             "properties": {
                 "place_name": "Water, Finland, z10",
+                "tileIndex": [590, 288],
                 "zoom": 10,
                 "tags": {
                     "zoom": "10"
@@ -214,6 +221,7 @@
             },
             "properties": {
                 "place_name": "Landuse and roads, Paris, z11",
+                "tileIndex": [1036, 705],
                 "zoom": 11,
                 "tags": {
                     "zoom": "11"
@@ -256,6 +264,7 @@
             },
             "properties": {
                 "place_name": "Buildings, LA, z16",
+                "tileIndex": [11229, 26180],
                 "zoom": 16,
                 "tags": {
                     "zoom": "16"
@@ -283,6 +292,7 @@
             },
             "properties": {
                 "place_name": "High zoom roads, paths, landuse, labels, Paris, 15",
+                "tileIndex": [16594, 11271],
                 "zoom": 15,
                 "tags": {
                     "zoom": "15"
@@ -325,6 +335,7 @@
             },
             "properties": {
                 "place_name": "High zoom pedestrian polygon fills, roads, paths, landuse, labels, Paris, z16",
+                "tileIndex": [33189, 22543],
                 "zoom": 16,
                 "tags": {
                     "zoom": "16"
@@ -370,6 +381,7 @@
             },
             "properties": {
                 "place_name": "Hillshading, Switzerland, z9",
+                "tileIndex": [268, 181],
                 "zoom": 9,
                 "tags": {
                     "zoom": "9"
@@ -397,6 +409,7 @@
             },
             "properties": {
                 "place_name": "Hillshading and contours, Switzerland, z12",
+                "tileIndex": [2148, 1452],
                 "zoom": 12,
                 "highlights": [
                     {
@@ -417,6 +430,7 @@
             },
             "properties": {
                 "place_name": "Landcover, Germany z6",
+                "tileIndex": [33, 21],
                 "zoom": 6,
                 "highlights": [
                     {
@@ -452,6 +466,7 @@
             },
             "properties": {
                 "place_name": "Landcover, Germany z8",
+                "tileIndex": [133, 86],
                 "zoom": 8,
                 "tags": {
                     "zoom": "8"
