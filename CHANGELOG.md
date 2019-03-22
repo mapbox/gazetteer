@@ -1,3 +1,7 @@
+### v3.1.1
+
+- Narrow the responsibililty of gazetteer to just linting against the spec [#42](https://github.com/mapbox/gazetteer/pull/42)
+
 ### v3.1.0
 
 - Add highway shield gazetteer [#36](https://github.com/mapbox/gazetteer/pull/36)
