@@ -3,13 +3,29 @@ const path = require('path');
 const assert = require('assert');
 const gazetteers = fs.readdirSync(path.resolve(__dirname,'./mapbox-streets'));
 const lint = require('./lib/lint-gazetteer');
+const geojsonhint = require('@mapbox/geojsonhint');
 
 let gazetteerNames = [];
 
 gazetteers.forEach(gazetteer => {
   const filePath = path.resolve(__dirname,`./mapbox-streets/${gazetteer}`);
   const gazetteerData = JSON.parse(fs.readFileSync(filePath));
-  const errors = lint(gazetteerData);
+
+  const errors = [];
+
+  const geojsonErrors = geojsonhint.hint(gazetteerData);
+  if (geojsonErrors.length > 0) {
+    geojsonErrors.forEach(error => {
+      errors.push(error.message);
+    });
+  }
+
+  const gazetteerLintErrors = lint(gazetteerData);
+  if (gazetteerLintErrors.length > 0) {
+    gazetteerLintErrors.forEach(error => {
+      errors.push(error);
+    });
+  }
 
   // Lint all features.
   assert(
