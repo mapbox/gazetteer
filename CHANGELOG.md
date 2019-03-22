@@ -1,3 +1,7 @@
+### v3.1.2
+
+- Move `@mapbox/geojsonhint` into devDependencies.
+
 ### v3.1.1
 
 - Narrow the responsibililty of gazetteer to just linting against the spec [#42](https://github.com/mapbox/gazetteer/pull/42)
