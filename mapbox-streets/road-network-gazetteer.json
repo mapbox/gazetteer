@@ -11,6 +11,7 @@
       "properties": {
         "place_name": "Madrid, Spain",
         "zoom": 17,
+        "description": "Tunnels along Madrid's M-30 motorway.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -55,6 +56,7 @@
       "properties": {
         "place_name": "Singapore",
         "zoom": 10,
+        "description": "Expressway system of Singapore.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -103,6 +105,7 @@
       "properties": {
         "place_name": "Philadelphia, Pennsylvania",
         "zoom": 15,
+        "description": "City grid of Philadelphia.",
         "highlights": [
           {
             "geometry_type": "LineString",
@@ -138,6 +141,7 @@
       "properties": {
         "place_name": "Mexico City, Mexico",
         "zoom": 11,
+        "description": "Motorways and arterial roads linking neighborhoods in Mexico City.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -193,6 +197,7 @@
       "properties": {
         "place_name": "Copenhagen, Denmark",
         "zoom": 13,
+        "description": "Bridges, ferry lines, and streets weaving through the inner harbor.",
         "highlights": [
           {
             "geometry_type": "LineString",
@@ -271,6 +276,7 @@
       "properties": {
         "place_name": "Northeastern China",
         "zoom": 8,
+        "description": "Ring roads Beijing and Tianjin",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -305,6 +311,7 @@
       "properties": {
         "place_name": "San Francisco, California",
         "zoom": 18,
+        "description": "Rail and rail crossings intersecting with roads.",
         "highlights": [
           {
             "geometry_type": "MultiPoint",
@@ -346,6 +353,7 @@
       "properties": {
         "place_name": "Nagpur, India",
         "zoom": 11,
+        "description": "Dense street network in Nagpur.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -394,6 +402,7 @@
       "properties": {
         "place_name": "Boston, Massachusetts",
         "zoom": 16,
+        "description": "Pedestrian paths crossing through Boston Common.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -433,8 +442,9 @@
         "coordinates": [-75.584, 40.138]
       },
       "properties": {
-        "place_name": "Northeaster United States",
+        "place_name": "Northeastern United States",
         "zoom": 6,
+        "description": "Roads linking cities along the northeast coast.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -469,6 +479,7 @@
       "properties": {
         "place_name": "London, England",
         "zoom": 15,
+        "description": "Ferry lines and bridges along the Thames River",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -511,6 +522,7 @@
       "properties": {
         "place_name": "Tokyo, Japan",
         "zoom": 12,
+        "description": "The large network of roads around Tokyo.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -566,6 +578,7 @@
       "properties": {
         "place_name": "Cape Town, South Africa",
         "zoom": 14,
+        "description": "Rail lines through the city grid.",
         "highlights": [
           {
             "geometry_type": "LineString",
