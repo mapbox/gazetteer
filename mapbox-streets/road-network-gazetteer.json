@@ -523,7 +523,7 @@
       "properties": {
         "place_name": "Tokyo, Japan",
         "zoom": 12,
-        "description": "The large network of roads inx Tokyo.",
+        "description": "The large network of roads in Tokyo.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
