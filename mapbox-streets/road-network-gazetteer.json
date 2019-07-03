@@ -56,7 +56,7 @@
       "properties": {
         "place_name": "Singapore",
         "zoom": 10,
-        "description": "Expressway system of Singapore.",
+        "description": "Expressway system in Singapore.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -233,6 +233,7 @@
       "properties": {
         "place_name": "Atlanta, Georgia",
         "zoom": 16,
+        "description": "A multi-level stack interchange known as Spaghetti Junction.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -276,7 +277,7 @@
       "properties": {
         "place_name": "Northeastern China",
         "zoom": 8,
-        "description": "Ring roads Beijing and Tianjin",
+        "description": "Ring roads around Beijing and Tianjin.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -353,7 +354,7 @@
       "properties": {
         "place_name": "Nagpur, India",
         "zoom": 11,
-        "description": "Dense street network in Nagpur.",
+        "description": "The dense street network in Nagpur.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -479,7 +480,7 @@
       "properties": {
         "place_name": "London, England",
         "zoom": 15,
-        "description": "Ferry lines and bridges along the Thames River",
+        "description": "Ferry lines and bridges along the Thames River.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
@@ -522,7 +523,7 @@
       "properties": {
         "place_name": "Tokyo, Japan",
         "zoom": 12,
-        "description": "The large network of roads around Tokyo.",
+        "description": "The large network of roads inx Tokyo.",
         "highlights": [
           {
             "geometry_type": "MultiLineString",
