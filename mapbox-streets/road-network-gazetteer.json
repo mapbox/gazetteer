@@ -1,0 +1,595 @@
+{
+  "type": "FeatureCollection",
+  "name": "road-network-gazetteer",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.704, 40.395]
+      },
+      "properties": {
+        "place_name": "Madrid, Spain",
+        "zoom": 17,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway-link",
+              "structure": "tunnel"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk",
+              "oneway": "true"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.761, 1.404]
+      },
+      "properties": {
+        "place_name": "Singapore",
+        "zoom": 10,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.161, 39.917]
+      },
+      "properties": {
+        "place_name": "Philadelphia, Pennsylvania",
+        "zoom": 15,
+        "highlights": [
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street",
+              "oneway": "true"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service"
+            }
+          },
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.12, 19.458]
+      },
+      "properties": {
+        "place_name": "Mexico City, Mexico",
+        "zoom": 11,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "treet"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.591, 55.672]
+      },
+      "properties": {
+        "place_name": "Copenhagen, Denmark",
+        "zoom": 13,
+        "highlights": [
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary",
+              "structure": "bridge"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path"
+            }
+          },
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.258, 33.891]
+      },
+      "properties": {
+        "place_name": "Atlanta, Georgia",
+        "zoom": 16,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway_link",
+              "structure": "bridge",
+              "oneway": "true"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary"
+            }
+          },
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.78, 39.533]
+      },
+      "properties": {
+        "place_name": "Northeastern China",
+        "zoom": 8,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.397, 37.793]
+      },
+      "properties": {
+        "place_name": "San Francisco, California",
+        "zoom": 18,
+        "highlights": [
+          {
+            "geometry_type": "MultiPoint",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "level_crossing"
+            }
+          },
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service"
+            }
+          },
+          {
+            "geometry_type": "Polygon",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.086, 21.14]
+      },
+      "properties": {
+        "place_name": "Nagpur, India",
+        "zoom": 11,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.065, 42.355]
+      },
+      "properties": {
+        "place_name": "Boston, Massachusetts",
+        "zoom": 16,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "path"
+            }
+          },
+          {
+            "geometry_type": "Polygon",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "pedestrian"
+            }
+          },
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street"
+            }
+          },
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "service"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.584, 40.138]
+      },
+      "properties": {
+        "place_name": "Northeaster United States",
+        "zoom": 6,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.087, 51.508]
+      },
+      "properties": {
+        "place_name": "London, England",
+        "zoom": 15,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "ferry"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary",
+              "oneway": "true"
+            }
+          },
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.758, 35.675]
+      },
+      "properties": {
+        "place_name": "Tokyo, Japan",
+        "zoom": 12,
+        "highlights": [
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "motorway"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "trunk"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "primary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "secondary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.555, -33.912]
+      },
+      "properties": {
+        "place_name": "Cape Town, South Africa",
+        "zoom": 14,
+        "highlights": [
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "tertiary"
+            }
+          },
+          {
+            "geometry_type": "LineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "street"
+            }
+          },
+          {
+            "geometry_type": "MultiLineString",
+            "data_layer": "road",
+            "data_layer_fields": {
+              "class": "major_rail"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
