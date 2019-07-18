@@ -1,3 +1,9 @@
+### v3.2.0
+
+- Add road network gazetteer [#45](https://github.com/mapbox/gazetteer/pull/45)
+- Add transit gazetteer [#30](https://github.com/mapbox/gazetteer/pull/30)
+- Allow Multi* geometry types [#46](https://github.com/mapbox/gazetteer/pull/46)
+
 ### v3.1.2
 
 - Move `@mapbox/geojsonhint` into devDependencies.
