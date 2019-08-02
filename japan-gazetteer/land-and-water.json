@@ -12,7 +12,7 @@
       "properties": {
         "place_name": "Japan",
         "zoom": 4,
-        "description": "A country of Japan."
+        "description": "The country of Japan."
       }
     },
     {
@@ -22,7 +22,7 @@
         "coordinates": [138.7473707, 35.3741932]
       },
       "properties": {
-        "place_name": "Mt. Fuji, Japan",
+        "place_name": "Mt. Fuji",
         "zoom": 11,
         "description": "An example of a large physical feature."
       }
@@ -34,7 +34,7 @@
         "coordinates": [136.744404, 34.926704]
       },
       "properties": {
-        "place_name": "Ise Bay, Japan",
+        "place_name": "Ise Bay",
         "zoom": 11,
         "description": "An example of a bay."
       }
@@ -58,7 +58,7 @@
         "coordinates": [136.7797, 35.0287]
       },
       "properties": {
-        "place_name": "Kuzuryu lake and river",
+        "place_name": "Lake Kuzuryu and Kuzuryu River",
         "zoom": 14,
         "description": "An example of a river and a lake."
       }
@@ -70,7 +70,7 @@
         "coordinates": [140.6461352, 39.7247761]
       },
       "properties": {
-        "place_name": "Tazawa, Japan",
+        "place_name": "Lake Tazawa",
         "zoom": 12,
         "description": "An example of a lake."
       }
@@ -144,7 +144,7 @@
       "properties": {
         "place_name": "Nagoya, Japan",
         "zoom": 18,
-        "description": "Shirakawa Park in Nagoya."
+        "description": "An example of a park in Nagoya."
       }
     },
     {
@@ -156,7 +156,7 @@
       "properties": {
         "place_name": "Nagoya, Japan",
         "zoom": 19,
-        "description": "An example of a river."
+        "description": "An example of a river in Nagoya."
       }
     }
   ]

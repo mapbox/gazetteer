@@ -24,7 +24,7 @@
       "properties": {
         "place_name": "Tomakomai, Japan",
         "zoom": 18,
-        "description": "Traffic stops and oneway arrows."
+        "description": "Traffic stops and oneway arrows in Tomakomai."
       }
     },
     {
@@ -60,7 +60,7 @@
       "properties": {
         "place_name": "Tokyo, Japan",
         "zoom": 12,
-        "description": "Tokyo's dense roads network."
+        "description": "Tokyo's dense road network."
       }
     },
     {
@@ -72,7 +72,7 @@
       "properties": {
         "place_name": "Nagoya, Japan",
         "zoom": 16,
-        "description": "An example of a dense roads network outside of Nagoya."
+        "description": "An example of a dense road network outside of Nagoya."
       }
     },
     {

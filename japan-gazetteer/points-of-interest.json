@@ -10,7 +10,7 @@
         "coordinates": [139.1103588, 37.9529362]
       },
       "properties": {
-        "place_name": "Niigata airport",
+        "place_name": "Airport in Niigata, Japan",
         "zoom": 16,
         "description": "An example of an airport label."
       }
@@ -24,7 +24,7 @@
       "properties": {
         "place_name": "Koriyama, Japan",
         "zoom": 16,
-        "description": "A cluster of pois for lodging, restaurants, and stores, and bars."
+        "description": "A cluster of pois for lodging, restaurants, stores, and bars."
       }
     },
     {
@@ -34,7 +34,7 @@
         "coordinates": [135.3763699, 33.7308434]
       },
       "properties": {
-        "place_name": "Tamaki hospital",
+        "place_name": "Hospital in Tamaki, Japan",
         "zoom": 19,
         "description": "An example of a hospital poi."
       }
