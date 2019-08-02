@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "name": "buildings",
+  "data_layers": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.9686, 36.23957]
+      },
+      "properties": {
+        "place_name": "Matsumoto, Japan",
+        "zoom": 15,
+        "description": "Buildings in the city of Matsumoto."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.8796596, 35.1708802]
+      },
+      "properties": {
+        "place_name": "Nagoya, Japan",
+        "zoom": 16,
+        "description": "Buildings surrounding Nagoya rail station."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.4538, 34.3926]
+      },
+      "properties": {
+        "place_name": "Hiroshima, Japan",
+        "zoom": 16,
+        "description": "Buildings surrounding Hiroshima Peace Memoroial Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.7667119, 35.004124]
+      },
+      "properties": {
+        "place_name": "Kyoto, Japan",
+        "zoom": 17,
+        "description": "Buildings in downtown Kyota."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.745277, 35.658307]
+      },
+      "properties": {
+        "place_name": "Tokyo, Japan",
+        "zoom": 17,
+        "description": "Tokyo Tower"
+      }
+    }
+  ]
+}

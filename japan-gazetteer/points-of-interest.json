@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "name": "points-of-interest",
+  "data_layers": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.1103588, 37.9529362]
+      },
+      "properties": {
+        "place_name": "Niigata airport",
+        "zoom": 16,
+        "description": "An example of an airport label."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.384563, 37.398549]
+      },
+      "properties": {
+        "place_name": "Koriyama, Japan",
+        "zoom": 16,
+        "description": "A cluster of pois for lodging, restaurants, and stores, and bars."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.3763699, 33.7308434]
+      },
+      "properties": {
+        "place_name": "Tamaki hospital",
+        "zoom": 19,
+        "description": "An example of a hospital poi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.862646, 37.439583]
+      },
+      "properties": {
+        "place_name": "School in Nagaoka, Japan",
+        "zoom": 19,
+        "description": "An example of a school and library poi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.003534, 33.715149]
+      },
+      "properties": {
+        "place_name": "Beach in Shingu, Japan",
+        "zoom": 15,
+        "description": "An example of a beach poi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.557394, 34.075921]
+      },
+      "properties": {
+        "place_name": "Tokushima, Japan",
+        "zoom": 19,
+        "description": "An example of a parking poi."
+      }
+    }
+  ]
+}
