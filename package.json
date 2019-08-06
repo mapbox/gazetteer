@@ -2,7 +2,10 @@
   "name": "@mapbox/gazetteer",
   "version": "3.2.0",
   "description": "Noteworthy places",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/mapbox/gazetteer.git"
@@ -18,10 +21,25 @@
   },
   "homepage": "https://github.com/mapbox/gazetteer",
   "scripts": {
+    "build": "node scripts/build-dist.js",
+    "format": "prettier --write 'src/**/*.json' 'src/**/*.js' 'scripts/*.js'",
     "test": "node test.js"
   },
   "dependencies": {},
   "devDependencies": {
-    "@mapbox/geojsonhint": "^2.1.0"
+    "@mapbox/geojsonhint": "^2.1.0",
+    "husky": "^3.0.2",
+    "mkdirp": "^0.5.1",
+    "pify": "^4.0.1",
+    "prettier": "1.18.2",
+    "pretty-quick": "^1.11.1"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }

@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "name": "transit-label",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.978, 40.752]
+      },
+      "properties": {
+        "place_name": "New York, New York, USA",
+        "zoom": 17,
+        "description": "Many modes (bus, bike share, rail, rail-metro) in close proximity."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.937, 40.804]
+      },
+      "properties": {
+        "place_name": "New York, New York, USA",
+        "zoom": 19,
+        "description": "Labeled rail-metro entrances and labeled bus stops."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.999, 40.722]
+      },
+      "properties": {
+        "place_name": "New York, New York, USA",
+        "zoom": 14,
+        "description": "Custom icon for MTA (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.849, 1.296]
+      },
+      "properties": {
+        "place_name": "Singapore",
+        "zoom": 15,
+        "description": "Custom icon for MRT (green)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.165, 41.382]
+      },
+      "properties": {
+        "place_name": "Barcelona, Spain",
+        "zoom": 14,
+        "description": "Custom icon for Barcelona Metro (red)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.058, 42.36]
+      },
+      "properties": {
+        "place_name": "Boston, Massachusetts, USA",
+        "zoom": 15,
+        "description": "Custom icon for MBTA (black)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.547, 29.563]
+      },
+      "properties": {
+        "place_name": "Chongqing, China",
+        "zoom": 14,
+        "description": "Custom icon for CRT (green)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.221, 28.629]
+      },
+      "properties": {
+        "place_name": "New Delhi, India",
+        "zoom": 15,
+        "description": "Custom icon for Delhi Metro (red)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.499, 34.667]
+      },
+      "properties": {
+        "place_name": "Osaka, Japa ",
+        "zoom": 18,
+        "description": "Custom icon for Osaka Municipal Subway (red)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.085, 51.517]
+      },
+      "properties": {
+        "place_name": "London, UK",
+        "zoom": 15,
+        "description": "Custom icon for London Underground, Overground, and National Rail (blue)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.168, 22.3]
+      },
+      "properties": {
+        "place_name": "Hong Kong, China",
+        "zoom": 14,
+        "description": "Custom icon for MTR (red)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.52, 50.447]
+      },
+      "properties": {
+        "place_name": "Kiev, Ukraine",
+        "zoom": 15,
+        "description": "Custom icon for Kiev Metro (green)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.702, 40.418]
+      },
+      "properties": {
+        "place_name": "Madrid, Spain",
+        "zoom": 16,
+        "description": "Custom icon for Madrid Metro (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.14, 19.435]
+      },
+      "properties": {
+        "place_name": "Mexico City, Mexico",
+        "zoom": 14,
+        "description": "Custom icon for Mexico City Metro (orange)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.189, 45.467]
+      },
+      "properties": {
+        "place_name": "Milan, Italy",
+        "zoom": 14,
+        "description": "Custom icon for Milan Metro (red)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.746, 59.911]
+      },
+      "properties": {
+        "place_name": "Oslo, Norway",
+        "zoom": 14,
+        "description": "Custom icon for Oslo Metro (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.163, 39.953]
+      },
+      "properties": {
+        "place_name": "Philadelphia, Pennsylvania",
+        "zoom": 14,
+        "description": "Custom icon for SEPTA (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.402, 37.788]
+      },
+      "properties": {
+        "place_name": "San Francisco, California",
+        "zoom": 15,
+        "description": "Custom icon for BART (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.059, 59.331]
+      },
+      "properties": {
+        "place_name": "Stockholm, Sweden",
+        "zoom": 15,
+        "description": "Custom icon for Stockholm Metro (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.524, 25.057]
+      },
+      "properties": {
+        "place_name": "Taipei, Taiwan",
+        "zoom": 14,
+        "description": "Custom icon for Taipei Metro (green)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.766, 35.674]
+      },
+      "properties": {
+        "place_name": "Tokyo, Japan",
+        "zoom": 15,
+        "description": "Custom icon for Tokyo Metro (aqua)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.38, 48.207]
+      },
+      "properties": {
+        "place_name": "Vienna, Austria",
+        "zoom": 14,
+        "description": "Custom icon for U-Bahn (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.349, 48.857]
+      },
+      "properties": {
+        "place_name": "Paris, France",
+        "zoom": 15,
+        "description": "Custom icon for Paris Metro (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.36, 48.882]
+      },
+      "properties": {
+        "place_name": "Paris, France",
+        "zoom": 15,
+        "description": "Custom icon for Paris Metro and RER (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.621, 55.757]
+      },
+      "properties": {
+        "place_name": "Moscow, Russia",
+        "zoom": 16,
+        "description": "Custom icon for Moscow Metro (blue)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.021, 38.885]
+      },
+      "properties": {
+        "place_name": "Washington, DC, USA",
+        "zoom": 16,
+        "description": "Custom icon for DC Metro (black)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.419, 52.515]
+      },
+      "properties": {
+        "place_name": "Berlin, Germany",
+        "zoom": 16,
+        "description": "Custom icons for U-Bahn (blue) and S-Bahn (green)."
+      }
+    }
+  ]
+}
