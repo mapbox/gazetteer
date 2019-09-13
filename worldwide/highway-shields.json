@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "highway-shield-gazetteer",
+  "name": "highway-shields",
   "features": [
     {
       "type": "Feature",

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "poi-label-hierarchy",
+  "name": "points-of-interest",
   "features": [
     {
       "type": "Feature",

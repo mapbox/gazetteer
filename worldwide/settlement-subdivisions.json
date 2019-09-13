@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "place_sub-settlement",
+  "name": "settlement-subdivisions",
   "features": [
     {
       "type": "Feature",

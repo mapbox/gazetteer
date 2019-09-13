@@ -1,4 +1,4 @@
-function lint(gazetteer) {
+function lintGazetteer(gazetteer) {
   const errors = [];
 
   const gazetteerName = gazetteer.name;
@@ -133,4 +133,4 @@ function lint(gazetteer) {
   return errors;
 }
 
-module.exports = lint;
+module.exports = lintGazetteer;

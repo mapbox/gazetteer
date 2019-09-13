@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "transit-label",
+  "name": "transit",
   "features": [
     {
       "type": "Feature",

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "place-settlement-hierarchy-and-density",
+  "name": "settlements",
   "features": [
     {
       "type": "Feature",

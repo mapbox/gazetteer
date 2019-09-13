@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "road-network-gazetteer",
+  "name": "road-network",
   "features": [
     {
       "type": "Feature",
