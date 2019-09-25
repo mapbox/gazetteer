@@ -18,10 +18,22 @@
   },
   "homepage": "https://github.com/mapbox/gazetteer",
   "scripts": {
+    "format": "prettier --write '**/*.json' '**/*.js'",
     "test": "node test.js"
   },
   "dependencies": {},
   "devDependencies": {
-    "@mapbox/geojsonhint": "^2.1.0"
+    "@mapbox/geojsonhint": "^2.1.0",
+    "husky": "^3.0.2",
+    "prettier": "1.18.2",
+    "pretty-quick": "^1.11.1"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }

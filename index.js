@@ -1,4 +1,5 @@
-const get = require('./lib/get-gazetteer');
-const lint = require('./lib/lint-gazetteer');
+import benchmark from './benchmark/index.js';
+import worldwide from './worldwide/index.js';
+import util from './util/index.js';
 
-module.exports = { get, lint };
+export { benchmark, worldwide, util };

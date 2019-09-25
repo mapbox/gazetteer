@@ -1,0 +1,300 @@
+{
+  "type": "FeatureCollection",
+  "name": "settlements",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.061, 34.046]
+      },
+      "properties": {
+        "place_name": "Greater Los Angeles, United States",
+        "zoom": 8,
+        "description": "18th largest metro area in the world. Many relatively large cities clustered together.",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.768, 35.685]
+      },
+      "properties": {
+        "place_name": "Special wards of Tokyo, Japan",
+        "zoom": 10,
+        "description": "Part of Tokyo Metropolis, the most populous metro area in the world. Many relatively large cities clustered together.",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city",
+              "capital": 2
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.045, 40.76]
+      },
+      "properties": {
+        "place_name": "New York City, United States",
+        "zoom": 10,
+        "description": "Largest city in United States, surrounded by smaller cities and towns.",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city",
+              "symbolrank": 6
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city"
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "town"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.144, 42.374]
+      },
+      "properties": {
+        "place_name": "Boston metro area, United States",
+        "zoom": 10,
+        "description": "10th most populous metro area in United States. Large city surrounded by smaller cities and towns.",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city"
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "town"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.178, 45.498]
+      },
+      "properties": {
+        "place_name": "Milan metro area, Italy",
+        "zoom": 8,
+        "description": "Most populous metro area in Italy. Large city surrounded by smaller cities and towns.",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city"
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "town"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.918, 28.046]
+      },
+      "properties": {
+        "place_name": "Florida, United States",
+        "zoom": 6,
+        "description": "State with good distribution of large-to-small cities.",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.96, 39.52]
+      },
+      "properties": {
+        "place_name": "Eureka, Nevada, United States",
+        "zoom": 9,
+        "description": "Very isolated, very small town.",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "town"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.877, -16.34]
+      },
+      "properties": {
+        "place_name": "Montes Claros, Minas Gerais, Brazil",
+        "zoom": 7,
+        "description": "Small city and surrounding towns.",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city"
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "town"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.816, 35.877]
+      },
+      "properties": {
+        "place_name": "The Research Triangle, North Carolina, United States",
+        "zoom": 9,
+        "description": "Region defined by a mid-sized city (Raleigh), small city (Durham), and town (Chapel Hill).",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "city"
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "town"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.092, 49.901]
+      },
+      "properties": {
+        "place_name": "Dieppe, France",
+        "zoom": 11,
+        "description": "Coastal town and surrounding villages and hamlets. ",
+        "highlights": [
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "type": "town",
+              "class": "settlement"
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "village"
+            }
+          },
+          {
+            "geometry_type": "Point",
+            "data_layer": "place_label",
+            "data_layer_fields": {
+              "class": "settlement",
+              "type": "hamlet"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
