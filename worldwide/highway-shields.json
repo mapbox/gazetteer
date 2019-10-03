@@ -11,19 +11,8 @@
       "properties": {
         "place_name": "at-motorway, Austria",
         "zoom": 12,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "at"
-        }
+        "tags": ["country-at"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -35,19 +24,8 @@
       "properties": {
         "place_name": "at-state-b, Austria",
         "zoom": 14,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "at"
-        }
+        "tags": ["country-at"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -59,19 +37,8 @@
       "properties": {
         "place_name": "at-expressway, Austria",
         "zoom": 11,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "at"
-        }
+        "tags": ["country-at"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -83,19 +50,8 @@
       "properties": {
         "place_name": "br-state, Brazil",
         "zoom": 13,
-        "description": "Uses br-state svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "br-state"
-            }
-          }
-        ],
-        "tags": {
-          "country": "br"
-        }
+        "tags": ["country-br"],
+        "place_description": "Uses br-state svg"
       }
     },
     {
@@ -107,19 +63,8 @@
       "properties": {
         "place_name": "br-federal, Brazil",
         "zoom": 11,
-        "description": "uses br-federal svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "br-federal"
-            }
-          }
-        ],
-        "tags": {
-          "country": "br"
-        }
+        "tags": ["country-br"],
+        "place_description": "uses br-federal svg"
       }
     },
     {
@@ -131,19 +76,8 @@
       "properties": {
         "place_name": "ch-motorway, Switzerland",
         "zoom": 13,
-        "description": "uses ch-motorway svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "ch-motorway"
-            }
-          }
-        ],
-        "tags": {
-          "country": "ch"
-        }
+        "tags": ["country-ch"],
+        "place_description": "uses ch-motorway svg"
       }
     },
     {
@@ -155,19 +89,8 @@
       "properties": {
         "place_name": "ch-main, Switzerland",
         "zoom": 13,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "ch"
-        }
+        "tags": ["country-ch"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -179,19 +102,8 @@
       "properties": {
         "place_name": "cz-motorway, Czech Republic",
         "zoom": 13,
-        "description": "uses rectangle-red svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-red"
-            }
-          }
-        ],
-        "tags": {
-          "country": "cz"
-        }
+        "tags": ["country-cz"],
+        "place_description": "uses rectangle-red svg"
       }
     },
     {
@@ -203,19 +115,8 @@
       "properties": {
         "place_name": "cz-road, Czech Republic",
         "zoom": 13,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "cz"
-        }
+        "tags": ["country-cz"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -227,19 +128,8 @@
       "properties": {
         "place_name": "de-federal, Germany",
         "zoom": 16,
-        "description": "uses rectangle-yellow svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-yellow"
-            }
-          }
-        ],
-        "tags": {
-          "country": "de"
-        }
+        "tags": ["country-de"],
+        "place_description": "uses rectangle-yellow svg"
       }
     },
     {
@@ -251,19 +141,8 @@
       "properties": {
         "place_name": "de-motorway, Germany",
         "zoom": 13,
-        "description": "uses de-motorway svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "de-motorway"
-            }
-          }
-        ],
-        "tags": {
-          "country": "de"
-        }
+        "tags": ["country-de"],
+        "place_description": "uses de-motorway svg"
       }
     },
     {
@@ -275,19 +154,8 @@
       "properties": {
         "place_name": "dk-secondary, Denmark",
         "zoom": 10,
-        "description": "uses rectangle white svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-white"
-            }
-          }
-        ],
-        "tags": {
-          "country": "dk"
-        }
+        "tags": ["country-dk"],
+        "place_description": "uses rectangle white svg"
       }
     },
     {
@@ -299,19 +167,8 @@
       "properties": {
         "place_name": "dk-primary, Denmark",
         "zoom": 11,
-        "description": "uses rectangle-yellow svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-yellow"
-            }
-          }
-        ],
-        "tags": {
-          "country": "dk"
-        }
+        "tags": ["country-dk"],
+        "place_description": "uses rectangle-yellow svg"
       }
     },
     {
@@ -323,19 +180,8 @@
       "properties": {
         "place_name": "fi-trunk, Finland",
         "zoom": 8,
-        "description": "uses rectangle-yellow svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-yellow"
-            }
-          }
-        ],
-        "tags": {
-          "country": "fi"
-        }
+        "tags": ["country-fi"],
+        "place_description": "uses rectangle-yellow svg"
       }
     },
     {
@@ -347,19 +193,8 @@
       "properties": {
         "place_name": "fi-regional, Finland",
         "zoom": 9,
-        "description": "uses rectangle-white svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-white"
-            }
-          }
-        ],
-        "tags": {
-          "country": "fi"
-        }
+        "tags": ["country-fi"],
+        "place_description": "uses rectangle-white svg"
       }
     },
     {
@@ -371,19 +206,8 @@
       "properties": {
         "place_name": "fi-main, Finland",
         "zoom": 13,
-        "description": "uses rectangle-red svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-red"
-            }
-          }
-        ],
-        "tags": {
-          "country": "fi"
-        }
+        "tags": ["country-fi"],
+        "place_description": "uses rectangle-red svg"
       }
     },
     {
@@ -395,19 +219,8 @@
       "properties": {
         "place_name": "gr-motorway, Greece",
         "zoom": 13,
-        "description": "uses gr-motorway svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "gr-motorway"
-            }
-          }
-        ],
-        "tags": {
-          "country": "gr"
-        }
+        "tags": ["country-gr"],
+        "place_description": "uses gr-motorway svg"
       }
     },
     {
@@ -419,19 +232,8 @@
       "properties": {
         "place_name": "gr-national, Greece",
         "zoom": 14,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "gr"
-        }
+        "tags": ["country-gr"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -443,19 +245,8 @@
       "properties": {
         "place_name": "hr-motorway, Croatia",
         "zoom": 12,
-        "description": "uses hr-motorway svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "hr-motorway"
-            }
-          }
-        ],
-        "tags": {
-          "country": "hr"
-        }
+        "tags": ["country-hr"],
+        "place_description": "uses hr-motorway svg"
       }
     },
     {
@@ -467,19 +258,8 @@
       "properties": {
         "place_name": "hr-county, Croatia",
         "zoom": 12,
-        "description": "uses rectangle-yellow svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-yellow"
-            }
-          }
-        ],
-        "tags": {
-          "country": "hr"
-        }
+        "tags": ["country-hr"],
+        "place_description": "uses rectangle-yellow svg"
       }
     },
     {
@@ -491,19 +271,8 @@
       "properties": {
         "place_name": "hr-state, Croatia",
         "zoom": 13,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "hr"
-        }
+        "tags": ["country-hr"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -515,19 +284,8 @@
       "properties": {
         "place_name": "hu-main, Hungary",
         "zoom": 13,
-        "description": "uses hu-main svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "hu-main"
-            }
-          }
-        ],
-        "tags": {
-          "country": "hu"
-        }
+        "tags": ["country-hu"],
+        "place_description": "uses hu-main svg"
       }
     },
     {
@@ -539,19 +297,8 @@
       "properties": {
         "place_name": "hu-motorway, Hungary",
         "zoom": 14,
-        "description": "uses hu-motorway svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "hu-motorway"
-            }
-          }
-        ],
-        "tags": {
-          "country": "hu"
-        }
+        "tags": ["country-hu"],
+        "place_description": "uses hu-motorway svg"
       }
     },
     {
@@ -563,19 +310,8 @@
       "properties": {
         "place_name": "in-state, India",
         "zoom": 12,
-        "description": "uses in-state svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "in-state"
-            }
-          }
-        ],
-        "tags": {
-          "country": "in"
-        }
+        "tags": ["country-in"],
+        "place_description": "uses in-state svg"
       }
     },
     {
@@ -587,19 +323,8 @@
       "properties": {
         "place_name": "in-national, India",
         "zoom": 12,
-        "description": "uses in-national svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "in-national"
-            }
-          }
-        ],
-        "tags": {
-          "country": "in"
-        }
+        "tags": ["country-in"],
+        "place_description": "uses in-national svg"
       }
     },
     {
@@ -611,19 +336,8 @@
       "properties": {
         "place_name": "mx-federal, Mexico",
         "zoom": 10,
-        "description": "uses mx-federal svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "mx-federal"
-            }
-          }
-        ],
-        "tags": {
-          "country": "mx"
-        }
+        "tags": ["country-mx"],
+        "place_description": "uses mx-federal svg"
       }
     },
     {
@@ -635,19 +349,8 @@
       "properties": {
         "place_name": "mx-state, Mexico",
         "zoom": 12,
-        "description": "uses mx-state svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "mx-state"
-            }
-          }
-        ],
-        "tags": {
-          "country": "mx"
-        }
+        "tags": ["country-mx"],
+        "place_description": "uses mx-state svg"
       }
     },
     {
@@ -659,19 +362,8 @@
       "properties": {
         "place_name": "nz-state, New Zealand",
         "zoom": 13,
-        "description": "uses nz-state svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "nz-state"
-            }
-          }
-        ],
-        "tags": {
-          "country": "nz"
-        }
+        "tags": ["country-nz"],
+        "place_description": "uses nz-state svg"
       }
     },
     {
@@ -683,19 +375,8 @@
       "properties": {
         "place_name": "pe-regional, Peru",
         "zoom": 12,
-        "description": "uses pe-regional svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "pe-regional"
-            }
-          }
-        ],
-        "tags": {
-          "country": "pe"
-        }
+        "tags": ["country-pe"],
+        "place_description": "uses pe-regional svg"
       }
     },
     {
@@ -707,19 +388,8 @@
       "properties": {
         "place_name": "pe-national, Peru",
         "zoom": 12,
-        "description": "uses pe-national svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "pe-national"
-            }
-          }
-        ],
-        "tags": {
-          "country": "pe"
-        }
+        "tags": ["country-pe"],
+        "place_description": "uses pe-national svg"
       }
     },
     {
@@ -731,19 +401,8 @@
       "properties": {
         "place_name": "pl-expressway, Poland",
         "zoom": 12,
-        "description": "uses rectangle-red svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-red"
-            }
-          }
-        ],
-        "tags": {
-          "country": "pl"
-        }
+        "tags": ["country-pl"],
+        "place_description": "uses rectangle-red svg"
       }
     },
     {
@@ -755,19 +414,8 @@
       "properties": {
         "place_name": "pl-motorway",
         "zoom": 12,
-        "description": "uses rectangle-red svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-red"
-            }
-          }
-        ],
-        "tags": {
-          "country": "pl"
-        }
+        "tags": ["country-pl"],
+        "place_description": "uses rectangle-red svg"
       }
     },
     {
@@ -779,19 +427,8 @@
       "properties": {
         "place_name": "pl-national, Poland",
         "zoom": 13,
-        "description": "uses rectangle-red svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-red"
-            }
-          }
-        ],
-        "tags": {
-          "country": "pl"
-        }
+        "tags": ["country-pl"],
+        "place_description": "uses rectangle-red svg"
       }
     },
     {
@@ -803,19 +440,8 @@
       "properties": {
         "place_name": "pl-voivodeship, Poland",
         "zoom": 9,
-        "description": "uses rectangle-yellow svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-yellow"
-            }
-          }
-        ],
-        "tags": {
-          "country": "pl"
-        }
+        "tags": ["country-pl"],
+        "place_description": "uses rectangle-yellow svg"
       }
     },
     {
@@ -827,19 +453,8 @@
       "properties": {
         "place_name": "ro-county, Romania",
         "zoom": 13,
-        "description": "uses ro-county svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "ro-county"
-            }
-          }
-        ],
-        "tags": {
-          "country": "ro"
-        }
+        "tags": ["country-ro"],
+        "place_description": "uses ro-county svg"
       }
     },
     {
@@ -851,19 +466,8 @@
       "properties": {
         "place_name": "ro-communal, Romania",
         "zoom": 13,
-        "description": "uses ro-communal svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "ro-communal"
-            }
-          }
-        ],
-        "tags": {
-          "country": "ro"
-        }
+        "tags": ["country-ro"],
+        "place_description": "uses ro-communal svg"
       }
     },
     {
@@ -875,19 +479,8 @@
       "properties": {
         "place_name": "ro-national, Romania",
         "zoom": 15,
-        "description": "uses ro-national svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "ro-national"
-            }
-          }
-        ],
-        "tags": {
-          "country": "ro"
-        }
+        "tags": ["country-ro"],
+        "place_description": "uses ro-national svg"
       }
     },
     {
@@ -899,19 +492,8 @@
       "properties": {
         "place_name": "ro-motorway, Romania",
         "zoom": 14,
-        "description": "uses rectangle-green svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-green"
-            }
-          }
-        ],
-        "tags": {
-          "country": "ro"
-        }
+        "tags": ["country-ro"],
+        "place_description": "uses rectangle-green svg"
       }
     },
     {
@@ -923,19 +505,8 @@
       "properties": {
         "place_name": "rs-motorway, Serbia",
         "zoom": 13,
-        "description": "uses rectangle-green svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-green"
-            }
-          }
-        ],
-        "tags": {
-          "country": "rs"
-        }
+        "tags": ["country-rs"],
+        "place_description": "uses rectangle-green svg"
       }
     },
     {
@@ -947,19 +518,8 @@
       "properties": {
         "place_name": "rs-state-1b, Serbia",
         "zoom": 13,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "rs"
-        }
+        "tags": ["country-rs"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -971,19 +531,8 @@
       "properties": {
         "place_name": "rs-state-2a, Serbia",
         "zoom": 11,
-        "description": "uses rectangle-orange svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-orange"
-            }
-          }
-        ],
-        "tags": {
-          "country": "rs"
-        }
+        "tags": ["country-rs"],
+        "place_description": "uses rectangle-orange svg"
       }
     },
     {
@@ -995,19 +544,8 @@
       "properties": {
         "place_name": "rs-state-2b, Serbia",
         "zoom": 14,
-        "description": "uses rectangle-yellow svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-yellow"
-            }
-          }
-        ],
-        "tags": {
-          "country": "rs"
-        }
+        "tags": ["country-rs"],
+        "place_description": "uses rectangle-yellow svg"
       }
     },
     {
@@ -1019,19 +557,8 @@
       "properties": {
         "place_name": "se-main, Sweden",
         "zoom": 10,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "se"
-        }
+        "tags": ["country-se"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -1043,19 +570,8 @@
       "properties": {
         "place_name": "si-main, Slovenia",
         "zoom": 13,
-        "description": "uses rectangle-yellow svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-yellow"
-            }
-          }
-        ],
-        "tags": {
-          "country": "si"
-        }
+        "tags": ["country-si"],
+        "place_description": "uses rectangle-yellow svg"
       }
     },
     {
@@ -1067,19 +583,8 @@
       "properties": {
         "place_name": "si-motorway, Slovenia",
         "zoom": 15,
-        "description": "uses si-motorway svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "si-motorway"
-            }
-          }
-        ],
-        "tags": {
-          "country": "si"
-        }
+        "tags": ["country-si"],
+        "place_description": "uses si-motorway svg"
       }
     },
     {
@@ -1091,19 +596,8 @@
       "properties": {
         "place_name": "si-expressway, Slovenia",
         "zoom": 14,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "si"
-        }
+        "tags": ["country-si"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -1115,19 +609,8 @@
       "properties": {
         "place_name": "sk-highway, Slovakia",
         "zoom": 13,
-        "description": "uses rectangle-red svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-red"
-            }
-          }
-        ],
-        "tags": {
-          "country": "sk"
-        }
+        "tags": ["country-sk"],
+        "place_description": "uses rectangle-red svg"
       }
     },
     {
@@ -1139,19 +622,8 @@
       "properties": {
         "place_name": "sk-road, Slovakia",
         "zoom": 15,
-        "description": "uses rectangle-blue svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-blue"
-            }
-          }
-        ],
-        "tags": {
-          "country": "sk"
-        }
+        "tags": ["country-sk"],
+        "place_description": "uses rectangle-blue svg"
       }
     },
     {
@@ -1163,19 +635,8 @@
       "properties": {
         "place_name": "us-interstate, United States",
         "zoom": 14,
-        "description": "uses us-interstate svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-interstate"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-interstate svg"
       }
     },
     {
@@ -1187,19 +648,8 @@
       "properties": {
         "place_name": "us-interstate-duplex, United States",
         "zoom": 12,
-        "description": "uses us-interstate-duplex svg",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-interstate-duplex"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-interstate-duplex svg"
       }
     },
     {
@@ -1211,19 +661,8 @@
       "properties": {
         "place_name": "us-interstate-business, United States",
         "zoom": 13,
-        "description": "uses us-interstate-business svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-interstate-business"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-interstate-business svg"
       }
     },
     {
@@ -1235,19 +674,8 @@
       "properties": {
         "place_name": "us-highway, United States",
         "zoom": 13,
-        "description": "uses us-highway svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-highway"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-highway svg"
       }
     },
     {
@@ -1259,19 +687,8 @@
       "properties": {
         "place_name": "us-highway-duplex, United States",
         "zoom": 13,
-        "description": "uses us-highway-duplex svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-highway-duplex"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-highway-duplex svg"
       }
     },
     {
@@ -1283,19 +700,8 @@
       "properties": {
         "place_name": "us-highway-bypass, United States",
         "zoom": 14,
-        "description": "uses us-highway-bypass svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-highway-bypass"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-highway-bypass svg"
       }
     },
     {
@@ -1307,19 +713,8 @@
       "properties": {
         "place_name": "us-highway-business, United States",
         "zoom": 14,
-        "description": "uses us-highway-business svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-highway-business"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-highway-business svg"
       }
     },
     {
@@ -1331,19 +726,8 @@
       "properties": {
         "place_name": "us-state, United States",
         "zoom": 15,
-        "description": "uses circle-white svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "circle-white"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses circle-white svg"
       }
     },
     {
@@ -1355,19 +739,8 @@
       "properties": {
         "place_name": "za-metropolitan, South Africa",
         "zoom": 14,
-        "description": "uses rectangle-green svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-green"
-            }
-          }
-        ],
-        "tags": {
-          "country": "za"
-        }
+        "tags": ["country-za"],
+        "place_description": "uses rectangle-green svg"
       }
     },
     {
@@ -1379,19 +752,8 @@
       "properties": {
         "place_name": "za-regional, South Africa",
         "zoom": 15,
-        "description": "uses rectangle-green svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-green"
-            }
-          }
-        ],
-        "tags": {
-          "country": "za"
-        }
+        "tags": ["country-za"],
+        "place_description": "uses rectangle-green svg"
       }
     },
     {
@@ -1403,19 +765,8 @@
       "properties": {
         "place_name": "za-national, South Africa",
         "zoom": 16,
-        "description": "uses za-national svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "za-national"
-            }
-          }
-        ],
-        "tags": {
-          "country": "za"
-        }
+        "tags": ["country-za"],
+        "place_description": "uses za-national svg"
       }
     },
     {
@@ -1427,19 +778,8 @@
       "properties": {
         "place_name": "za-provincial, South Africa",
         "zoom": 14,
-        "description": "uses za-provincial svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "za-provincial"
-            }
-          }
-        ],
-        "tags": {
-          "country": "za"
-        }
+        "tags": ["country-za"],
+        "place_description": "uses za-provincial svg"
       }
     },
     {
@@ -1451,16 +791,7 @@
       "properties": {
         "place_name": "e-road, Sweden",
         "zoom": 12,
-        "description": "uses rectangle-green svg\n(this shield exists in multiple countries: https://en.wikipedia.org/wiki/International_E-road_network",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "rectangle-green"
-            }
-          }
-        ]
+        "place_description": "uses rectangle-green svg\n(this shield exists in multiple countries: https://en.wikipedia.org/wiki/International_E-road_network"
       }
     },
     {
@@ -1472,19 +803,8 @@
       "properties": {
         "place_name": "us-bia, United States",
         "zoom": 12,
-        "description": "uses us-bia svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-bia"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-bia svg"
       }
     },
     {
@@ -1496,19 +816,8 @@
       "properties": {
         "place_name": "us-interstate-truck, United States",
         "zoom": 13,
-        "description": "uses us-interstate-truck svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-interstate-truck"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-interstate-truck svg"
       }
     },
     {
@@ -1520,19 +829,8 @@
       "properties": {
         "place_name": "us-highway-alternate, United States",
         "zoom": 14,
-        "description": "uses us-highway-alternate svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-highway-alternate"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-highway-alternate svg"
       }
     },
     {
@@ -1544,19 +842,8 @@
       "properties": {
         "place_name": "us-highway-truck, United States",
         "zoom": 16,
-        "description": "uses us-highway-truck svg",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "shield": "us-highway-truck"
-            }
-          }
-        ],
-        "tags": {
-          "country": "us"
-        }
+        "tags": ["country-us"],
+        "place_description": "uses us-highway-truck svg"
       }
     }
   ]

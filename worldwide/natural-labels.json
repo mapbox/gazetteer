@@ -12,26 +12,8 @@
       "properties": {
         "place_name": "Valleys of Southern California and Nevada",
         "zoom": 8,
-        "description": "A regional area with several line and point valley labels",
-        "tags": {
-          "landform": "valley"
-        },
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform"
-            }
-          }
-        ]
+        "tags": ["landform-valley"],
+        "place_description": "A regional area with several line and point valley labels"
       }
     },
     {
@@ -43,16 +25,7 @@
       "properties": {
         "place_name": "Chesapeake and Ohio Canal, Washington, D.C.",
         "zoom": 16,
-        "description": "A small canal feature within an urban context",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "canal"
-            }
-          }
-        ]
+        "place_description": "A small canal feature within an urban context"
       }
     },
     {
@@ -64,17 +37,7 @@
       "properties": {
         "place_name": "Southern Appalacian Mountain Range, North Carolina",
         "zoom": 10,
-        "description": "A field of mountain-peak labels near Asheville, NC",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform",
-              "maki": "mountain"
-            }
-          }
-        ]
+        "place_description": "A field of mountain-peak labels near Asheville, NC"
       }
     },
     {
@@ -86,20 +49,8 @@
       "properties": {
         "place_name": "Sierra Nevada Mountain Range, California",
         "zoom": 12,
-        "description": "A field of mountain-peak labels near Mount Whitney",
-        "tags": {
-          "landform": "mountain-peak"
-        },
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform",
-              "maki": "mountain"
-            }
-          }
-        ]
+        "tags": ["landform-mountain-peak"],
+        "place_description": "A field of mountain-peak labels near Mount Whitney"
       }
     },
     {
@@ -111,17 +62,7 @@
       "properties": {
         "place_name": "Sierra Nevada Mountain Range, California",
         "zoom": 8,
-        "description": "A field of mountain-peak labels within Californian mountain range",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform",
-              "maki": "mountain"
-            }
-          }
-        ]
+        "place_description": "A field of mountain-peak labels within Californian mountain range"
       }
     },
     {
@@ -133,19 +74,8 @@
       "properties": {
         "place_name": "Nootka Island, Vancouver Island, Canada",
         "zoom": 9,
-        "description": "A field of Island labels along the Vancouver Island coast-line",
-        "tags": {
-          "landform": "island"
-        },
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform"
-            }
-          }
-        ]
+        "tags": ["landform-island"],
+        "place_description": "A field of Island labels along the Vancouver Island coast-line"
       }
     },
     {
@@ -157,23 +87,7 @@
       "properties": {
         "place_name": "Lincoln Memorial Reflecting Pool and Constitution Gardens Pond, Washington, D.C.",
         "zoom": 16,
-        "description": "Small-scale water features within an urban context",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "water"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "water"
-            }
-          }
-        ]
+        "place_description": "Small-scale water features within an urban context"
       }
     },
     {
@@ -185,33 +99,8 @@
       "properties": {
         "place_name": "Arcadia National Park, Maine",
         "zoom": 11,
-        "description": "A potpourri of natural label elements within a National Park",
-        "tags": {
-          "landform": "mountain-peak"
-        },
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "wetland"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform"
-            }
-          }
-        ]
+        "tags": ["landform-mountain-peak"],
+        "place_description": "A potpourri of natural label elements within a National Park"
       }
     },
     {
@@ -223,23 +112,7 @@
       "properties": {
         "place_name": "Mount Shasta, California",
         "zoom": 12,
-        "description": "A field of point and line glacier labels",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "glacier"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "glacier"
-            }
-          }
-        ]
+        "place_description": "A field of point and line glacier labels"
       }
     },
     {
@@ -251,17 +124,7 @@
       "properties": {
         "place_name": "Grand Canyon National Park, Arizona",
         "zoom": 8,
-        "description": "A field of mountain-peak, temple, point and hill point labels",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform",
-              "maki": "mountain"
-            }
-          }
-        ]
+        "place_description": "A field of mountain-peak, temple, point and hill point labels"
       }
     },
     {
@@ -273,17 +136,7 @@
       "properties": {
         "place_name": "Grand Canyon National Park, Arizona",
         "zoom": 11,
-        "description": "A field of mountain-peak, temple, point and hill point labels",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "natural_label",
-            "data_layer_fields": {
-              "class": "landform",
-              "maki": "mountain"
-            }
-          }
-        ]
+        "place_description": "A field of mountain-peak, temple, point and hill point labels"
       }
     }
   ]
