@@ -1,8 +1,13 @@
+### v4.0.0
+
+- Gazetteer specification 1.0 [#53](https://github.com/mapbox/gazetteer/pull/53) which rewrites Gazetteers to conform to the new spec
+- Rewrite build steps and import patterns [#52](https://github.com/mapbox/gazetteer/pull/52)
+
 ### v3.2.0
 
 - Add road network gazetteer [#45](https://github.com/mapbox/gazetteer/pull/45)
 - Add transit gazetteer [#30](https://github.com/mapbox/gazetteer/pull/30)
-- Allow Multi* geometry types [#46](https://github.com/mapbox/gazetteer/pull/46)
+- Allow Multi\* geometry types [#46](https://github.com/mapbox/gazetteer/pull/46)
 
 ### v3.1.2
 

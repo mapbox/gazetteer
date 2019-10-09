@@ -16,7 +16,7 @@ import { worldwide, util } from '@mapbox/gazetteer';
 
 const { roadNetwork, settlements } = worldwide;
 
-util.lintGazetteer(roadNetwork); // Returns an array of error messages
+util.lintGazetteer(roadNetwork); // Returns an array of error messages if invalid
 ```
 
 ### Releasing
