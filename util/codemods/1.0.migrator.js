@@ -47,10 +47,12 @@ gazetteers.forEach(file => {
 
             if (tags.indexOf(tag) < 0) tags.push(tag);
           });
+        } else {
+          if (tags.indexOf(layer) < 0) tags.push(layer);
         }
       });
 
-      feature.properties.tags = tags;
+      if (tags.length) feature.properties.tags = tags;
       delete feature.properties.highlights;
     }
 
