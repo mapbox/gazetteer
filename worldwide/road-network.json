@@ -11,39 +11,14 @@
       "properties": {
         "place_name": "Madrid, Spain",
         "zoom": 17,
-        "description": "Tunnels along Madrid's M-30 motorway.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway",
-              "structure": "tunnel"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway-link",
-              "structure": "tunnel"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "trunk",
-              "oneway": "true"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "path"
-            }
-          }
+        "place_description": "Tunnels along Madrid's M-30 motorway.",
+        "tags": [
+          "road:motorway",
+          "road:tunnel",
+          "road:motorway-link",
+          "road:trunk",
+          "road:true",
+          "road:path"
         ]
       }
     },
@@ -56,43 +31,13 @@
       "properties": {
         "place_name": "Singapore",
         "zoom": 10,
-        "description": "Expressway system in Singapore.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "trunk"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "primary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "secondary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "tertiary"
-            }
-          }
+        "place_description": "Expressway system in Singapore.",
+        "tags": [
+          "road:motorway",
+          "road:trunk",
+          "road:primary",
+          "road:secondary",
+          "road:tertiary"
         ]
       }
     },
@@ -105,31 +50,8 @@
       "properties": {
         "place_name": "Philadelphia, Pennsylvania",
         "zoom": 15,
-        "description": "City grid of Philadelphia.",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "street",
-              "oneway": "true"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "service"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "primary"
-            }
-          }
-        ]
+        "place_description": "City grid of Philadelphia.",
+        "tags": ["road:street", "road:true", "road:service", "road:primary"]
       }
     },
     {
@@ -141,50 +63,14 @@
       "properties": {
         "place_name": "Mexico City, Mexico",
         "zoom": 11,
-        "description": "Motorways and arterial roads linking neighborhoods in Mexico City.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "trunk"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "primary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "secondary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "tertiary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "treet"
-            }
-          }
+        "place_description": "Motorways and arterial roads linking neighborhoods in Mexico City.",
+        "tags": [
+          "road:motorway",
+          "road:trunk",
+          "road:primary",
+          "road:secondary",
+          "road:tertiary",
+          "road:treet"
         ]
       }
     },
@@ -197,31 +83,8 @@
       "properties": {
         "place_name": "Copenhagen, Denmark",
         "zoom": 13,
-        "description": "Bridges, ferry lines, and streets weaving through the inner harbor.",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "tertiary",
-              "structure": "bridge"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "path"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "street"
-            }
-          }
-        ]
+        "place_description": "Bridges, ferry lines, and streets weaving through the inner harbor.",
+        "tags": ["road:tertiary", "road:bridge", "road:path", "road:street"]
       }
     },
     {
@@ -233,38 +96,14 @@
       "properties": {
         "place_name": "Atlanta, Georgia",
         "zoom": 16,
-        "description": "A multi-level stack interchange known as Spaghetti Junction.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway_link",
-              "structure": "bridge",
-              "oneway": "true"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "secondary"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "tertiary"
-            }
-          }
+        "place_description": "A multi-level stack interchange known as Spaghetti Junction.",
+        "tags": [
+          "road:motorway",
+          "road:motorway_link",
+          "road:bridge",
+          "road:true",
+          "road:secondary",
+          "road:tertiary"
         ]
       }
     },
@@ -277,30 +116,8 @@
       "properties": {
         "place_name": "Northeastern China",
         "zoom": 8,
-        "description": "Ring roads around Beijing and Tianjin.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "trunk"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "primary"
-            }
-          }
-        ]
+        "place_description": "Ring roads around Beijing and Tianjin.",
+        "tags": ["road:motorway", "road:trunk", "road:primary"]
       }
     },
     {
@@ -312,36 +129,12 @@
       "properties": {
         "place_name": "San Francisco, California",
         "zoom": 18,
-        "description": "Rail and rail crossings intersecting with roads.",
-        "highlights": [
-          {
-            "geometry_type": "MultiPoint",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "level_crossing"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "tertiary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "service"
-            }
-          },
-          {
-            "geometry_type": "Polygon",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "pedestrian"
-            }
-          }
+        "place_description": "Rail and rail crossings intersecting with roads.",
+        "tags": [
+          "road:level_crossing",
+          "road:tertiary",
+          "road:service",
+          "road:pedestrian"
         ]
       }
     },
@@ -354,43 +147,13 @@
       "properties": {
         "place_name": "Nagpur, India",
         "zoom": 11,
-        "description": "The dense street network in Nagpur.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "trunk"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "primary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "secondary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "tertiary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "street"
-            }
-          }
+        "place_description": "The dense street network in Nagpur.",
+        "tags": [
+          "road:trunk",
+          "road:primary",
+          "road:secondary",
+          "road:tertiary",
+          "road:street"
         ]
       }
     },
@@ -403,37 +166,8 @@
       "properties": {
         "place_name": "Boston, Massachusetts",
         "zoom": 16,
-        "description": "Pedestrian paths crossing through Boston Common.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "path"
-            }
-          },
-          {
-            "geometry_type": "Polygon",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "pedestrian"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "street"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "service"
-            }
-          }
-        ]
+        "place_description": "Pedestrian paths crossing through Boston Common.",
+        "tags": ["road:path", "road:pedestrian", "road:street", "road:service"]
       }
     },
     {
@@ -445,30 +179,8 @@
       "properties": {
         "place_name": "Northeastern United States",
         "zoom": 6,
-        "description": "Roads linking cities along the northeast coast.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "trunk"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "primary"
-            }
-          }
-        ]
+        "place_description": "Roads linking cities along the northeast coast.",
+        "tags": ["road:motorway", "road:trunk", "road:primary"]
       }
     },
     {
@@ -480,37 +192,13 @@
       "properties": {
         "place_name": "London, England",
         "zoom": 15,
-        "description": "Ferry lines and bridges along the Thames River.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "ferry"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "primary",
-              "oneway": "true"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "street"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "major_rail"
-            }
-          }
+        "place_description": "Ferry lines and bridges along the Thames River.",
+        "tags": [
+          "road:ferry",
+          "road:primary",
+          "road:true",
+          "road:street",
+          "road:major_rail"
         ]
       }
     },
@@ -523,50 +211,14 @@
       "properties": {
         "place_name": "Tokyo, Japan",
         "zoom": 12,
-        "description": "The large network of roads in Tokyo.",
-        "highlights": [
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "motorway"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "trunk"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "primary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "secondary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "tertiary"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "street"
-            }
-          }
+        "place_description": "The large network of roads in Tokyo.",
+        "tags": [
+          "road:motorway",
+          "road:trunk",
+          "road:primary",
+          "road:secondary",
+          "road:tertiary",
+          "road:street"
         ]
       }
     },
@@ -579,30 +231,8 @@
       "properties": {
         "place_name": "Cape Town, South Africa",
         "zoom": 14,
-        "description": "Rail lines through the city grid.",
-        "highlights": [
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "tertiary"
-            }
-          },
-          {
-            "geometry_type": "LineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "street"
-            }
-          },
-          {
-            "geometry_type": "MultiLineString",
-            "data_layer": "road",
-            "data_layer_fields": {
-              "class": "major_rail"
-            }
-          }
-        ]
+        "place_description": "Rail lines through the city grid.",
+        "tags": ["road:tertiary", "road:street", "road:major_rail"]
       }
     }
   ]

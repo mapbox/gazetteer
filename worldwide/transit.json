@@ -11,7 +11,7 @@
       "properties": {
         "place_name": "New York, New York, USA",
         "zoom": 17,
-        "description": "Many modes (bus, bike share, rail, rail-metro) in close proximity."
+        "place_description": "Many modes (bus, bike share, rail, rail-metro) in close proximity."
       }
     },
     {
@@ -23,7 +23,7 @@
       "properties": {
         "place_name": "New York, New York, USA",
         "zoom": 19,
-        "description": "Labeled rail-metro entrances and labeled bus stops."
+        "place_description": "Labeled rail-metro entrances and labeled bus stops."
       }
     },
     {
@@ -35,7 +35,7 @@
       "properties": {
         "place_name": "New York, New York, USA",
         "zoom": 14,
-        "description": "Custom icon for MTA (blue)."
+        "place_description": "Custom icon for MTA (blue)."
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "place_name": "Singapore",
         "zoom": 15,
-        "description": "Custom icon for MRT (green)."
+        "place_description": "Custom icon for MRT (green)."
       }
     },
     {
@@ -59,7 +59,7 @@
       "properties": {
         "place_name": "Barcelona, Spain",
         "zoom": 14,
-        "description": "Custom icon for Barcelona Metro (red)."
+        "place_description": "Custom icon for Barcelona Metro (red)."
       }
     },
     {
@@ -71,7 +71,7 @@
       "properties": {
         "place_name": "Boston, Massachusetts, USA",
         "zoom": 15,
-        "description": "Custom icon for MBTA (black)."
+        "place_description": "Custom icon for MBTA (black)."
       }
     },
     {
@@ -83,7 +83,7 @@
       "properties": {
         "place_name": "Chongqing, China",
         "zoom": 14,
-        "description": "Custom icon for CRT (green)."
+        "place_description": "Custom icon for CRT (green)."
       }
     },
     {
@@ -95,7 +95,7 @@
       "properties": {
         "place_name": "New Delhi, India",
         "zoom": 15,
-        "description": "Custom icon for Delhi Metro (red)."
+        "place_description": "Custom icon for Delhi Metro (red)."
       }
     },
     {
@@ -107,7 +107,7 @@
       "properties": {
         "place_name": "Osaka, Japa ",
         "zoom": 18,
-        "description": "Custom icon for Osaka Municipal Subway (red)."
+        "place_description": "Custom icon for Osaka Municipal Subway (red)."
       }
     },
     {
@@ -119,7 +119,7 @@
       "properties": {
         "place_name": "London, UK",
         "zoom": 15,
-        "description": "Custom icon for London Underground, Overground, and National Rail (blue)"
+        "place_description": "Custom icon for London Underground, Overground, and National Rail (blue)"
       }
     },
     {
@@ -131,7 +131,7 @@
       "properties": {
         "place_name": "Hong Kong, China",
         "zoom": 14,
-        "description": "Custom icon for MTR (red)."
+        "place_description": "Custom icon for MTR (red)."
       }
     },
     {
@@ -143,7 +143,7 @@
       "properties": {
         "place_name": "Kiev, Ukraine",
         "zoom": 15,
-        "description": "Custom icon for Kiev Metro (green)."
+        "place_description": "Custom icon for Kiev Metro (green)."
       }
     },
     {
@@ -155,7 +155,7 @@
       "properties": {
         "place_name": "Madrid, Spain",
         "zoom": 16,
-        "description": "Custom icon for Madrid Metro (blue)."
+        "place_description": "Custom icon for Madrid Metro (blue)."
       }
     },
     {
@@ -167,7 +167,7 @@
       "properties": {
         "place_name": "Mexico City, Mexico",
         "zoom": 14,
-        "description": "Custom icon for Mexico City Metro (orange)."
+        "place_description": "Custom icon for Mexico City Metro (orange)."
       }
     },
     {
@@ -179,7 +179,7 @@
       "properties": {
         "place_name": "Milan, Italy",
         "zoom": 14,
-        "description": "Custom icon for Milan Metro (red)."
+        "place_description": "Custom icon for Milan Metro (red)."
       }
     },
     {
@@ -191,7 +191,7 @@
       "properties": {
         "place_name": "Oslo, Norway",
         "zoom": 14,
-        "description": "Custom icon for Oslo Metro (blue)."
+        "place_description": "Custom icon for Oslo Metro (blue)."
       }
     },
     {
@@ -203,7 +203,7 @@
       "properties": {
         "place_name": "Philadelphia, Pennsylvania",
         "zoom": 14,
-        "description": "Custom icon for SEPTA (blue)."
+        "place_description": "Custom icon for SEPTA (blue)."
       }
     },
     {
@@ -215,7 +215,7 @@
       "properties": {
         "place_name": "San Francisco, California",
         "zoom": 15,
-        "description": "Custom icon for BART (blue)."
+        "place_description": "Custom icon for BART (blue)."
       }
     },
     {
@@ -227,7 +227,7 @@
       "properties": {
         "place_name": "Stockholm, Sweden",
         "zoom": 15,
-        "description": "Custom icon for Stockholm Metro (blue)."
+        "place_description": "Custom icon for Stockholm Metro (blue)."
       }
     },
     {
@@ -239,7 +239,7 @@
       "properties": {
         "place_name": "Taipei, Taiwan",
         "zoom": 14,
-        "description": "Custom icon for Taipei Metro (green)."
+        "place_description": "Custom icon for Taipei Metro (green)."
       }
     },
     {
@@ -251,7 +251,7 @@
       "properties": {
         "place_name": "Tokyo, Japan",
         "zoom": 15,
-        "description": "Custom icon for Tokyo Metro (aqua)."
+        "place_description": "Custom icon for Tokyo Metro (aqua)."
       }
     },
     {
@@ -263,7 +263,7 @@
       "properties": {
         "place_name": "Vienna, Austria",
         "zoom": 14,
-        "description": "Custom icon for U-Bahn (blue)."
+        "place_description": "Custom icon for U-Bahn (blue)."
       }
     },
     {
@@ -275,7 +275,7 @@
       "properties": {
         "place_name": "Paris, France",
         "zoom": 15,
-        "description": "Custom icon for Paris Metro (blue)."
+        "place_description": "Custom icon for Paris Metro (blue)."
       }
     },
     {
@@ -287,7 +287,7 @@
       "properties": {
         "place_name": "Paris, France",
         "zoom": 15,
-        "description": "Custom icon for Paris Metro and RER (blue)."
+        "place_description": "Custom icon for Paris Metro and RER (blue)."
       }
     },
     {
@@ -299,7 +299,7 @@
       "properties": {
         "place_name": "Moscow, Russia",
         "zoom": 16,
-        "description": "Custom icon for Moscow Metro (blue)."
+        "place_description": "Custom icon for Moscow Metro (blue)."
       }
     },
     {
@@ -311,7 +311,7 @@
       "properties": {
         "place_name": "Washington, DC, USA",
         "zoom": 16,
-        "description": "Custom icon for DC Metro (black)."
+        "place_description": "Custom icon for DC Metro (black)."
       }
     },
     {
@@ -323,7 +323,7 @@
       "properties": {
         "place_name": "Berlin, Germany",
         "zoom": 16,
-        "description": "Custom icons for U-Bahn (blue) and S-Bahn (green)."
+        "place_description": "Custom icons for U-Bahn (blue) and S-Bahn (green)."
       }
     }
   ]

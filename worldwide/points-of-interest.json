@@ -11,35 +11,13 @@
       "properties": {
         "place_name": "Presidio and San Francisco National Cemetery, USA",
         "zoom": 16,
-        "description": "large cemetery inside of large park",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 2,
-              "class": "park_like"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 0,
-              "class": "park_like"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 16,
-              "class": "park_like"
-            }
-          }
+        "place_description": "large cemetery inside of large park",
+        "tags": [
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-2",
+          "poi_label:park_like",
+          "poi_label:sizerank-0",
+          "poi_label:sizerank-16"
         ]
       }
     },
@@ -52,26 +30,14 @@
       "properties": {
         "place_name": "National mall, Washington DC, USA",
         "zoom": 15,
-        "description": "large park with smaller internal pois",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 2,
-              "class": "park_like"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "sizerank": 16,
-              "class": "historic",
-              "filterrank": 2
-            }
-          }
+        "place_description": "large park with smaller internal pois",
+        "tags": [
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-2",
+          "poi_label:park_like",
+          "poi_label:sizerank-16",
+          "poi_label:historic",
+          "poi_label:filterrank-2"
         ]
       }
     },
@@ -84,26 +50,12 @@
       "properties": {
         "place_name": "San Antonio State Hospital, San Antonio TX, USA",
         "zoom": 15,
-        "description": "large hospital with smaller internal buildings",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 0,
-              "class": "medical"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "class": "medical",
-              "sizerank": 5
-            }
-          }
+        "place_description": "large hospital with smaller internal buildings",
+        "tags": [
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-0",
+          "poi_label:medical",
+          "poi_label:sizerank-5"
         ]
       }
     },
@@ -116,25 +68,12 @@
       "properties": {
         "place_name": "San Antonio College, San Antonio TX, USA",
         "zoom": 16,
-        "description": "large university with smaller internal university buildings",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 0
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 10,
-              "class": "education"
-            }
-          }
+        "place_description": "large university with smaller internal university buildings",
+        "tags": [
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-0",
+          "poi_label:sizerank-10",
+          "poi_label:education"
         ]
       }
     },
@@ -147,18 +86,12 @@
       "properties": {
         "place_name": "Big Bend National Park TX, USA",
         "zoom": 9,
-        "description": "isolated large national park poi",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 1,
-              "class": "park_like",
-              "type": "National Park"
-            }
-          }
+        "place_description": "isolated large national park poi",
+        "tags": [
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-1",
+          "poi_label:park_like",
+          "poi_label:National Park"
         ]
       }
     },
@@ -171,26 +104,12 @@
       "properties": {
         "place_name": "Los Angeles Refinery - Wilmington Plant, Los Angeles CA, USA",
         "zoom": 14,
-        "description": "isolated large industrial site",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "industrial",
-              "filterrank": 1,
-              "sizerank": 3
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "sizerank": 3,
-              "class": "park_like"
-            }
-          }
+        "place_description": "isolated large industrial site",
+        "tags": [
+          "poi_label:industrial",
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-3",
+          "poi_label:park_like"
         ]
       }
     },
@@ -203,35 +122,16 @@
       "properties": {
         "place_name": "Santa Monica State Beach, Los Angeles CA, USA",
         "zoom": 15,
-        "description": "state beach with smaller surrounding pois",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "sport_and_leisure",
-              "filterrank": 1,
-              "sizerank": 1
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "park_like",
-              "filterrank": 2,
-              "sizerank": 13
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "landmark",
-              "filterrank": 1,
-              "sizerank": 9
-            }
-          }
+        "place_description": "state beach with smaller surrounding pois",
+        "tags": [
+          "poi_label:sport_and_leisure",
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-1",
+          "poi_label:park_like",
+          "poi_label:filterrank-2",
+          "poi_label:sizerank-13",
+          "poi_label:landmark",
+          "poi_label:sizerank-9"
         ]
       }
     },
@@ -244,35 +144,14 @@
       "properties": {
         "place_name": "Rose Canyon Open Space, San Diego CA, USA",
         "zoom": 16,
-        "description": "three low sizerank pois isolated and in close proximity with no high sizerank pois.",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "commercial_services",
-              "filterrank": 1,
-              "sizerank": 1
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "park_like",
-              "filterrank": 1,
-              "sizerank": 2
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "sizerank": 0,
-              "filterrank": 1,
-              "class": "park_like"
-            }
-          }
+        "place_description": "three low sizerank pois isolated and in close proximity with no high sizerank pois.",
+        "tags": [
+          "poi_label:commercial_services",
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-1",
+          "poi_label:park_like",
+          "poi_label:sizerank-2",
+          "poi_label:sizerank-0"
         ]
       }
     },
@@ -285,28 +164,14 @@
       "properties": {
         "place_name": "Spring Hill Golf Course, Mobile AL, USA",
         "zoom": 15,
-        "description": "low sizerank golf course next to college",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "park_like",
-              "type": "Golf Course",
-              "sizerank": 2,
-              "filterrank": 1
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 1,
-              "class": "education",
-              "type": "College",
-              "sizerank": 2
-            }
-          }
+        "place_description": "low sizerank golf course next to college",
+        "tags": [
+          "poi_label:park_like",
+          "poi_label:Golf Course",
+          "poi_label:sizerank-2",
+          "poi_label:filterrank-1",
+          "poi_label:education",
+          "poi_label:College"
         ]
       }
     },
@@ -319,39 +184,18 @@
       "properties": {
         "place_name": "Miracle Mile Shops, Las Vegas NV",
         "zoom": 17,
-        "description": "large shopping center with smaller restaurant, lodging, and shopping pois",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "category_en": "Restaurant",
-              "class": "food_and_drink",
-              "filterrank": 3,
-              "sizerank": 16,
-              "maki": "restaurant"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "sizerank": 16,
-              "category_en": "Restaurant",
-              "filterrank": 1,
-              "maki": "restaurant"
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "category_en": "Mall",
-              "sizerank": 3,
-              "class": "store_like",
-              "maki": "shop"
-            }
-          }
+        "place_description": "large shopping center with smaller restaurant, lodging, and shopping pois",
+        "tags": [
+          "poi_label:Restaurant",
+          "poi_label:food_and_drink",
+          "poi_label:filterrank-3",
+          "poi_label:sizerank-16",
+          "poi_label:maki-restaurant",
+          "poi_label:filterrank-1",
+          "poi_label:Mall",
+          "poi_label:sizerank-3",
+          "poi_label:store_like",
+          "poi_label:maki-shop"
         ]
       }
     },
@@ -364,44 +208,15 @@
       "properties": {
         "place_name": "Johns Hopkins University, Baltimore MD, USA",
         "zoom": 16,
-        "description": "large university near low sizerank park containing high sizerank garden and buildings",
-        "highlights": [
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "education",
-              "filterrank": 1,
-              "sizerank": 0
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "park_like",
-              "filterrank": 1,
-              "sizerank": 0
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "class": "park_like",
-              "filterrank": 1,
-              "sizerank": 10
-            }
-          },
-          {
-            "geometry_type": "Point",
-            "data_layer": "poi_label",
-            "data_layer_fields": {
-              "filterrank": 2,
-              "class": "education",
-              "sizerank": 11
-            }
-          }
+        "place_description": "large university near low sizerank park containing high sizerank garden and buildings",
+        "tags": [
+          "poi_label:education",
+          "poi_label:filterrank-1",
+          "poi_label:sizerank-0",
+          "poi_label:park_like",
+          "poi_label:sizerank-10",
+          "poi_label:filterrank-2",
+          "poi_label:sizerank-11"
         ]
       }
     }
