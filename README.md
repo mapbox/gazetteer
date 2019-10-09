@@ -1,22 +1,22 @@
-gazetteer
----
+## Gazetteer
 
 [![build status](https://secure.travis-ci.org/mapbox/gazetteer.png)](http://travis-ci.org/mapbox/gazetteer)
 
-An index of places for styling maps, organized into a collection of machine-readable files.
+An index of places for maps, organized into a collection of machine-readable files that conforms to a [Gazetteer 1.0 spec](./gazetteer-spec/1.0/README.md).
 
 ### Usage
 
-This package exports two functions:
+This package includes:
 
-* `get` for retrieving gazetteers by name.
-* `lint` for checking if a JSON object conforms to [the gazetteer spec](./spec.md).
+- A collection of Gazetteers
+- A validation utility for verifying a JSON object conforms to the [Gazetteer 1.0 specification](./gazetteer-spec/1.0/README.md).
 
 ```js
-import gazetteer from '@mapbox/gazetteer';
+import { worldwide, util } from '@mapbox/gazetteer';
 
-gazetteer.get('natural-label') // Returns a geoJSON FeatureCollection
-gazetteer.lint(myGazetteerJson) // Returns an array of error messages
+const { roadNetwork, settlements } = worldwide;
+
+util.lintGazetteer(roadNetwork); // Returns an array of error messages
 ```
 
 ### Releasing
