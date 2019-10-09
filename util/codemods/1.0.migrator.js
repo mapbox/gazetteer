@@ -25,16 +25,25 @@ gazetteers.forEach(file => {
       delete feature.properties.description;
     }
 
-    if (feature.properties.highlights) delete feature.properties.highlights;
+    if (feature.properties.tags) delete feature.properties.tags;
 
-    if (feature.properties.tags) {
+    if (feature.properties.highlights) {
       const tags = [];
 
-      Object.keys(feature.properties.tags).forEach(key => {
-        tags.push(`${key}-${feature.properties.tags[key]}`);
+      feature.properties.highlights.forEach(highlight => {
+        const fields = highlight['data_layer_fields'];
+        if (fields) {
+          Object.keys(fields).forEach(key => {
+            const value = fields[key];
+            if (tags.indexOf(value) < 0) {
+              tags.push(fields[key]);
+            }
+          });
+        }
       });
 
       feature.properties.tags = tags;
+      delete feature.properties.highlights;
     }
 
     return feature;

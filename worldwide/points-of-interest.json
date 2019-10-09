@@ -11,7 +11,8 @@
       "properties": {
         "place_name": "Presidio and San Francisco National Cemetery, USA",
         "zoom": 16,
-        "place_description": "large cemetery inside of large park"
+        "place_description": "large cemetery inside of large park",
+        "tags": [1, 2, "park_like", 0, 16]
       }
     },
     {
@@ -23,7 +24,8 @@
       "properties": {
         "place_name": "National mall, Washington DC, USA",
         "zoom": 15,
-        "place_description": "large park with smaller internal pois"
+        "place_description": "large park with smaller internal pois",
+        "tags": [1, 2, "park_like", 16, "historic"]
       }
     },
     {
@@ -35,7 +37,8 @@
       "properties": {
         "place_name": "San Antonio State Hospital, San Antonio TX, USA",
         "zoom": 15,
-        "place_description": "large hospital with smaller internal buildings"
+        "place_description": "large hospital with smaller internal buildings",
+        "tags": [1, 0, "medical", 5]
       }
     },
     {
@@ -47,7 +50,8 @@
       "properties": {
         "place_name": "San Antonio College, San Antonio TX, USA",
         "zoom": 16,
-        "place_description": "large university with smaller internal university buildings"
+        "place_description": "large university with smaller internal university buildings",
+        "tags": [1, 0, 10, "education"]
       }
     },
     {
@@ -59,7 +63,8 @@
       "properties": {
         "place_name": "Big Bend National Park TX, USA",
         "zoom": 9,
-        "place_description": "isolated large national park poi"
+        "place_description": "isolated large national park poi",
+        "tags": [1, "park_like", "National Park"]
       }
     },
     {
@@ -71,7 +76,8 @@
       "properties": {
         "place_name": "Los Angeles Refinery - Wilmington Plant, Los Angeles CA, USA",
         "zoom": 14,
-        "place_description": "isolated large industrial site"
+        "place_description": "isolated large industrial site",
+        "tags": ["industrial", 1, 3, "park_like"]
       }
     },
     {
@@ -83,7 +89,8 @@
       "properties": {
         "place_name": "Santa Monica State Beach, Los Angeles CA, USA",
         "zoom": 15,
-        "place_description": "state beach with smaller surrounding pois"
+        "place_description": "state beach with smaller surrounding pois",
+        "tags": ["sport_and_leisure", 1, "park_like", 2, 13, "landmark", 9]
       }
     },
     {
@@ -95,7 +102,8 @@
       "properties": {
         "place_name": "Rose Canyon Open Space, San Diego CA, USA",
         "zoom": 16,
-        "place_description": "three low sizerank pois isolated and in close proximity with no high sizerank pois."
+        "place_description": "three low sizerank pois isolated and in close proximity with no high sizerank pois.",
+        "tags": ["commercial_services", 1, "park_like", 2, 0]
       }
     },
     {
@@ -107,7 +115,8 @@
       "properties": {
         "place_name": "Spring Hill Golf Course, Mobile AL, USA",
         "zoom": 15,
-        "place_description": "low sizerank golf course next to college"
+        "place_description": "low sizerank golf course next to college",
+        "tags": ["park_like", "Golf Course", 2, 1, "education", "College"]
       }
     },
     {
@@ -119,7 +128,18 @@
       "properties": {
         "place_name": "Miracle Mile Shops, Las Vegas NV",
         "zoom": 17,
-        "place_description": "large shopping center with smaller restaurant, lodging, and shopping pois"
+        "place_description": "large shopping center with smaller restaurant, lodging, and shopping pois",
+        "tags": [
+          "Restaurant",
+          "food_and_drink",
+          3,
+          16,
+          "restaurant",
+          1,
+          "Mall",
+          "store_like",
+          "shop"
+        ]
       }
     },
     {
@@ -131,7 +151,8 @@
       "properties": {
         "place_name": "Johns Hopkins University, Baltimore MD, USA",
         "zoom": 16,
-        "place_description": "large university near low sizerank park containing high sizerank garden and buildings"
+        "place_description": "large university near low sizerank park containing high sizerank garden and buildings",
+        "tags": ["education", 1, 0, "park_like", 10, 2, 11]
       }
     }
   ]

@@ -11,7 +11,8 @@
       "properties": {
         "place_name": "Madrid, Spain",
         "zoom": 17,
-        "place_description": "Tunnels along Madrid's M-30 motorway."
+        "place_description": "Tunnels along Madrid's M-30 motorway.",
+        "tags": ["motorway", "tunnel", "motorway-link", "trunk", "true", "path"]
       }
     },
     {
@@ -23,7 +24,8 @@
       "properties": {
         "place_name": "Singapore",
         "zoom": 10,
-        "place_description": "Expressway system in Singapore."
+        "place_description": "Expressway system in Singapore.",
+        "tags": ["motorway", "trunk", "primary", "secondary", "tertiary"]
       }
     },
     {
@@ -35,7 +37,8 @@
       "properties": {
         "place_name": "Philadelphia, Pennsylvania",
         "zoom": 15,
-        "place_description": "City grid of Philadelphia."
+        "place_description": "City grid of Philadelphia.",
+        "tags": ["street", "true", "service", "primary"]
       }
     },
     {
@@ -47,7 +50,15 @@
       "properties": {
         "place_name": "Mexico City, Mexico",
         "zoom": 11,
-        "place_description": "Motorways and arterial roads linking neighborhoods in Mexico City."
+        "place_description": "Motorways and arterial roads linking neighborhoods in Mexico City.",
+        "tags": [
+          "motorway",
+          "trunk",
+          "primary",
+          "secondary",
+          "tertiary",
+          "treet"
+        ]
       }
     },
     {
@@ -59,7 +70,8 @@
       "properties": {
         "place_name": "Copenhagen, Denmark",
         "zoom": 13,
-        "place_description": "Bridges, ferry lines, and streets weaving through the inner harbor."
+        "place_description": "Bridges, ferry lines, and streets weaving through the inner harbor.",
+        "tags": ["tertiary", "bridge", "path", "street"]
       }
     },
     {
@@ -71,7 +83,15 @@
       "properties": {
         "place_name": "Atlanta, Georgia",
         "zoom": 16,
-        "place_description": "A multi-level stack interchange known as Spaghetti Junction."
+        "place_description": "A multi-level stack interchange known as Spaghetti Junction.",
+        "tags": [
+          "motorway",
+          "motorway_link",
+          "bridge",
+          "true",
+          "secondary",
+          "tertiary"
+        ]
       }
     },
     {
@@ -83,7 +103,8 @@
       "properties": {
         "place_name": "Northeastern China",
         "zoom": 8,
-        "place_description": "Ring roads around Beijing and Tianjin."
+        "place_description": "Ring roads around Beijing and Tianjin.",
+        "tags": ["motorway", "trunk", "primary"]
       }
     },
     {
@@ -95,7 +116,8 @@
       "properties": {
         "place_name": "San Francisco, California",
         "zoom": 18,
-        "place_description": "Rail and rail crossings intersecting with roads."
+        "place_description": "Rail and rail crossings intersecting with roads.",
+        "tags": ["level_crossing", "tertiary", "service", "pedestrian"]
       }
     },
     {
@@ -107,7 +129,8 @@
       "properties": {
         "place_name": "Nagpur, India",
         "zoom": 11,
-        "place_description": "The dense street network in Nagpur."
+        "place_description": "The dense street network in Nagpur.",
+        "tags": ["trunk", "primary", "secondary", "tertiary", "street"]
       }
     },
     {
@@ -119,7 +142,8 @@
       "properties": {
         "place_name": "Boston, Massachusetts",
         "zoom": 16,
-        "place_description": "Pedestrian paths crossing through Boston Common."
+        "place_description": "Pedestrian paths crossing through Boston Common.",
+        "tags": ["path", "pedestrian", "street", "service"]
       }
     },
     {
@@ -131,7 +155,8 @@
       "properties": {
         "place_name": "Northeastern United States",
         "zoom": 6,
-        "place_description": "Roads linking cities along the northeast coast."
+        "place_description": "Roads linking cities along the northeast coast.",
+        "tags": ["motorway", "trunk", "primary"]
       }
     },
     {
@@ -143,7 +168,8 @@
       "properties": {
         "place_name": "London, England",
         "zoom": 15,
-        "place_description": "Ferry lines and bridges along the Thames River."
+        "place_description": "Ferry lines and bridges along the Thames River.",
+        "tags": ["ferry", "primary", "true", "street", "major_rail"]
       }
     },
     {
@@ -155,7 +181,15 @@
       "properties": {
         "place_name": "Tokyo, Japan",
         "zoom": 12,
-        "place_description": "The large network of roads in Tokyo."
+        "place_description": "The large network of roads in Tokyo.",
+        "tags": [
+          "motorway",
+          "trunk",
+          "primary",
+          "secondary",
+          "tertiary",
+          "street"
+        ]
       }
     },
     {
@@ -167,7 +201,8 @@
       "properties": {
         "place_name": "Cape Town, South Africa",
         "zoom": 14,
-        "place_description": "Rail lines through the city grid."
+        "place_description": "Rail lines through the city grid.",
+        "tags": ["tertiary", "street", "major_rail"]
       }
     }
   ]

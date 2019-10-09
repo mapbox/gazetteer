@@ -12,8 +12,8 @@
       "properties": {
         "place_name": "Valleys of Southern California and Nevada",
         "zoom": 8,
-        "tags": ["landform-valley"],
-        "place_description": "A regional area with several line and point valley labels"
+        "place_description": "A regional area with several line and point valley labels",
+        "tags": ["landform"]
       }
     },
     {
@@ -25,7 +25,8 @@
       "properties": {
         "place_name": "Chesapeake and Ohio Canal, Washington, D.C.",
         "zoom": 16,
-        "place_description": "A small canal feature within an urban context"
+        "place_description": "A small canal feature within an urban context",
+        "tags": ["canal"]
       }
     },
     {
@@ -37,7 +38,8 @@
       "properties": {
         "place_name": "Southern Appalacian Mountain Range, North Carolina",
         "zoom": 10,
-        "place_description": "A field of mountain-peak labels near Asheville, NC"
+        "place_description": "A field of mountain-peak labels near Asheville, NC",
+        "tags": ["landform", "mountain"]
       }
     },
     {
@@ -49,8 +51,8 @@
       "properties": {
         "place_name": "Sierra Nevada Mountain Range, California",
         "zoom": 12,
-        "tags": ["landform-mountain-peak"],
-        "place_description": "A field of mountain-peak labels near Mount Whitney"
+        "place_description": "A field of mountain-peak labels near Mount Whitney",
+        "tags": ["landform", "mountain"]
       }
     },
     {
@@ -62,7 +64,8 @@
       "properties": {
         "place_name": "Sierra Nevada Mountain Range, California",
         "zoom": 8,
-        "place_description": "A field of mountain-peak labels within Californian mountain range"
+        "place_description": "A field of mountain-peak labels within Californian mountain range",
+        "tags": ["landform", "mountain"]
       }
     },
     {
@@ -74,8 +77,8 @@
       "properties": {
         "place_name": "Nootka Island, Vancouver Island, Canada",
         "zoom": 9,
-        "tags": ["landform-island"],
-        "place_description": "A field of Island labels along the Vancouver Island coast-line"
+        "place_description": "A field of Island labels along the Vancouver Island coast-line",
+        "tags": ["landform"]
       }
     },
     {
@@ -87,7 +90,8 @@
       "properties": {
         "place_name": "Lincoln Memorial Reflecting Pool and Constitution Gardens Pond, Washington, D.C.",
         "zoom": 16,
-        "place_description": "Small-scale water features within an urban context"
+        "place_description": "Small-scale water features within an urban context",
+        "tags": ["water"]
       }
     },
     {
@@ -99,8 +103,8 @@
       "properties": {
         "place_name": "Arcadia National Park, Maine",
         "zoom": 11,
-        "tags": ["landform-mountain-peak"],
-        "place_description": "A potpourri of natural label elements within a National Park"
+        "place_description": "A potpourri of natural label elements within a National Park",
+        "tags": ["landform", "wetland"]
       }
     },
     {
@@ -112,7 +116,8 @@
       "properties": {
         "place_name": "Mount Shasta, California",
         "zoom": 12,
-        "place_description": "A field of point and line glacier labels"
+        "place_description": "A field of point and line glacier labels",
+        "tags": ["glacier"]
       }
     },
     {
@@ -124,7 +129,8 @@
       "properties": {
         "place_name": "Grand Canyon National Park, Arizona",
         "zoom": 8,
-        "place_description": "A field of mountain-peak, temple, point and hill point labels"
+        "place_description": "A field of mountain-peak, temple, point and hill point labels",
+        "tags": ["landform", "mountain"]
       }
     },
     {
@@ -136,7 +142,8 @@
       "properties": {
         "place_name": "Grand Canyon National Park, Arizona",
         "zoom": 11,
-        "place_description": "A field of mountain-peak, temple, point and hill point labels"
+        "place_description": "A field of mountain-peak, temple, point and hill point labels",
+        "tags": ["landform", "mountain"]
       }
     }
   ]
