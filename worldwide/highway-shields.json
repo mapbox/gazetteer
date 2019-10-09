@@ -12,7 +12,7 @@
         "place_name": "at-motorway, Austria",
         "zoom": 12,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -25,7 +25,7 @@
         "place_name": "at-state-b, Austria",
         "zoom": 14,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -38,7 +38,7 @@
         "place_name": "at-expressway, Austria",
         "zoom": 11,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -51,7 +51,7 @@
         "place_name": "br-state, Brazil",
         "zoom": 13,
         "place_description": "Uses br-state svg",
-        "tags": ["br-state"]
+        "tags": ["road:br-state"]
       }
     },
     {
@@ -64,7 +64,7 @@
         "place_name": "br-federal, Brazil",
         "zoom": 11,
         "place_description": "uses br-federal svg",
-        "tags": ["br-federal"]
+        "tags": ["road:br-federal"]
       }
     },
     {
@@ -77,7 +77,7 @@
         "place_name": "ch-motorway, Switzerland",
         "zoom": 13,
         "place_description": "uses ch-motorway svg",
-        "tags": ["ch-motorway"]
+        "tags": ["road:ch-motorway"]
       }
     },
     {
@@ -90,7 +90,7 @@
         "place_name": "ch-main, Switzerland",
         "zoom": 13,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -103,7 +103,7 @@
         "place_name": "cz-motorway, Czech Republic",
         "zoom": 13,
         "place_description": "uses rectangle-red svg",
-        "tags": ["rectangle-red"]
+        "tags": ["road:rectangle-red"]
       }
     },
     {
@@ -116,7 +116,7 @@
         "place_name": "cz-road, Czech Republic",
         "zoom": 13,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -129,7 +129,7 @@
         "place_name": "de-federal, Germany",
         "zoom": 16,
         "place_description": "uses rectangle-yellow svg",
-        "tags": ["rectangle-yellow"]
+        "tags": ["road:rectangle-yellow"]
       }
     },
     {
@@ -142,7 +142,7 @@
         "place_name": "de-motorway, Germany",
         "zoom": 13,
         "place_description": "uses de-motorway svg",
-        "tags": ["de-motorway"]
+        "tags": ["road:de-motorway"]
       }
     },
     {
@@ -155,7 +155,7 @@
         "place_name": "dk-secondary, Denmark",
         "zoom": 10,
         "place_description": "uses rectangle white svg",
-        "tags": ["rectangle-white"]
+        "tags": ["road:rectangle-white"]
       }
     },
     {
@@ -168,7 +168,7 @@
         "place_name": "dk-primary, Denmark",
         "zoom": 11,
         "place_description": "uses rectangle-yellow svg",
-        "tags": ["rectangle-yellow"]
+        "tags": ["road:rectangle-yellow"]
       }
     },
     {
@@ -181,7 +181,7 @@
         "place_name": "fi-trunk, Finland",
         "zoom": 8,
         "place_description": "uses rectangle-yellow svg",
-        "tags": ["rectangle-yellow"]
+        "tags": ["road:rectangle-yellow"]
       }
     },
     {
@@ -194,7 +194,7 @@
         "place_name": "fi-regional, Finland",
         "zoom": 9,
         "place_description": "uses rectangle-white svg",
-        "tags": ["rectangle-white"]
+        "tags": ["road:rectangle-white"]
       }
     },
     {
@@ -207,7 +207,7 @@
         "place_name": "fi-main, Finland",
         "zoom": 13,
         "place_description": "uses rectangle-red svg",
-        "tags": ["rectangle-red"]
+        "tags": ["road:rectangle-red"]
       }
     },
     {
@@ -220,7 +220,7 @@
         "place_name": "gr-motorway, Greece",
         "zoom": 13,
         "place_description": "uses gr-motorway svg",
-        "tags": ["gr-motorway"]
+        "tags": ["road:gr-motorway"]
       }
     },
     {
@@ -233,7 +233,7 @@
         "place_name": "gr-national, Greece",
         "zoom": 14,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -246,7 +246,7 @@
         "place_name": "hr-motorway, Croatia",
         "zoom": 12,
         "place_description": "uses hr-motorway svg",
-        "tags": ["hr-motorway"]
+        "tags": ["road:hr-motorway"]
       }
     },
     {
@@ -259,7 +259,7 @@
         "place_name": "hr-county, Croatia",
         "zoom": 12,
         "place_description": "uses rectangle-yellow svg",
-        "tags": ["rectangle-yellow"]
+        "tags": ["road:rectangle-yellow"]
       }
     },
     {
@@ -272,7 +272,7 @@
         "place_name": "hr-state, Croatia",
         "zoom": 13,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -285,7 +285,7 @@
         "place_name": "hu-main, Hungary",
         "zoom": 13,
         "place_description": "uses hu-main svg",
-        "tags": ["hu-main"]
+        "tags": ["road:hu-main"]
       }
     },
     {
@@ -298,7 +298,7 @@
         "place_name": "hu-motorway, Hungary",
         "zoom": 14,
         "place_description": "uses hu-motorway svg",
-        "tags": ["hu-motorway"]
+        "tags": ["road:hu-motorway"]
       }
     },
     {
@@ -311,7 +311,7 @@
         "place_name": "in-state, India",
         "zoom": 12,
         "place_description": "uses in-state svg",
-        "tags": ["in-state"]
+        "tags": ["road:in-state"]
       }
     },
     {
@@ -324,7 +324,7 @@
         "place_name": "in-national, India",
         "zoom": 12,
         "place_description": "uses in-national svg",
-        "tags": ["in-national"]
+        "tags": ["road:in-national"]
       }
     },
     {
@@ -337,7 +337,7 @@
         "place_name": "mx-federal, Mexico",
         "zoom": 10,
         "place_description": "uses mx-federal svg",
-        "tags": ["mx-federal"]
+        "tags": ["road:mx-federal"]
       }
     },
     {
@@ -350,7 +350,7 @@
         "place_name": "mx-state, Mexico",
         "zoom": 12,
         "place_description": "uses mx-state svg",
-        "tags": ["mx-state"]
+        "tags": ["road:mx-state"]
       }
     },
     {
@@ -363,7 +363,7 @@
         "place_name": "nz-state, New Zealand",
         "zoom": 13,
         "place_description": "uses nz-state svg",
-        "tags": ["nz-state"]
+        "tags": ["road:nz-state"]
       }
     },
     {
@@ -376,7 +376,7 @@
         "place_name": "pe-regional, Peru",
         "zoom": 12,
         "place_description": "uses pe-regional svg",
-        "tags": ["pe-regional"]
+        "tags": ["road:pe-regional"]
       }
     },
     {
@@ -389,7 +389,7 @@
         "place_name": "pe-national, Peru",
         "zoom": 12,
         "place_description": "uses pe-national svg",
-        "tags": ["pe-national"]
+        "tags": ["road:pe-national"]
       }
     },
     {
@@ -402,7 +402,7 @@
         "place_name": "pl-expressway, Poland",
         "zoom": 12,
         "place_description": "uses rectangle-red svg",
-        "tags": ["rectangle-red"]
+        "tags": ["road:rectangle-red"]
       }
     },
     {
@@ -415,7 +415,7 @@
         "place_name": "pl-motorway",
         "zoom": 12,
         "place_description": "uses rectangle-red svg",
-        "tags": ["rectangle-red"]
+        "tags": ["road:rectangle-red"]
       }
     },
     {
@@ -428,7 +428,7 @@
         "place_name": "pl-national, Poland",
         "zoom": 13,
         "place_description": "uses rectangle-red svg",
-        "tags": ["rectangle-red"]
+        "tags": ["road:rectangle-red"]
       }
     },
     {
@@ -441,7 +441,7 @@
         "place_name": "pl-voivodeship, Poland",
         "zoom": 9,
         "place_description": "uses rectangle-yellow svg",
-        "tags": ["rectangle-yellow"]
+        "tags": ["road:rectangle-yellow"]
       }
     },
     {
@@ -454,7 +454,7 @@
         "place_name": "ro-county, Romania",
         "zoom": 13,
         "place_description": "uses ro-county svg",
-        "tags": ["ro-county"]
+        "tags": ["road:ro-county"]
       }
     },
     {
@@ -467,7 +467,7 @@
         "place_name": "ro-communal, Romania",
         "zoom": 13,
         "place_description": "uses ro-communal svg",
-        "tags": ["ro-communal"]
+        "tags": ["road:ro-communal"]
       }
     },
     {
@@ -480,7 +480,7 @@
         "place_name": "ro-national, Romania",
         "zoom": 15,
         "place_description": "uses ro-national svg",
-        "tags": ["ro-national"]
+        "tags": ["road:ro-national"]
       }
     },
     {
@@ -493,7 +493,7 @@
         "place_name": "ro-motorway, Romania",
         "zoom": 14,
         "place_description": "uses rectangle-green svg",
-        "tags": ["rectangle-green"]
+        "tags": ["road:rectangle-green"]
       }
     },
     {
@@ -506,7 +506,7 @@
         "place_name": "rs-motorway, Serbia",
         "zoom": 13,
         "place_description": "uses rectangle-green svg",
-        "tags": ["rectangle-green"]
+        "tags": ["road:rectangle-green"]
       }
     },
     {
@@ -519,7 +519,7 @@
         "place_name": "rs-state-1b, Serbia",
         "zoom": 13,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -532,7 +532,7 @@
         "place_name": "rs-state-2a, Serbia",
         "zoom": 11,
         "place_description": "uses rectangle-orange svg",
-        "tags": ["rectangle-orange"]
+        "tags": ["road:rectangle-orange"]
       }
     },
     {
@@ -545,7 +545,7 @@
         "place_name": "rs-state-2b, Serbia",
         "zoom": 14,
         "place_description": "uses rectangle-yellow svg",
-        "tags": ["rectangle-yellow"]
+        "tags": ["road:rectangle-yellow"]
       }
     },
     {
@@ -558,7 +558,7 @@
         "place_name": "se-main, Sweden",
         "zoom": 10,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -571,7 +571,7 @@
         "place_name": "si-main, Slovenia",
         "zoom": 13,
         "place_description": "uses rectangle-yellow svg",
-        "tags": ["rectangle-yellow"]
+        "tags": ["road:rectangle-yellow"]
       }
     },
     {
@@ -584,7 +584,7 @@
         "place_name": "si-motorway, Slovenia",
         "zoom": 15,
         "place_description": "uses si-motorway svg",
-        "tags": ["si-motorway"]
+        "tags": ["road:si-motorway"]
       }
     },
     {
@@ -597,7 +597,7 @@
         "place_name": "si-expressway, Slovenia",
         "zoom": 14,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -610,7 +610,7 @@
         "place_name": "sk-highway, Slovakia",
         "zoom": 13,
         "place_description": "uses rectangle-red svg",
-        "tags": ["rectangle-red"]
+        "tags": ["road:rectangle-red"]
       }
     },
     {
@@ -623,7 +623,7 @@
         "place_name": "sk-road, Slovakia",
         "zoom": 15,
         "place_description": "uses rectangle-blue svg",
-        "tags": ["rectangle-blue"]
+        "tags": ["road:rectangle-blue"]
       }
     },
     {
@@ -636,7 +636,7 @@
         "place_name": "us-interstate, United States",
         "zoom": 14,
         "place_description": "uses us-interstate svg",
-        "tags": ["us-interstate"]
+        "tags": ["road:us-interstate"]
       }
     },
     {
@@ -649,7 +649,7 @@
         "place_name": "us-interstate-duplex, United States",
         "zoom": 12,
         "place_description": "uses us-interstate-duplex svg",
-        "tags": ["us-interstate-duplex"]
+        "tags": ["road:us-interstate-duplex"]
       }
     },
     {
@@ -662,7 +662,7 @@
         "place_name": "us-interstate-business, United States",
         "zoom": 13,
         "place_description": "uses us-interstate-business svg",
-        "tags": ["us-interstate-business"]
+        "tags": ["road:us-interstate-business"]
       }
     },
     {
@@ -675,7 +675,7 @@
         "place_name": "us-highway, United States",
         "zoom": 13,
         "place_description": "uses us-highway svg",
-        "tags": ["us-highway"]
+        "tags": ["road:us-highway"]
       }
     },
     {
@@ -688,7 +688,7 @@
         "place_name": "us-highway-duplex, United States",
         "zoom": 13,
         "place_description": "uses us-highway-duplex svg",
-        "tags": ["us-highway-duplex"]
+        "tags": ["road:us-highway-duplex"]
       }
     },
     {
@@ -701,7 +701,7 @@
         "place_name": "us-highway-bypass, United States",
         "zoom": 14,
         "place_description": "uses us-highway-bypass svg",
-        "tags": ["us-highway-bypass"]
+        "tags": ["road:us-highway-bypass"]
       }
     },
     {
@@ -714,7 +714,7 @@
         "place_name": "us-highway-business, United States",
         "zoom": 14,
         "place_description": "uses us-highway-business svg",
-        "tags": ["us-highway-business"]
+        "tags": ["road:us-highway-business"]
       }
     },
     {
@@ -727,7 +727,7 @@
         "place_name": "us-state, United States",
         "zoom": 15,
         "place_description": "uses circle-white svg",
-        "tags": ["circle-white"]
+        "tags": ["road:circle-white"]
       }
     },
     {
@@ -740,7 +740,7 @@
         "place_name": "za-metropolitan, South Africa",
         "zoom": 14,
         "place_description": "uses rectangle-green svg",
-        "tags": ["rectangle-green"]
+        "tags": ["road:rectangle-green"]
       }
     },
     {
@@ -753,7 +753,7 @@
         "place_name": "za-regional, South Africa",
         "zoom": 15,
         "place_description": "uses rectangle-green svg",
-        "tags": ["rectangle-green"]
+        "tags": ["road:rectangle-green"]
       }
     },
     {
@@ -766,7 +766,7 @@
         "place_name": "za-national, South Africa",
         "zoom": 16,
         "place_description": "uses za-national svg",
-        "tags": ["za-national"]
+        "tags": ["road:za-national"]
       }
     },
     {
@@ -779,7 +779,7 @@
         "place_name": "za-provincial, South Africa",
         "zoom": 14,
         "place_description": "uses za-provincial svg",
-        "tags": ["za-provincial"]
+        "tags": ["road:za-provincial"]
       }
     },
     {
@@ -792,7 +792,7 @@
         "place_name": "e-road, Sweden",
         "zoom": 12,
         "place_description": "uses rectangle-green svg\n(this shield exists in multiple countries: https://en.wikipedia.org/wiki/International_E-road_network",
-        "tags": ["rectangle-green"]
+        "tags": ["road:rectangle-green"]
       }
     },
     {
@@ -805,7 +805,7 @@
         "place_name": "us-bia, United States",
         "zoom": 12,
         "place_description": "uses us-bia svg",
-        "tags": ["us-bia"]
+        "tags": ["road:us-bia"]
       }
     },
     {
@@ -818,7 +818,7 @@
         "place_name": "us-interstate-truck, United States",
         "zoom": 13,
         "place_description": "uses us-interstate-truck svg",
-        "tags": ["us-interstate-truck"]
+        "tags": ["road:us-interstate-truck"]
       }
     },
     {
@@ -831,7 +831,7 @@
         "place_name": "us-highway-alternate, United States",
         "zoom": 14,
         "place_description": "uses us-highway-alternate svg",
-        "tags": ["us-highway-alternate"]
+        "tags": ["road:us-highway-alternate"]
       }
     },
     {
@@ -844,7 +844,7 @@
         "place_name": "us-highway-truck, United States",
         "zoom": 16,
         "place_description": "uses us-highway-truck svg",
-        "tags": ["us-highway-truck"]
+        "tags": ["road:us-highway-truck"]
       }
     }
   ]

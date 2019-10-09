@@ -95,7 +95,7 @@
       "properties": {
         "place_name": "Landuse and roads, Paris, z11",
         "zoom": 11,
-        "tags": ["settlement"]
+        "tags": ["place_label:settlement"]
       }
     },
     {
@@ -119,7 +119,7 @@
       "properties": {
         "place_name": "High zoom roads, paths, landuse, labels, Paris, 15",
         "zoom": 15,
-        "tags": ["pedestrian"]
+        "tags": ["road:pedestrian"]
       }
     },
     {
@@ -131,7 +131,7 @@
       "properties": {
         "place_name": "High zoom pedestrian polygon fills, roads, paths, landuse, labels, Paris, z16",
         "zoom": 16,
-        "tags": ["pedestrian", "path"]
+        "tags": ["road:pedestrian", "road:path"]
       }
     },
     {
@@ -167,7 +167,7 @@
       "properties": {
         "place_name": "Landcover, Germany z6",
         "zoom": 6,
-        "tags": ["settlement"]
+        "tags": ["place_label:settlement"]
       }
     },
     {
@@ -179,7 +179,7 @@
       "properties": {
         "place_name": "Landcover, Germany z8",
         "zoom": 8,
-        "tags": ["settlement"]
+        "tags": ["place_label:settlement"]
       }
     }
   ]

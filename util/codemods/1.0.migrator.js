@@ -32,12 +32,20 @@ gazetteers.forEach(file => {
 
       feature.properties.highlights.forEach(highlight => {
         const fields = highlight['data_layer_fields'];
+        const layer = highlight['data_layer'];
+
         if (fields) {
           Object.keys(fields).forEach(key => {
             const value = fields[key];
-            if (tags.indexOf(value) < 0) {
-              tags.push(fields[key]);
+            let tag;
+
+            if (typeof value === 'number' || key === 'maki') {
+              tag = `${layer}:${key}-${value}`;
+            } else {
+              tag = `${layer}:${value}`;
             }
+
+            if (tags.indexOf(tag) < 0) tags.push(tag);
           });
         }
       });

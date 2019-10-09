@@ -12,7 +12,7 @@
         "place_name": "Greater Los Angeles, United States",
         "zoom": 8,
         "place_description": "18th largest metro area in the world. Many relatively large cities clustered together.",
-        "tags": ["settlement", "city"]
+        "tags": ["place_label:settlement", "place_label:city"]
       }
     },
     {
@@ -25,7 +25,11 @@
         "place_name": "Special wards of Tokyo, Japan",
         "zoom": 10,
         "place_description": "Part of Tokyo Metropolis, the most populous metro area in the world. Many relatively large cities clustered together.",
-        "tags": ["settlement", "city", 2]
+        "tags": [
+          "place_label:settlement",
+          "place_label:city",
+          "place_label:capital-2"
+        ]
       }
     },
     {
@@ -38,7 +42,12 @@
         "place_name": "New York City, United States",
         "zoom": 10,
         "place_description": "Largest city in United States, surrounded by smaller cities and towns.",
-        "tags": ["settlement", "city", 6, "town"]
+        "tags": [
+          "place_label:settlement",
+          "place_label:city",
+          "place_label:symbolrank-6",
+          "place_label:town"
+        ]
       }
     },
     {
@@ -51,7 +60,11 @@
         "place_name": "Boston metro area, United States",
         "zoom": 10,
         "place_description": "10th most populous metro area in United States. Large city surrounded by smaller cities and towns.",
-        "tags": ["settlement", "city", "town"]
+        "tags": [
+          "place_label:settlement",
+          "place_label:city",
+          "place_label:town"
+        ]
       }
     },
     {
@@ -64,7 +77,11 @@
         "place_name": "Milan metro area, Italy",
         "zoom": 8,
         "place_description": "Most populous metro area in Italy. Large city surrounded by smaller cities and towns.",
-        "tags": ["settlement", "city", "town"]
+        "tags": [
+          "place_label:settlement",
+          "place_label:city",
+          "place_label:town"
+        ]
       }
     },
     {
@@ -77,7 +94,7 @@
         "place_name": "Florida, United States",
         "zoom": 6,
         "place_description": "State with good distribution of large-to-small cities.",
-        "tags": ["settlement", "city"]
+        "tags": ["place_label:settlement", "place_label:city"]
       }
     },
     {
@@ -90,7 +107,7 @@
         "place_name": "Eureka, Nevada, United States",
         "zoom": 9,
         "place_description": "Very isolated, very small town.",
-        "tags": ["settlement", "town"]
+        "tags": ["place_label:settlement", "place_label:town"]
       }
     },
     {
@@ -103,7 +120,11 @@
         "place_name": "Montes Claros, Minas Gerais, Brazil",
         "zoom": 7,
         "place_description": "Small city and surrounding towns.",
-        "tags": ["settlement", "city", "town"]
+        "tags": [
+          "place_label:settlement",
+          "place_label:city",
+          "place_label:town"
+        ]
       }
     },
     {
@@ -116,7 +137,11 @@
         "place_name": "The Research Triangle, North Carolina, United States",
         "zoom": 9,
         "place_description": "Region defined by a mid-sized city (Raleigh), small city (Durham), and town (Chapel Hill).",
-        "tags": ["settlement", "city", "town"]
+        "tags": [
+          "place_label:settlement",
+          "place_label:city",
+          "place_label:town"
+        ]
       }
     },
     {
@@ -129,7 +154,12 @@
         "place_name": "Dieppe, France",
         "zoom": 11,
         "place_description": "Coastal town and surrounding villages and hamlets. ",
-        "tags": ["town", "settlement", "village", "hamlet"]
+        "tags": [
+          "place_label:town",
+          "place_label:settlement",
+          "place_label:village",
+          "place_label:hamlet"
+        ]
       }
     }
   ]

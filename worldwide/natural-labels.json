@@ -13,7 +13,7 @@
         "place_name": "Valleys of Southern California and Nevada",
         "zoom": 8,
         "place_description": "A regional area with several line and point valley labels",
-        "tags": ["landform"]
+        "tags": ["natural_label:landform"]
       }
     },
     {
@@ -26,7 +26,7 @@
         "place_name": "Chesapeake and Ohio Canal, Washington, D.C.",
         "zoom": 16,
         "place_description": "A small canal feature within an urban context",
-        "tags": ["canal"]
+        "tags": ["natural_label:canal"]
       }
     },
     {
@@ -39,7 +39,7 @@
         "place_name": "Southern Appalacian Mountain Range, North Carolina",
         "zoom": 10,
         "place_description": "A field of mountain-peak labels near Asheville, NC",
-        "tags": ["landform", "mountain"]
+        "tags": ["natural_label:landform", "natural_label:maki-mountain"]
       }
     },
     {
@@ -52,7 +52,7 @@
         "place_name": "Sierra Nevada Mountain Range, California",
         "zoom": 12,
         "place_description": "A field of mountain-peak labels near Mount Whitney",
-        "tags": ["landform", "mountain"]
+        "tags": ["natural_label:landform", "natural_label:maki-mountain"]
       }
     },
     {
@@ -65,7 +65,7 @@
         "place_name": "Sierra Nevada Mountain Range, California",
         "zoom": 8,
         "place_description": "A field of mountain-peak labels within Californian mountain range",
-        "tags": ["landform", "mountain"]
+        "tags": ["natural_label:landform", "natural_label:maki-mountain"]
       }
     },
     {
@@ -78,7 +78,7 @@
         "place_name": "Nootka Island, Vancouver Island, Canada",
         "zoom": 9,
         "place_description": "A field of Island labels along the Vancouver Island coast-line",
-        "tags": ["landform"]
+        "tags": ["natural_label:landform"]
       }
     },
     {
@@ -91,7 +91,7 @@
         "place_name": "Lincoln Memorial Reflecting Pool and Constitution Gardens Pond, Washington, D.C.",
         "zoom": 16,
         "place_description": "Small-scale water features within an urban context",
-        "tags": ["water"]
+        "tags": ["natural_label:water"]
       }
     },
     {
@@ -104,7 +104,7 @@
         "place_name": "Arcadia National Park, Maine",
         "zoom": 11,
         "place_description": "A potpourri of natural label elements within a National Park",
-        "tags": ["landform", "wetland"]
+        "tags": ["natural_label:landform", "natural_label:wetland"]
       }
     },
     {
@@ -117,7 +117,7 @@
         "place_name": "Mount Shasta, California",
         "zoom": 12,
         "place_description": "A field of point and line glacier labels",
-        "tags": ["glacier"]
+        "tags": ["natural_label:glacier"]
       }
     },
     {
@@ -130,7 +130,7 @@
         "place_name": "Grand Canyon National Park, Arizona",
         "zoom": 8,
         "place_description": "A field of mountain-peak, temple, point and hill point labels",
-        "tags": ["landform", "mountain"]
+        "tags": ["natural_label:landform", "natural_label:maki-mountain"]
       }
     },
     {
@@ -143,7 +143,7 @@
         "place_name": "Grand Canyon National Park, Arizona",
         "zoom": 11,
         "place_description": "A field of mountain-peak, temple, point and hill point labels",
-        "tags": ["landform", "mountain"]
+        "tags": ["natural_label:landform", "natural_label:maki-mountain"]
       }
     }
   ]
