@@ -1,5 +1,5 @@
-import lintGazetteer from './lint-gazetteer.js';
+const lintGazetteer = require('./lint-gazetteer.js');
 
-export default {
+module.exports = {
   lintGazetteer
 };

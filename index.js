@@ -1,5 +1,5 @@
-import benchmark from './benchmark/index.js';
-import worldwide from './worldwide/index.js';
-import util from './util/index.js';
+const benchmark = require('./benchmark/index.js');
+const worldwide = require('./worldwide/index.js');
+const util = require('./util/index.js');
 
-export { benchmark, worldwide, util };
+module.exports = { benchmark, worldwide, util };
