@@ -1,3 +1,7 @@
+### v4.0.1
+
+- Use CommonJS modules [#55](https://github.com/mapbox/gazetteer/pull/55)
+
 ### v4.0.0
 
 - Gazetteer specification 1.0 [#53](https://github.com/mapbox/gazetteer/pull/53) which rewrites Gazetteers to conform to the new spec
