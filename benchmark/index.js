@@ -1,5 +1,5 @@
-import styleBenchmarkLocations from './style-benchmark-locations.js';
+const styleBenchmarkLocations = require('./style-benchmark-locations.js');
 
-export default {
+module.exports = {
   styleBenchmarkLocations
 };

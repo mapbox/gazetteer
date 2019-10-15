@@ -1,12 +1,12 @@
-import highwayShields from './highway-shields.json';
-import naturalLabels from './natural-labels.json';
-import pointsOfInterest from './points-of-interest.json';
-import roadNetwork from './road-network.json';
-import settlements from './settlements.json';
-import settlementSubdivisions from './settlement-subdivisions.json';
-import transit from './transit.json';
+const highwayShields = require('./highway-shields.json');
+const naturalLabels = require('./natural-labels.json');
+const pointsOfInterest = require('./points-of-interest.json');
+const roadNetwork = require('./road-network.json');
+const settlements = require('./settlements.json');
+const settlementSubdivisions = require('./settlement-subdivisions.json');
+const transit = require('./transit.json');
 
-export default {
+module.exports = {
   highwayShields,
   naturalLabels,
   pointsOfInterest,
