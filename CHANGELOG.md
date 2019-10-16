@@ -1,3 +1,10 @@
+### v4.0.2
+
+- Small bug fixes [#56](https://github.com/mapbox/gazetteer/pull/56)
+  - Fix bad reference to json
+  - Moved @mapbox/geojsonhint to dependencies list
+  - Fixed validation to properties.zoom where zero was considered falsy
+
 ### v4.0.1
 
 - Use CommonJS modules [#55](https://github.com/mapbox/gazetteer/pull/55)

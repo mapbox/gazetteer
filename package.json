@@ -1,7 +1,7 @@
 {
   "name": "@mapbox/gazetteer",
-  "version": "4.0.1",
-  "description": "Noteworthy places",
+  "version": "4.0.2",
+  "description": "Place bookmarks for maps",
   "main": "index.js",
   "repository": {
     "type": "git",
