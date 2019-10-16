@@ -1,11 +1,11 @@
 const geojsonhint = require('@mapbox/geojsonhint');
 
 function lintGazetteer(gazetteer) {
+  const { name } = gazetteer;
+
   const errors = geojsonhint.hint(gazetteer).map(err => {
     return `${name}: ${err.message}`;
   });
-
-  const { name } = gazetteer;
 
   if (typeof name !== 'string') {
     errors.push('gazetteer must have a name property of type string');
