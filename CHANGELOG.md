@@ -1,3 +1,7 @@
+### v4.0.3
+
+- Fix variable `name` order in `util/lint-gazetteer`
+
 ### v4.0.2
 
 - Small bug fixes [#56](https://github.com/mapbox/gazetteer/pull/56)
