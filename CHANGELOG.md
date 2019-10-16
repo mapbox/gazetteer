@@ -1,3 +1,7 @@
+### v4.0.4
+
+- Fix errors related to conditional checks when `properties` is not present
+
 ### v4.0.3
 
 - Fix variable `name` order in `util/lint-gazetteer`
