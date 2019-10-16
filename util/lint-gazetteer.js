@@ -15,15 +15,15 @@ function lintGazetteer(gazetteer) {
     const { geometry, properties } = feature;
 
     if (geometry.type !== 'Point') {
-      errors.push(`${name}, feature ${index}: must be type: Point`);
+      errors.push(`${name}, feature[${index}]: must be type: Point`);
     }
 
     if (!properties['place_name']) {
-      errors.push(`${name}, feature ${index}: place_name is required`);
+      errors.push(`${name}, feature[${index}]: place_name is required`);
     }
 
-    if (!properties['zoom']) {
-      errors.push(`${name}, feature ${index}: zoom is required`);
+    if (typeof properties['zoom'] !== 'number') {
+      errors.push(`${name}, feature[${index}]: a valid zoom is required`);
     }
 
     Object.keys(properties).forEach(key => {
@@ -33,15 +33,15 @@ function lintGazetteer(gazetteer) {
         case 'place_name':
           if (typeof value !== 'string' || value.length > 255) {
             errors.push(
-              `${name}, feature ${index}: place_name must be a string of 255 characters or less`
+              `${name}, feature[${index}]: place_name must be a string of 255 characters or less`
             );
           }
           break;
 
         case 'zoom':
-          if (typeof value !== 'number' || value < 0 || value > 22) {
+          if (value < 0 || value > 22) {
             errors.push(
-              `${name}, feature ${index}: zoom must be a number between 0 and 22`
+              `${name}, feature[${index}]: zoom must be a number between 0 and 22`
             );
           }
           break;
@@ -49,18 +49,18 @@ function lintGazetteer(gazetteer) {
         case 'place_description':
           if (typeof value !== 'string') {
             errors.push(
-              `${name}, feature ${index}: description must be a string`
+              `${name}, feature[${index}]: description must be a string`
             );
           }
           break;
 
         case 'tags':
           if (!Array.isArray(value)) {
-            errors.push(`${name}, feature ${index}: tags must be an array`);
+            errors.push(`${name}, feature[${index}]: tags must be an array`);
 
             value.forEach(v => {
               if (typeof value !== 'string') {
-                errors.push(`${name}, tag ${v}: tag must be an string`);
+                errors.push(`${name}, tag "${v}" must be an string`);
               }
             });
           }

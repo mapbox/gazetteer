@@ -1,4 +1,4 @@
-const styleBenchmarkLocations = require('./style-benchmark-locations.js');
+const styleBenchmarkLocations = require('./style-benchmark-locations.json');
 
 module.exports = {
   styleBenchmarkLocations
