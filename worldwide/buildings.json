@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "name": "buildings",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.934, 40.797]
+      },
+      "properties": {
+        "place_name": "East Harlem, New York City",
+        "zoom": 19,
+        "place_description": "Buildings labeled with house numbers."
+      }
+    }
+  ]
+}

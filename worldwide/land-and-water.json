@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "name": "land-and-water",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.114, 26.13]
+      },
+      "properties": {
+        "place_name": "Sunrise Key, Fort Lauderdale",
+        "zoom": 15,
+        "place_description": "Water shadow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.393, 6.496]
+      },
+      "properties": {
+        "place_name": "Makoko, Lagos",
+        "zoom": 15,
+        "place_description": "Waterway shadow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.983, 14.581]
+      },
+      "properties": {
+        "place_name": "Ermita, Manila",
+        "zoom": 15,
+        "place_description": "Hospital, school, grass, park, wood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.133, 43.038]
+      },
+      "properties": {
+        "place_name": "Syracuse University, New York",
+        "zoom": 14,
+        "place_description": "School, cemetery, pitch, grass, park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.154, 51.535]
+      },
+      "properties": {
+        "place_name": "Regents Park, London",
+        "zoom": 15,
+        "place_description": "Zoos, parks, gardens for outdoors styling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.856, 36.712]
+      },
+      "properties": {
+        "place_name": "Fresno, California",
+        "zoom": 12,
+        "place_description": "Agriculture landuse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.868, 28.386]
+      },
+      "properties": {
+        "place_name": "Loggy Pond Swamp, Lake County, Florida",
+        "zoom": 12,
+        "place_description": "Wetlands landuse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.044, 47.923]
+      },
+      "properties": {
+        "place_name": "Orleans, France",
+        "zoom": 6,
+        "place_description": "z6 landcover"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.044, 47.923]
+      },
+      "properties": {
+        "place_name": "Orleans, France",
+        "zoom": 8,
+        "place_description": "z8 landcover"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.933, 47.909]
+      },
+      "properties": {
+        "place_name": "Orleans, France",
+        "zoom": 10,
+        "place_description": "z10 landcover"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-139.555, 60.43]
+      },
+      "properties": {
+        "place_name": "Kluane National Park and Reserve",
+        "zoom": 6,
+        "place_description": "Terrain source snow landcover"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-139.697, 60.356]
+      },
+      "properties": {
+        "place_name": "Mount Vancouver, Yukon",
+        "zoom": 11,
+        "place_description": "Streets source glacier landuse"
+      }
+    }
+  ]
+}

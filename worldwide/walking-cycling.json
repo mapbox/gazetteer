@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "name": "walking-cycling",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.448, 37.772]
+      },
+      "properties": {
+        "place_name": "Panhandle, San Francisco",
+        "zoom": 17,
+        "place_description": "Cycleways and footways.",
+        "tags": ["road:cycleway", "road:footway"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.309, 48.869]
+      },
+      "properties": {
+        "place_name": "Champs-Elysees, Paris",
+        "zoom": 17,
+        "place_description": "Polygon pedestrian roads at high zoom.",
+        "tags": ["road:pedestrian"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.586, 55.681]
+      },
+      "properties": {
+        "place_name": "Kongens Nytorv, Copenhagen",
+        "zoom": 17,
+        "place_description": "Fences and hedges."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.814, 56.349]
+      },
+      "properties": {
+        "place_name": "Old Course at St Andrews",
+        "zoom": 17,
+        "place_description": "Golf course."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.924, 50.107]
+      },
+      "properties": {
+        "place_name": "Whistler Blackcomb",
+        "zoom": 14,
+        "place_description": "Pistes, trails, and tracks.",
+        "tags": ["road:piste", "road:trail", "road:track"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3, 48.858]
+      },
+      "properties": {
+        "place_name": "Intersection of Avenue de la Bourdonnais and Rue Saint-Dominique, Paris",
+        "zoom": 17,
+        "place_description": "Polygon roads, pedestrian, and non-pedestrian Intersection.",
+        "tags": ["road:street", "road:pedestrian"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.488, 38.41]
+      },
+      "properties": {
+        "place_name": "Appalachian Trail, Shenandoah",
+        "zoom": 16,
+        "place_description": "Paths, trails, and tracks.",
+        "tags": ["road:path", "road:trail", "road:track"]
+      }
+    }
+  ]
+}

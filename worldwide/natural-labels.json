@@ -145,6 +145,30 @@
         "place_description": "A field of mountain-peak, temple, point and hill point labels",
         "tags": ["natural_label:landform", "natural_label:maki-mountain"]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.45, 43.21]
+      },
+      "properties": {
+        "place_name": "Calanques National Park, France",
+        "zoom": 14,
+        "place_description": "Landforms and mountains along water"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.257, 44.331]
+      },
+      "properties": {
+        "place_name": "Acadia National Park, Maine",
+        "zoom": 13,
+        "place_description": "Water line and natural point labels"
+      }
     }
   ]
 }
