@@ -10,7 +10,7 @@
       },
       "properties": {
         "place_name": "Sunrise Key, Fort Lauderdale",
-        "zoom": 15,
+        "zoom": 17,
         "place_description": "Water shadow"
       }
     },
@@ -22,7 +22,7 @@
       },
       "properties": {
         "place_name": "Makoko, Lagos",
-        "zoom": 15,
+        "zoom": 17,
         "place_description": "Waterway shadow"
       }
     },
@@ -47,7 +47,7 @@
       "properties": {
         "place_name": "Syracuse University, New York",
         "zoom": 14,
-        "place_description": "School, cemetery, pitch, grass, park"
+        "place_description": "School, cemetery, pitch, grass, and park landuse"
       }
     },
     {

@@ -284,7 +284,7 @@
         "coordinates": [-122.667, 45.53]
       },
       "properties": {
-        "place_name": "Rose Quarter, Portland",
+        "place_name": "Rose Quarter, Portland, Washington",
         "zoom": 17,
         "place_description": "Overlapping roads and tracks."
       }
@@ -345,7 +345,7 @@
         "coordinates": [-74.067, 40.739]
       },
       "properties": {
-        "place_name": "Pulaski Skyway, Croxton",
+        "place_name": "Pulaski Skyway, Croxton, New Jersey",
         "zoom": 18,
         "tags": ["road:construction"]
       }
@@ -366,7 +366,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.044, 38.902]
+        "coordinates": [-77.044, 38.9025]
       },
       "properties": {
         "place_name": "K Street NW, Washington, DC",

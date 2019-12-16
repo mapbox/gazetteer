@@ -69,7 +69,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3, 48.858]
+        "coordinates": [2.3001, 48.8577]
       },
       "properties": {
         "place_name": "Intersection of Avenue de la Bourdonnais and Rue Saint-Dominique, Paris",
