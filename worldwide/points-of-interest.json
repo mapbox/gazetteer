@@ -219,6 +219,106 @@
           "poi_label:sizerank-11"
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.165, 39.95]
+      },
+      "properties": {
+        "place_name": "Center City, Philadelphia PA, USA",
+        "zoom": 16,
+        "place_description": "high density of different classes of POIs on a city grid",
+        "tags": [
+          "poi_label:food_and_drink",
+          "poi_label:building",
+          "poi_label:lodging",
+          "poi_label:store_like",
+          "poi_label:place_like",
+          "poi_label:motorist",
+          "poi_label:arts_and_entertainment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.374, 52.508]
+      },
+      "properties": {
+        "place_name": "Potsdamer Platz, Berlin, Germany",
+        "zoom": 16,
+        "place_description": "high density of different classes of POIs next to transit and highways",
+        "tags": [
+          "poi_label:food_and_drink",
+          "poi_label:building",
+          "poi_label:lodging",
+          "poi_label:store_like",
+          "poi_label:park_like",
+          "poi_label:arts_and_entertainment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.969, 40.651]
+      },
+      "properties": {
+        "place_name": "Prospect Park Parade Grounds, New York NY, USA",
+        "zoom": 16,
+        "place_description": "park-like points of interest, highlighting outdoors styling",
+        "tags": [
+          "poi_label:park_like",
+          "poi_label:sport_and_leisure",
+          "poi_label:public_facilities",
+          "poi_label:building"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.974, 40.768]
+      },
+      "properties": {
+        "place_name": "Central Park, New York NY, USA",
+        "zoom": 16,
+        "place_description": "points of interest in an urban park",
+        "tags": [
+          "poi_label:park_like",
+          "poi_label:commercial_services",
+          "poi_label:sport_and_leisure",
+          "poi_label:building",
+          "poi_label:visitor_amenities",
+          "poi_label:arts_and_entertainment",
+          "poi_label:landmark"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.587, 37.748]
+      },
+      "properties": {
+        "place_name": "Yosemite Village CA, USA",
+        "zoom": 16,
+        "place_description": "campground in a national park",
+        "tags": [
+          "poi_label:arts_and_entertainment",
+          "poi_label:park_like",
+          "poi_label:public_facilities",
+          "poi_label:building",
+          "poi_label:store_like",
+          "poi_label:food_and_drink"
+        ]
+      }
     }
   ]
 }

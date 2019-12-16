@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "name": "terrain",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.034, -12.17]
+      },
+      "properties": {
+        "place_name": "Morro Solar, Chorrillos, Peru",
+        "zoom": 16,
+        "place_description": "Cliffs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.419, -29.405]
+      },
+      "properties": {
+        "place_name": "Drakensberg, Lesotho–South Africa",
+        "zoom": 13,
+        "place_description": "Contours."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.889, 28.373]
+      },
+      "properties": {
+        "place_name": "Annapurna Region, Nepal",
+        "zoom": 10,
+        "place_description": "Hillshades."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [167.492, -45.33]
+      },
+      "properties": {
+        "place_name": "Mount Maury, New Zealand",
+        "zoom": 12,
+        "place_description": "Hillshades."
+      }
+    }
+  ]
+}

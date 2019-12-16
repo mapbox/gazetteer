@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "name": "admin-boundaries",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.14, 17.891]
+      },
+      "properties": {
+        "place_name": "Belize-Guatemala-Campeche-Quintana Roo Border",
+        "zoom": 9,
+        "place_description": "Admin boundaries over land."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.666, 45.001]
+      },
+      "properties": {
+        "place_name": "US-Canada Border",
+        "zoom": 13,
+        "place_description": "Admin boundaries over water."
+      }
+    }
+  ]
+}

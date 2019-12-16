@@ -325,6 +325,42 @@
         "zoom": 16,
         "place_description": "Custom icons for U-Bahn (blue) and S-Bahn (green)."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.783, 40.642]
+      },
+      "properties": {
+        "place_name": "JFK International Airport",
+        "zoom": 12,
+        "place_description": "Airport label and aeroway features."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.666, 30.194]
+      },
+      "properties": {
+        "place_name": "Austin-Bergstrom International Airport",
+        "zoom": 12,
+        "place_description": "Airport label and aeroway features."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.902, 22.257]
+      },
+      "properties": {
+        "place_name": "Ngong Ping 360 Cable Car, Lantau",
+        "zoom": 18,
+        "place_description": "Aerialways."
+      }
     }
   ]
 }

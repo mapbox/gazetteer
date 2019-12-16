@@ -234,6 +234,145 @@
         "place_description": "Rail lines through the city grid.",
         "tags": ["road:tertiary", "road:street", "road:major_rail"]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41, 37.773]
+      },
+      "properties": {
+        "place_name": "US 101 and Interstate 80, San Francisco",
+        "zoom": 14,
+        "place_description": "Lengthy exits."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.107, 51.501]
+      },
+      "properties": {
+        "place_name": "London, UK",
+        "zoom": 8,
+        "place_description": "Low zoom highway styling."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.225, 51.575]
+      },
+      "properties": {
+        "place_name": "Brent Cross, London, UK",
+        "zoom": 14,
+        "place_description": "Mid zoom styling for motorway/trunks.",
+        "tags": [
+          "road:motorway",
+          "road:motorway_link",
+          "road:trunk",
+          "road:trunk_link"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.667, 45.53]
+      },
+      "properties": {
+        "place_name": "Rose Quarter, Portland, Washington",
+        "zoom": 17,
+        "place_description": "Overlapping roads and tracks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.143, 39.957]
+      },
+      "properties": {
+        "place_name": "Delaware Expressway, Philadelphia",
+        "zoom": 16,
+        "place_description": "One-way arrows on both highways and smaller roads."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.547, 37.853]
+      },
+      "properties": {
+        "place_name": "Marin Headlands, San Francisco",
+        "zoom": 14,
+        "place_description": "Tracks and paths.",
+        "tags": ["road:track"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.681, 39.766]
+      },
+      "properties": {
+        "place_name": "East Coast, United States",
+        "zoom": 8,
+        "place_description": "Shields at midzoom."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.811, 33.64]
+      },
+      "properties": {
+        "place_name": "Turtle Rock, Irvine",
+        "zoom": 16,
+        "place_description": "Turning circles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.067, 40.739]
+      },
+      "properties": {
+        "place_name": "Pulaski Skyway, Croxton, New Jersey",
+        "zoom": 18,
+        "tags": ["road:construction"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.404, 37.783]
+      },
+      "properties": {
+        "place_name": "SoMa, San Francisco",
+        "zoom": 15,
+        "tags": ["road:service"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.044, 38.9025]
+      },
+      "properties": {
+        "place_name": "K Street NW, Washington, DC",
+        "zoom": 18,
+        "tags": ["road:tertiary_link"]
+      }
     }
   ]
 }
