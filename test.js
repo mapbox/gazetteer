@@ -185,6 +185,55 @@ const acceptFloats = {
 
 assert(!validate(acceptFloats).length, validate(acceptFloats));
 
+const underMinBearing = {
+  type: 'FeatureCollection',
+  name: 'Penny',
+  features: [
+    {
+      type: 'Feature',
+      properties: {
+        place_name: 'Name',
+        zoom: 1,
+        bearing: -180
+      },
+      geometry: {
+        type: 'Point',
+        coordinates: [0, 0]
+      }
+    }
+  ]
+};
+
+assert(
+  validate(underMinBearing)[0] ===
+    '"bearing" must be larger than or equal to -179',
+  validate(underMinBearing)
+);
+
+const overMaxPitch = {
+  type: 'FeatureCollection',
+  name: 'Penny',
+  features: [
+    {
+      type: 'Feature',
+      properties: {
+        place_name: 'Name',
+        zoom: 1,
+        pitch: 180
+      },
+      geometry: {
+        type: 'Point',
+        coordinates: [0, 0]
+      }
+    }
+  ]
+};
+
+assert(
+  validate(overMaxPitch)[0] === '"pitch" must be less than or equal to 60',
+  validate(overMaxPitch)
+);
+
 const tagsRequireStrings = {
   type: 'FeatureCollection',
   name: 'Penny',

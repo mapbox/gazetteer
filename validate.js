@@ -19,6 +19,14 @@ const propertiesSchema = Joi.object()
       .min(0)
       .max(22)
       .required(),
+    pitch: Joi.number()
+      .integer()
+      .min(0)
+      .max(60),
+    bearing: Joi.number()
+      .integer()
+      .min(-179)
+      .max(180),
     tags: Joi.array().items(Joi.string())
   })
   .unknown();
