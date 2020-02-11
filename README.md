@@ -12,11 +12,11 @@ This package includes:
 - A validation utility for verifying a JSON object conforms to the [Gazetteer 1.0 specification](./gazetteer-spec/1.0/README.md).
 
 ```js
-import { worldwide, util } from '@mapbox/gazetteer';
+import { worldwide, validate } from '@mapbox/gazetteer';
 
 const { roadNetwork, settlements } = worldwide;
 
-util.lintGazetteer(roadNetwork); // Returns an array of error messages if invalid
+validate(roadNetwork); // Returns an array of error messages if invalid
 ```
 
 ### Releasing
