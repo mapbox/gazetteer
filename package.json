@@ -22,6 +22,7 @@
     "test": "node test.js"
   },
   "dependencies": {
+    "@hapi/joi": "^15.0.3",
     "@mapbox/geojsonhint": "^2.2.0"
   },
   "devDependencies": {
