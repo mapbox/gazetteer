@@ -1,5 +1,6 @@
 ### v5.0.0
 
+- Add pitch and bearing values to the spec and version as 1.1
 - Rename utils/lint-gazetteer to validate and export as a top level object
 - Drop 255 character validation of place_name as its not required from the spec
 - Use @hapi/joi for schema validation
