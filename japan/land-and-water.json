@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "name": "land-and-water",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7, 38.64]
+      },
+      "properties": {
+        "place_name": "Japan",
+        "zoom": 4,
+        "description": "The country of Japan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.7473707, 35.3741932]
+      },
+      "properties": {
+        "place_name": "Mt. Fuji",
+        "zoom": 11,
+        "description": "An example of a large physical feature."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.744404, 34.926704]
+      },
+      "properties": {
+        "place_name": "Ise Bay",
+        "zoom": 11,
+        "description": "An example of a bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.883559, 36.989925]
+      },
+      "properties": {
+        "place_name": "Osabi river",
+        "zoom": 15,
+        "description": "An example of a river."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.7797, 35.0287]
+      },
+      "properties": {
+        "place_name": "Lake Kuzuryu and Kuzuryu River",
+        "zoom": 14,
+        "description": "An example of a river and a lake."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.6461352, 39.7247761]
+      },
+      "properties": {
+        "place_name": "Lake Tazawa",
+        "zoom": 12,
+        "description": "An example of a lake."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.3596228, 40.7039967]
+      },
+      "properties": {
+        "place_name": "Misawa, Japan",
+        "zoom": 13,
+        "description": "An example of a airport."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.186321, 36.684913]
+      },
+      "properties": {
+        "place_name": "Toyama, Japan",
+        "zoom": 17,
+        "description": "An example of a hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.188042, 36.69415]
+      },
+      "properties": {
+        "place_name": "Toyama, Japan",
+        "zoom": 17,
+        "description": "An example of a school campus."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.321396, 35.419589]
+      },
+      "properties": {
+        "place_name": "Yonago, Japan",
+        "zoom": 14,
+        "description": "An example of landuse polygons for schools, hospitals, parks, and pitch."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.326542, 32.735059]
+      },
+      "properties": {
+        "place_name": "Shimabara, Japan",
+        "zoom": 16,
+        "description": "An example of a golf course."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.8991195, 35.163887]
+      },
+      "properties": {
+        "place_name": "Nagoya, Japan",
+        "zoom": 18,
+        "description": "An example of a park in Nagoya."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.933636, 35.20813]
+      },
+      "properties": {
+        "place_name": "Nagoya, Japan",
+        "zoom": 19,
+        "description": "An example of a river in Nagoya."
+      }
+    }
+  ]
+}

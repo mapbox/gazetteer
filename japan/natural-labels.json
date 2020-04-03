@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "name": "natural-labels",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.46, 38.47]
+      },
+      "properties": {
+        "place_name": "East Sea - Sea of Japan",
+        "zoom": 4,
+        "description": "An example of a large water feature label."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.3561, 36.067]
+      },
+      "properties": {
+        "place_name": "Lake Kasumigaura",
+        "zoom": 11,
+        "description": "An example of a smaller water feature label."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.091057, 32.486505]
+      },
+      "properties": {
+        "place_name": "Mimi River",
+        "zoom": 16,
+        "description": "An example of a waterway label."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.154086, 35.708079]
+      },
+      "properties": {
+        "place_name": "Mt. Kita",
+        "zoom": 12,
+        "description": "An example of a natural point label."
+      }
+    }
+  ]
+}

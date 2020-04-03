@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "name": "transit",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.73344, 35.61857]
+      },
+      "properties": {
+        "place_name": "Minato, Japan",
+        "zoom": 13,
+        "description": "Major rail lines outside of Tokyo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.478891, 36.370116]
+      },
+      "properties": {
+        "place_name": "Mito, Japan",
+        "zoom": 16,
+        "description": "An example of a rail station."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.567963, 31.591243]
+      },
+      "properties": {
+        "place_name": "Kagoshima, Japan",
+        "zoom": 17,
+        "description": "An example of ferry lines."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.773761, 35.6824484]
+      },
+      "properties": {
+        "place_name": "Tokyo, Japan",
+        "zoom": 20,
+        "description": "An example of transit stations and entrances."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7376941, 35.6840287]
+      },
+      "properties": {
+        "place_name": "Tokyo, Japan",
+        "zoom": 21,
+        "description": "Shields for Tokyo metro stops."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.5007272, 34.6841884]
+      },
+      "properties": {
+        "place_name": "Osaka, Japan",
+        "zoom": 21,
+        "description": "Shields for Osaka subway stops."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.69075, 34.827728]
+      },
+      "properties": {
+        "place_name": "Himeji, Japan",
+        "zoom": 17,
+        "description": "An example of underground rail stations and underground malls."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.865778, 35.191411]
+      },
+      "properties": {
+        "place_name": "Nagoya, Japan",
+        "zoom": 19,
+        "description": "An example of rail line crossing over a river."
+      }
+    }
+  ]
+}

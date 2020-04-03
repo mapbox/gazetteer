@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "name": "road-network",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.65132, 35.079108]
+      },
+      "properties": {
+        "place_name": "Japan",
+        "zoom": 8,
+        "description": "Major road networks and highway shields."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5996707, 42.6487807]
+      },
+      "properties": {
+        "place_name": "Tomakomai, Japan",
+        "zoom": 18,
+        "description": "Traffic stops and oneway arrows in Tomakomai."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.38677, 43.01335]
+      },
+      "properties": {
+        "place_name": "Kushiro, Japan",
+        "zoom": 15,
+        "description": "The city grid of Kushiro, Japan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.76827, 35.49391]
+      },
+      "properties": {
+        "place_name": "Obama, Japan",
+        "zoom": 15,
+        "description": "Road exit signs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7511314, 35.668594]
+      },
+      "properties": {
+        "place_name": "Tokyo, Japan",
+        "zoom": 12,
+        "description": "Tokyo's dense road network."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.005082, 35.170858]
+      },
+      "properties": {
+        "place_name": "Nagoya, Japan",
+        "zoom": 16,
+        "description": "An example of a dense road network outside of Nagoya."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.576208, 34.102612]
+      },
+      "properties": {
+        "place_name": "Tokushima, Japan",
+        "zoom": 16,
+        "description": "The intersection of motorways, trunks, and motorway links."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.568296, 33.557096]
+      },
+      "properties": {
+        "place_name": "Kochi, Japan",
+        "zoom": 18,
+        "description": "Bridges over water features."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.231664, 36.595319]
+      },
+      "properties": {
+        "place_name": "Nagano, Japan",
+        "zoom": 15,
+        "description": "Motorway tunnels."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.03488, 43.1791]
+      },
+      "properties": {
+        "place_name": "Otaru, Japan",
+        "zoom": 16,
+        "description": "Trunk tunnels."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.993642, 43.188037]
+      },
+      "properties": {
+        "place_name": "Otaru, Japan",
+        "zoom": 17,
+        "description": "Walking paths in a park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [142.379766, 43.754325]
+      },
+      "properties": {
+        "place_name": "Asahikawa, Japan",
+        "zoom": 12,
+        "description": "A street level view of Asahikawa."
+      }
+    }
+  ]
+}

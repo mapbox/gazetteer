@@ -5,7 +5,7 @@ const path = require('path');
 const assert = require('assert');
 const validate = require('./validate');
 
-const DIRECTORIES = ['benchmark', 'worldwide'];
+const DIRECTORIES = ['benchmark', 'worldwide', 'japan'];
 DIRECTORIES.forEach(d => {
   fs.readdir(path.resolve(__dirname, `./${d}`), (err, gazetteers) => {
     if (err) throw new Error(err);
