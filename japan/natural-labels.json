@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "natural-labels",
-  "data_layers": [],
   "features": [
     {
       "type": "Feature",

@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "transit",
-  "data_layers": [],
   "features": [
     {
       "type": "Feature",

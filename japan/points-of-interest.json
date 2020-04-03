@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "points-of-interest",
-  "data_layers": [],
   "features": [
     {
       "type": "Feature",

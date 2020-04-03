@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "land-and-water",
-  "data_layers": [],
   "features": [
     {
       "type": "Feature",

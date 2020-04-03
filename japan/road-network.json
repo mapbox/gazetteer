@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "road-network",
-  "data_layers": [],
   "features": [
     {
       "type": "Feature",

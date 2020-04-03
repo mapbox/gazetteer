@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "buildings",
-  "data_layers": [],
   "features": [
     {
       "type": "Feature",
