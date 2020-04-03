@@ -1,3 +1,7 @@
+### v5.1.0
+
+- Added locations for Japan [#50](https://github.com/mapbox/gazetteer/pull/50)
+
 ### v5.0.0
 
 - Add pitch and bearing values to the spec and version as 1.1
