@@ -2,7 +2,7 @@
 
 A single "gazetteer" in this project is a collection of places that are thematically related or relevant to a particular map styling task. Keeping the content of a gazetteer focused and clearly defined will help map designers pick suitable gazetteers for reviewing their map styling projects.
 
-A gazetteer is a json file which conforms to the [gazetteer spec](https://github.com/mapbox/gazetteer/tree/master/gazetteer-spec).
+A gazetteer is a json file which conforms to the [gazetteer spec](https://github.com/mapbox/gazetteer/tree/main/gazetteer-spec).
 
 You can contribute by either adding new places to an existing gazetteer file, or adding a new gazetteer file.
 
@@ -26,7 +26,7 @@ Typically, you’ll want to pick places that clearly display either:
 
 ### Suggestions for property values
 
-Refer to the [gazetteer spec](https://github.com/mapbox/gazetteer/tree/master/gazetteer-spec) for properties available to each place entry.
+Refer to the [gazetteer spec](https://github.com/mapbox/gazetteer/tree/main/gazetteer-spec) for properties available to each place entry.
 
 #### place_name
 
