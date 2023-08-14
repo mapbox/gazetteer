@@ -1,6 +1,6 @@
 {
   "name": "@mapbox/gazetteer",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Place bookmarks for maps",
   "main": "index.js",
   "repository": {
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@hapi/joi": "^15.0.3",
-    "@mapbox/geojsonhint": "^2.2.0"
+    "@mapbox/geojsonhint": "^3.1.0"
   },
   "devDependencies": {
     "husky": "^3.0.2",
