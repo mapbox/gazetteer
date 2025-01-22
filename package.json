@@ -1,6 +1,6 @@
 {
   "name": "@mapbox/gazetteer",
-  "version": "5.2.0-dev1",
+  "version": "5.2.0",
   "description": "Place bookmarks for maps",
   "main": "index.js",
   "repository": {
