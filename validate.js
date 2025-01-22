@@ -1,12 +1,10 @@
 'use strict';
 
-const geojsonhint = require('@mapbox/geojsonhint');
+const { getIssues } = require('@placemarkio/check-geojson');
 const Joi = require('@hapi/joi');
 
 const rootLevelSchema = Joi.object().keys({
-  type: Joi.string()
-    .valid('FeatureCollection')
-    .required(),
+  type: Joi.string().valid('FeatureCollection').required(),
   name: Joi.string().required(),
   features: Joi.array().required()
 });
@@ -15,18 +13,9 @@ const propertiesSchema = Joi.object()
   .keys({
     place_name: Joi.string().required(),
     place_description: Joi.string(),
-    zoom: Joi.number()
-      .min(0)
-      .max(22)
-      .required(),
-    pitch: Joi.number()
-      .integer()
-      .min(0)
-      .max(60),
-    bearing: Joi.number()
-      .integer()
-      .min(-179)
-      .max(180),
+    zoom: Joi.number().min(0).max(22).required(),
+    pitch: Joi.number().integer().min(0).max(60),
+    bearing: Joi.number().integer().min(-179).max(180),
     tags: Joi.array().items(Joi.string())
   })
   .unknown();
@@ -34,8 +23,8 @@ const propertiesSchema = Joi.object()
 function validate(gazetteer) {
   const errors = [];
 
-  geojsonhint.hint(gazetteer).forEach(err => {
-    errors.push(err.message);
+  getIssues(JSON.stringify(gazetteer)).forEach(issue => {
+    errors.push(issue.message);
   });
 
   // Return early if errors were caught from geojsonhint.

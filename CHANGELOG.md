@@ -1,3 +1,9 @@
+### v5.2.0
+
+- Replace `@mapbox/geojsonhint` with `@placemarkio/check-geojson` for validation [#64](https://github.com/mapbox/gazetteer/pull/64)
+- Update prettier, pretty-quick and husky to fix npm audit issues
+- Apply prettier to all files
+
 ### v5.1.0
 
 - Added locations for Japan [#50](https://github.com/mapbox/gazetteer/pull/50)

@@ -26,7 +26,8 @@ const badTypeValue = {
 };
 
 assert(
-  validate(badTypeValue)[0] === 'The type foo is unknown',
+  validate(badTypeValue)[0] ===
+    'This type of GeoJSON object is not allowed here.',
   validate(badTypeValue)
 );
 
@@ -37,8 +38,7 @@ const badDataTypeForFeatures = {
 };
 
 assert(
-  validate(badDataTypeForFeatures)[0] ===
-    '"features" member should be an array, but is an string instead',
+  validate(badDataTypeForFeatures)[0] === 'This must be an array.',
   validate(badDataTypeForFeatures)
 );
 
