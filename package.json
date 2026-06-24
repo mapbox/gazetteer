@@ -1,13 +1,16 @@
 {
   "name": "@mapbox/gazetteer",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "description": "Place bookmarks for maps",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/mapbox/gazetteer.git"
   },
-  "keywords": ["reference", "locations"],
+  "keywords": [
+    "reference",
+    "locations"
+  ],
   "author": "Mapbox",
   "license": "ISC",
   "bugs": {
@@ -31,5 +34,8 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
